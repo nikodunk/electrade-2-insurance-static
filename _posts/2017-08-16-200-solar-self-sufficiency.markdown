@@ -9,7 +9,7 @@ categories:
 ![](/blog/img/magic.gif)
 
 
-  ![](/blog/img/magic.gif) 						  |  ![](/blog/img/kit/2.jpg) |  ![](/blog/img/kit/3.jpg)
+  ![](/blog/img/magic.gif) 						  |  ![](/blog/img/magic.gif) |  ![](/blog/img/magic.gif)
 :------------------------------------------------:|:-------------------------:|:-------------------------:
 Newpowa 100 Watts 12 Volts Polychris Solar Panel  |						      |
 
