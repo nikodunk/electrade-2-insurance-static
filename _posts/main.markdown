@@ -68,8 +68,6 @@ categories:
 	</span>
          
 
-</div>
-
 
 The problem
 ===========
