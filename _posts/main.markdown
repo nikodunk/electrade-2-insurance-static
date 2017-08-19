@@ -9,40 +9,7 @@ categories:
 
 
                
-<div style="font-size: .8rem;">Newpowa 100 Watts 12 Volts Polychris Solar Panel</div>
-<span style="font-size: .8rem"><b>$97.80</b></span>
 
-<div style="font-size: .8rem;">HQST 20Ft 12AWG MC4 Solar Adaptor Cable</div>
-<span style="font-size: .8rem"><b>$22.99</b></span>
-
-            
-
-<div  style="font-size: .8rem;">Solar Charge Controller 20A 12V/24V</div>
-<span style="font-size: .8rem"><b>$17.99</b></span>
-
-<div style="font-size: .8rem;">Battery Alligator Clips with Disconnect Cable</div>
-<span style="font-size: .8rem"><b>$5.93</b></span>
-
-            
-
-          
-
-<div  style="font-size: .8rem;">ExpertPower Sealed Lead Acid Battery 12V 35Ah</div>
-<span style="font-size: .8rem"><b>$65.00</b></span>
-
-            
-
-          
-
-<div style="font-size: .8rem;">EPAuto 150W Car Power Inverter DC 12V/110V AC</div>
-<span style="font-size: .8rem"><b>$14.87</b></span>
-
-
-
-
-<span style="text-align: center;">
-    <b>Current total: $224.98</b><br>
-</span>
          
 
 
@@ -225,9 +192,14 @@ Note however that after 8 years of daily use the lead-acid deep discharge batter
 How green is it?
 Does it have an impact on my CO2 footprint? Back of the envelope:
 
-	Production footprint PV multicristalline: 4200kWhee/kW [1] * 0.1kW = 420kWh embodied energy
-	Production footprint lead-acid battery: 321kWhee/kWh [1] * 0.5kWh = 161kWh embodied energy
+	Production footprint PV multicristalline: 
+	4200kWhee/kW [1] * 0.1kW = 420kWh embodied energy
+	
+	Production footprint lead-acid battery: 
+	321kWhee/kWh [1] * 0.5kWh = 161kWh embodied energy
+
 	Total Footprint: 581kWh
+	
 	Annual energy production system: 155kWh/y
 	Payback period: 581kWh / 155kWh/y = 4+ year footprint payback
 	[1] http://renew.org.au/articles/energy-flows-how-green-is-my-solar/
