@@ -5,7 +5,7 @@ date:   2017-07-20 08:00:00 -0700
 categories: 
 ---
 
-![](/blog/img/MAGIC.gif)
+![](/blog/img/magic.gif)
 
 
 <div class="row" style="align-items: center; text-align: center">
