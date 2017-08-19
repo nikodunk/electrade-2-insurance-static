@@ -9,9 +9,9 @@ categories:
 ![](/blog/img/magic.gif)
 
 
-  ![](/blog/img/magic.gif) 						  |  ![](/blog/img/magic.gif) |  ![](/blog/img/magic.gif)
-:------------------------------------------------:|:-------------------------:|:-------------------------:
-Newpowa 100 Watts 12 Volts Polychris Solar Panel  |						      |
+  ![](/blog/img/magic.gif) 						  |  ![](/blog/img/magic.gif) |  ![](/blog/img/magic.gif) | ![](/blog/img/magic.gif) | ![](/blog/img/magic.gif) |
+:----------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+Newpowa 100 Watts 12 Volts Polychris Solar Panel  |				asdf		      | adsf | asdf | asdf | asdf
 
 
 
