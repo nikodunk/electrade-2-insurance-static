@@ -4,7 +4,7 @@ title:  "$200 Solar Self-Sufficiency – without your landlord noticing."
 date:   2017-07-20 08:00:00 -0700
 categories: 
 ---
-<div style="font-size: .8rem">
+
 <span style="text-align: center;">
     <b>The ingredients</b><br>
 </span>
@@ -18,7 +18,7 @@ $97.80 | $22.99 |  $17.99 | $5.93 | $65.00 | $14.87
 <span style="text-align: center;">
     <b>Current total: $224.98</b><br>
 </span>
-</div>
+
          
 
 
