@@ -5,67 +5,67 @@ date:   2017-07-20 08:00:00 -0700
 categories: 
 ---
 
+![](/blog/img/MAGIC.gif)
 
 
-<div class="row" style="align-items: center; text-align: center">
                 
-	<div class="col-4 col-md-2" style="height: 200px; overflow: hidden; text-overflow: ellipsis">
-	    
-	    <img border="0" style="max-height: 100px" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00L6LZRXM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nikodunk0c-20" >
-	    <div style="font-size: .8rem;">Newpowa 100 Watts 12 Volts Polychris Solar Panel</div>
-	    <span style="font-size: .8rem"><b>$97.80</b></span>
-	</div>
-	                
+<div class="col-4 col-md-2" style="height: 200px; overflow: hidden; text-overflow: ellipsis">
+    
+    <img border="0" style="max-height: 100px" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00L6LZRXM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nikodunk0c-20" >
+    <div style="font-size: .8rem;">Newpowa 100 Watts 12 Volts Polychris Solar Panel</div>
+    <span style="font-size: .8rem"><b>$97.80</b></span>
+</div>
+                
 
-	              
-	<div class="col-4 col-md-2" style="height: 200px; overflow: hidden; text-overflow: ellipsis">
-	    
-	    <img border="0" style="max-height: 100px" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B017PI2OUS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nikodunk0c-20" >
-	    <div style="font-size: .8rem;">HQST 20Ft 12AWG MC4 Solar Adaptor Cable</div>
-	    <span style="font-size: .8rem"><b>$22.99</b></span>
-	</div>
-	                
-	              
-	              
-	<div class="col-4 col-md-2" style="height: 200px; overflow: hidden; text-overflow: ellipsis">
-	    
-	    <img border="0" style="max-height: 100px" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071FK3GWY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nikodunk0c-20" >
-	    <div  style="font-size: .8rem;">Solar Charge Controller 20A 12V/24V</div>
-	    <span style="font-size: .8rem"><b>$17.99</b></span>
-	</div>
-	                
+              
+<div class="col-4 col-md-2" style="height: 200px; overflow: hidden; text-overflow: ellipsis">
+    
+    <img border="0" style="max-height: 100px" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B017PI2OUS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nikodunk0c-20" >
+    <div style="font-size: .8rem;">HQST 20Ft 12AWG MC4 Solar Adaptor Cable</div>
+    <span style="font-size: .8rem"><b>$22.99</b></span>
+</div>
+                
+              
+              
+<div class="col-4 col-md-2" style="height: 200px; overflow: hidden; text-overflow: ellipsis">
+    
+    <img border="0" style="max-height: 100px" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071FK3GWY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nikodunk0c-20" >
+    <div  style="font-size: .8rem;">Solar Charge Controller 20A 12V/24V</div>
+    <span style="font-size: .8rem"><b>$17.99</b></span>
+</div>
+                
 
-	              
-	<div class="col-4 col-md-2" style="height: 200px; overflow: hidden; text-overflow: ellipsis">
-	    
-	    <img border="0" style="max-height: 100px" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000ND0WB6&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nikodunk0c-20" >
-	    <div style="font-size: .8rem;">Battery Alligator Clips with Disconnect Cable</div>
-	    <span style="font-size: .8rem"><b>$5.93</b></span>
-	  </div>
-	                
+              
+<div class="col-4 col-md-2" style="height: 200px; overflow: hidden; text-overflow: ellipsis">
+    
+    <img border="0" style="max-height: 100px" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000ND0WB6&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nikodunk0c-20" >
+    <div style="font-size: .8rem;">Battery Alligator Clips with Disconnect Cable</div>
+    <span style="font-size: .8rem"><b>$5.93</b></span>
+  </div>
+                
 
-	              
-	<div class="col-4 col-md-2" style="height: 200px; overflow: hidden; text-overflow: ellipsis">
-	    
-	    <img border="0" style="max-height: 100px" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015DJ4QX4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nikodunk0c-20" >
-	    <div  style="font-size: .8rem;">ExpertPower Sealed Lead Acid Battery 12V 35Ah</div>
-	    <span style="font-size: .8rem"><b>$65.00</b></span>
-	</div>
-	                
+              
+<div class="col-4 col-md-2" style="height: 200px; overflow: hidden; text-overflow: ellipsis">
+    
+    <img border="0" style="max-height: 100px" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015DJ4QX4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nikodunk0c-20" >
+    <div  style="font-size: .8rem;">ExpertPower Sealed Lead Acid Battery 12V 35Ah</div>
+    <span style="font-size: .8rem"><b>$65.00</b></span>
+</div>
+                
 
-	              
-	<div class="col-4 col-md-2" style="height: 200px; overflow: hidden; text-overflow: ellipsis">
-	  
-	  <img border="0" style="max-height: 100px" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01NAUV18K&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nikodunk0c-20" >
-	  <div style="font-size: .8rem;">EPAuto 150W Car Power Inverter DC 12V/110V AC</div>
-	  <span style="font-size: .8rem"><b>$14.87</b></span>
-	</div>
+              
+<div class="col-4 col-md-2" style="height: 200px; overflow: hidden; text-overflow: ellipsis">
+  
+  <img border="0" style="max-height: 100px" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01NAUV18K&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nikodunk0c-20" >
+  <div style="font-size: .8rem;">EPAuto 150W Car Power Inverter DC 12V/110V AC</div>
+  <span style="font-size: .8rem"><b>$14.87</b></span>
+</div>
 
-	</div>
 
-	<span style="text-align: center;">
-	    <b>Current total: $224.98</b><br>
-	</span>
+
+<span style="text-align: center;">
+    <b>Current total: $224.98</b><br>
+</span>
          
 
 
@@ -222,8 +222,6 @@ What if autonomous electric generation could be added room by room to a househol
 							   |
 
 Solar as a modular consumer electronic — like air conditioning and satellite dishes? If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning. This could be a cool Kickstarter project in the future… or a just fun DIY project today.
-
-![](/blog/img/MAGIC.gif)
 
 Epilogue: Numbers for nerds
 ===========================
