@@ -1,0 +1,17 @@
+# Setup
+title:        $200 Solar Self-Sufficiency – without your landlord noticing.
+tagline:      A guide to building solar micro-grids with parts from Amazon.
+baseurl:      "/gridlesskits/"
+paginate:     1
+
+# About/contact
+author:
+  name:       Author name
+  url:        http://nikodunk.github.io/gridlesskits
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
