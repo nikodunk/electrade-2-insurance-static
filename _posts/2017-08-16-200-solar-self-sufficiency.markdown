@@ -9,7 +9,7 @@ categories:
     <b>The ingredients</b><br>
 </span>
 
-  ![](/blog/img/magic.gif)   |  ![](/blog/img/magic.gif) |  ![](/blog/img/magic.gif) | ![](/blog/img/magic.gif) | ![](/blog/img/magic.gif) | ![](/blog/img/magic.gif) 
+  ![](/blog/img/kit/1.jpg)   |  ![](/blog/img/magic.gif) |  ![](/blog/img/magic.gif) | ![](/blog/img/magic.gif) | ![](/blog/img/magic.gif) | ![](/blog/img/magic.gif) 
 :----------------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 Newpowa 100 Watts 12 Volts Polychris Solar Panel  | HQST 20Ft 12AWG MC4 Solar Adaptor Cable |  Solar Charge Controller 20A 12V/24V | Battery Alligator Clips with Disconnect Cable | ExpertPower Sealed Lead Acid Battery 12V 35Ah | EPAuto 150W Car Power Inverter DC 12V/110V AC
 $97.80 | $22.99 |  $17.99 | $5.93 | $65.00 | $14.87
