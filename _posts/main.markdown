@@ -223,6 +223,8 @@ What if autonomous electric generation could be added room by room to a househol
 
 Solar as a modular consumer electronic — like air conditioning and satellite dishes? If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning. This could be a cool Kickstarter project in the future… or a just fun DIY project today.
 
+![](/blog/img/MAGIC.gif)
+
 Epilogue: Numbers for nerds
 ===========================
 How long until it saves me money?
@@ -261,6 +263,7 @@ An eventual product would use Lithium-Ion batteries once they come down in price
 
 Energy independence and resilience
 In case of brownouts or blackouts, this would be a helpful way of wirelessly charging communications devices without the grid. A 200W system could even keep a small 60W, 12V refrigerator cool enough to conserve food (14hours of operation/day, cooling down 32 degrees below ambient temp). If energy prices increase (double? triple?) due to unforeseen events in the future, the financial perspective may even make sense with payback periods decreasing to four or even 2.8 years for the 100W system or for the 200W system to 3 years or 2 years, respectively. At under 2 years payback period, we’d be in similar consumer territory to 2-year phone contracts. Let’s hope components continue to get cheaper! (or energy prices increase — but I’d rather not hope for that)
+
 
 Credits
 =======
