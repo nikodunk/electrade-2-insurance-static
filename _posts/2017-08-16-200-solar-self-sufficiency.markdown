@@ -6,6 +6,7 @@ categories:
 ---
 
 ![](/blog/img/magic.gif)
+![](/blog/img/magic.gif)
 
 
   ![](/blog/img/kit/1.jpg) 						  |  ![](/blog/img/kit/2.jpg) |  ![](/blog/img/kit/3.jpg)
