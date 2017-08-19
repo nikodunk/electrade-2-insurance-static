@@ -6,7 +6,7 @@ categories:
 ---
 
 <span style="text-align: center;">
-    <b>The ingredients</b><br>
+    <p><b>The ingredients</b></p>
 </span>
 
   ![](/blog/img/kit/1.jpeg)   |  ![](/blog/img/magic.gif) |  ![](/blog/img/magic.gif) | ![](/blog/img/magic.gif) | ![](/blog/img/magic.gif) | ![](/blog/img/magic.gif) 
@@ -16,7 +16,7 @@ $97.80 | $22.99 |  $17.99 | $5.93 | $65.00 | $14.87
 
            
 <span style="text-align: center;">
-    <b>Current total: $224.98</b><br>
+    <p><b>Current total: $224.98</b></p>
 </span>
 
          
