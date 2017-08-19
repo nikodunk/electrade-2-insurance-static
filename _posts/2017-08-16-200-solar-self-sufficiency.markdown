@@ -8,7 +8,40 @@ categories:
 ![](/blog/img/MAGIC.gif)
 
 
-               
+<div style="font-size: .8rem;">Newpowa 100 Watts 12 Volts Polychris Solar Panel</div>
+<span style="font-size: .8rem"><b>$97.80</b></span>
+
+<div style="font-size: .8rem;">HQST 20Ft 12AWG MC4 Solar Adaptor Cable</div>
+<span style="font-size: .8rem"><b>$22.99</b></span>
+
+            
+
+<div  style="font-size: .8rem;">Solar Charge Controller 20A 12V/24V</div>
+<span style="font-size: .8rem"><b>$17.99</b></span>
+
+<div style="font-size: .8rem;">Battery Alligator Clips with Disconnect Cable</div>
+<span style="font-size: .8rem"><b>$5.93</b></span>
+
+            
+
+          
+
+<div  style="font-size: .8rem;">ExpertPower Sealed Lead Acid Battery 12V 35Ah</div>
+<span style="font-size: .8rem"><b>$65.00</b></span>
+
+            
+
+          
+
+<div style="font-size: .8rem;">EPAuto 150W Car Power Inverter DC 12V/110V AC</div>
+<span style="font-size: .8rem"><b>$14.87</b></span>
+
+
+
+
+<span style="text-align: center;">
+    <b>Current total: $224.98</b><br>
+</span>           
 
          
 
