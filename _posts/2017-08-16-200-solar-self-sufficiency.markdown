@@ -26,7 +26,7 @@ The problem
 
 Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.
 
-![](/blog/img/PROBLEM.png)
+![](/img/PROBLEM.png)
 
 An additional speed bump is the complexity of installing solar: regulation around net-metering. Grid-tied systems. Installation permits (even if you do own your property). Getting quotes from different installers. Solar financing. All complex processes inherited from the construction industry which slow down mass private adoption of renewables.
 
@@ -43,7 +43,7 @@ A possible solution
 ===================
 A windowsill solar system bought off Amazon solves both problems at once: Renters don’t need permission from their landlords to place things on their windowsill and rooftops if it’s not altering the building, and it’s a one-click Amazon purchase with no regulation as long as it’s not tied to the grid (which mine is designed not to be). Two birds with one stone. This makes the solar buying process more like buying a consumer electronic.
 
-![](/blog/img/TEASER.jpg)
+![](/img/TEASER.jpg)
 
 Questions remain. Can this system make any meaningful energy? Does it make financial sense?
 
@@ -57,7 +57,7 @@ Questions remain. Can this system make any meaningful energy? Does it make finan
 The components
 ==============
 
-![](/blog/img/AMAZON.jpg)
+![](/img/AMAZON.jpg)
 
 My goal is to take care of the energy needs for just my bedroom. 4 main components are all we need to achieve this: A solar panel to collect, a battery to store, an inverter to convert the direct current to alternating current, and a “charge controller” to balance the three other components. I’m using bargain-basement parts intended for RV, marine & car usage which keeps my system cheap and mobile. Total component cost is $211 ($230 after shipping & taxes). The main components as found on Amazon are above. Anyone looking to build a similar system themselves can view the full component list <a href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=nikodunk0c-20&ASIN.1=B00L6LZRXM&Quantity.1=1&ASIN.2=B015DJ4QX4&Quantity.2=1&ASIN.3=B071FK3GWY&Quantity.3=1&ASIN.4=B01NAUV18K&Quantity.4=1&ASIN.5=B017PI2OUS&Quantity.5=1&ASIN.6=B000ND0WB6&Quantity.6=1" onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');">here</a> (tweet your build <a href="http://twitter.com/gridlesskits" onclick="ga('send', 'event', 'Twitter', 'clicked', 'Top');"" target="_blank">@gridlesskits</a>, how it went and what we can improve! We'll repost – and we'd love to know!). Or, you can  <a href="https://cash.me/$nikodunk" onclick="ga('send', 'event', 'Reserve', 'clicked', 'Top');"> reserve a system</a> and we'll send you one pre-assembled in the mail.
 
@@ -65,7 +65,7 @@ My goal is to take care of the energy needs for just my bedroom. 4 main componen
 
 
 
-![](/blog/img/BOXES.jpg)   |  ![](/blog/img/COMPONENTS.jpg)
+![](/img/BOXES.jpg)   |  ![](/img/COMPONENTS.jpg)
 :-------------------------:|:-------------------------:
 						   |
 
@@ -89,36 +89,36 @@ Assembly
 ========
 Hopefully you can adapt my system to your spatial situation pretty easily:
 
-![](/blog/img/ASSEMBLY1.jpg) | ![](/blog/img/ASSEMBLY2.jpg)
+![](/img/ASSEMBLY1.jpg) | ![](/img/ASSEMBLY2.jpg)
 :---------------------------:|:-------------------------:
 							 |
 
 
-![](/blog/img/ASSEMBLY3.jpg)
+![](/img/ASSEMBLY3.jpg)
 
 <b>Step 1</b> Cut and lay bare the end of the battery & inverter wires (battery disconnected, please). The panel’s wires are already bare on one end. Do a dry run connecting battery, inverter and panel to the controller — it should look like above.
 
-![](/blog/img/ASSEMBLY4.jpg)
+![](/img/ASSEMBLY4.jpg)
 
  
-![](/blog/img/ASSEMBLY4-1.jpg) | ![](/blog/img/ASSEMBLY4-2.jpg)
+![](/img/ASSEMBLY4-1.jpg) | ![](/img/ASSEMBLY4-2.jpg)
 :-----------------------------:|:-------------------------:
 							   |
 
 <b>Step 2</b> Detach the panel wires again and place the panel on the rooftop or wherever you get the most sunlight (…garden …balcony …). Attach the panel to something: I zip-tied the back of the panel to a cable which I fastened on both ends around sturdy roof pipes...
 
-![](/blog/img/ASSEMBLY5.jpg) | ![](/blog/img/ASSEMBLY6.jpg)
+![](/img/ASSEMBLY5.jpg) | ![](/img/ASSEMBLY6.jpg)
 :-----------------------------:|:-------------------------:
 							   |
 
 
 ...and run the power lines back to your apartment (drop down the facade and into the window in my case).
 
-![](/blog/img/INSIDE.jpg)
+![](/img/INSIDE.jpg)
 
 <b>Step 3</b> Assemble the solar controller, inverter and battery into a tighter package. Re-clamp the wire from the panel to the solar controller and close the window. It should look as above. The charge begins!
 
-![](/blog/img/SELF-SUFFICIENCY.jpg)
+![](/img/SELF-SUFFICIENCY.jpg)
 
 In the evening, turn on the inverter. My lamp, computer, tablet & phone are all being powered simultaneously here on the day’s solar charge! Self sufficiency achieved?
 
@@ -146,7 +146,7 @@ In San Francisco we get 4.26 hours of usable sunshine a day (or 1156 hours a yea
 
 This should be easily met by the solar system. I turn the inverter on when I get home to use AC lights and charge the Macbook through the power brick, and turn it off before I go to bed to avoid energy drain. My phone’s USB (which is direct current) can charge all night straight through the solar controller itself (which has USB ports) and doesn’t require the inverter. My laptop is a DC device and could be charged straight off the 12V battery, but I found it easier to just charge it with the AC power brick through the inverter.
 
-![](/blog/img/GENERATION.jpg) | ![](/blog/img/GENERATION2.jpg)
+![](/img/GENERATION.jpg) | ![](/img/GENERATION2.jpg)
 :-----------------------------:|:-------------------------:
 							   |
 
@@ -156,7 +156,7 @@ Learnings
 =========
 This project started with a simple idea: What if energy generation was a consumer electronic you could order off Amazon? I’ve learned that basic electrical knowledge and a little assembly bring us very close to this ideal: Self-contained renewable lighting and charging is achieved with a simple $211 setup off Amazon.
 
-![](/blog/img/FINAL.jpg) | ![](/blog/img/FINAL2.jpg)
+![](/img/FINAL.jpg) | ![](/img/FINAL2.jpg)
 :-----------------------------:|:-------------------------:
 							   |
 
@@ -169,7 +169,7 @@ Conclusion & Outlook
 ====================
 What if autonomous electric generation could be added room by room to a household (like window A/C units)? We could outfit all 7 rooms of my (shared) household for around $1400 with this system today. Because the kitchen and bathrooms have way higher energy usages (fridge, stove, water heater) than the other rooms, a more sophisticated system could mesh the batteries together (wirelessly?) to create a stronger system that sends power to the rooms that need it most. This system could also discharge the batteries systematically as the price of grid power changes and the sun moves around the house.
 
-![](/blog/img/DISHES.jpg) | ![](/blog/img/AC.jpg)
+![](/img/DISHES.jpg) | ![](/img/AC.jpg)
 :-----------------------------:|:-------------------------:
 							   |
 
