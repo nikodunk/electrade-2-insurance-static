@@ -11,8 +11,8 @@ categories:
 
   ![](/blog/img/gaggi1.jpg)   |  ![](/blog/img/gaggi2.JPG) |  ![](/blog/img/gaggi3.jpeg) | ![](/blog/img/gaggi4.jpeg) | ![](/blog/img/gaggi5.jpg) | ![](/blog/img/gaggi6.jpg) 
 :----------------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<small>Newpowa 100 Watts 12 Volts Polychris Solar Panel</small>  | <small>HQST 20Ft 12AWG MC4 Solar Adaptor Cable</small> |  Solar Charge Controller 20A 12V/24V | Battery Alligator Clips with Disconnect Cable | ExpertPower Sealed Lead Acid Battery 12V 35Ah | EPAuto 150W Car Power Inverter DC 12V/110V AC
-$97.80 | $22.99 |  $17.99 | $5.93 | $65.00 | $14.87
+<small><small>Newpowa 100 Watts 12 Volts Polychris Solar Panel<small></small>  | <small><small>HQST 20Ft 12AWG MC4 Solar Adaptor Cable</small></small> |  <small><small>Solar Charge Controller 20A 12V/24V</small></small> | <small><small>Battery Alligator Clips with Disconnect Cable</small></small> | <small><small>ExpertPower Sealed Lead Acid Battery 12V 35Ah</small></small> | <small><small>EPAuto 150W Car Power Inverter DC 12V/110V AC</small></small>
+<small>$97.80</small> | <small>$22.99</small> |  <small>$17.99</small> | <small>$5.93</small> | <small>$65.00</small> | <small>$14.87</small>
 
            
 
