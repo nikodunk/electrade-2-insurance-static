@@ -1,7 +1,7 @@
 # Setup
 title:        Homebrew Solar
 tagline:      A guide to building solar micro-grids in your bedroom with sub-$300 parts off Amazon. Solar self-sufficiency – without your landlord noticing. Today's total for the basic ingredients is $224.98
-baseurl:      "/gridlesskits/"
+baseurl:      ""
 paginate:     1
 
 # About/contact
