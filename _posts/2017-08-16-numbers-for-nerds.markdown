@@ -5,6 +5,9 @@ date:   2017-07-20 08:00:00 -0700
 categories: 
 ---
 
+How to calculate payback and greenness of homebrew solar
+========================================================
+
 
 How long until it saves me money?
 The reason this system is so simple is because it doesn’t tie in to your apartment’s behind-the-meter electrical grid. This means the system is clean, but it also doesn’t feed into electrical heavyweights like your water heater, refrigerator and washer/dryer. It does charge anything you plug into it though. So can the system save me money? Back of the envelope:
