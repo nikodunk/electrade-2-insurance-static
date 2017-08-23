@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "$200 Solar Self-Sufficiency – without your landlord noticing."
+title:  "The Story & Self-Test"
 date:   2017-07-20 08:00:00 -0700
 categories: 
 ---

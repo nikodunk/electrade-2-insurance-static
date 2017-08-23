@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to calculate payback and greenness of solar"
+title:  "How to calculate payback and greenness of homebrew solar"
 date:   2017-07-20 08:00:00 -0700
 categories: 
 ---
