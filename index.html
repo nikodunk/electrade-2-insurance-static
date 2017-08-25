@@ -6,7 +6,7 @@ title: {{ site.name }}
 
 <div id="home">
   <h1>Posts</h1>
-  <img src="img/teaser.jpg" style="max-width: 50%; float: right">
+  <img src="/img/teaser.jpg" style="max-width: 50%; float: right">
   <ul class="" style="max-width: 50%">
     {% for post in site.posts %}
       <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><br>
