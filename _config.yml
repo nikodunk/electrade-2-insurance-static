@@ -1,8 +1,8 @@
 # Setup
-title:        Homebrewed Solar.
-tagline:      Build a micro-grid in your bedroom with parts off Amazon.<br>Solar self-sufficiency – without your landlord noticing. Today the basic kit is $224.98
+title:        Homebrew Solar.
+tagline:      We help hackers build micro-grids in their bedrooms with parts off Amazon. Solar self-sufficiency – without your landlord noticing. Today the basic components cost is $224.98
 baseurl:      ""
-paginate:     1
+paginate:     3
 
 # About/contact
 author:
