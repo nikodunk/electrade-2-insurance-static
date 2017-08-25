@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Guide & Assembly"
-date:   2017-03-20 08:00:00 -0700
+date:   2017-04-28 08:00:00 -0700
 ---
 
   

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Experimenting with Solar"
-date:   2017-06-28 08:00:00 -0700
+title:  "Experimenting with Solar Self-Sufficiency"
+date:   2017-03-20 08:00:00 -0700
 ---
 
 
