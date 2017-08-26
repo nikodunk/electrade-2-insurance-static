@@ -4,5 +4,19 @@ layout: default
 
 <!-- <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>  -->
+  <ul class="" style="max-width: 50%">
+    {% for post in site.posts %}
+      <!-- <span>{{ post.date | date_to_string }}</span> --> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><br>
+    {% endfor %}
+  </ul>
+
 
 {{ content }}
+
+<hr>
+
+  <ul class="" style="max-width: 50%">
+    {% for post in site.posts %}
+      <!-- <span>{{ post.date | date_to_string }}</span> --> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><br>
+    {% endfor %}
+  </ul>
