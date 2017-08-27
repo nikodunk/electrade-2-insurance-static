@@ -16,11 +16,11 @@ title: {{ site.name }}
   <br>
   <hr><br>
   <ul class="posts">
-
-      <span>{{ site.posts[0].date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ site.posts[0].url }}">{{ post.title }}</a><br><br><br>
-      {{site.posts[0].content}}
+    {% for post in site.posts %}
+      <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><br><br>
+      {{post.content}}
       <br><hr><br>
-
+    {% endfor %}
   </ul>
 
 
