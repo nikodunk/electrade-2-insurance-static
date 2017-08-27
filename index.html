@@ -6,10 +6,10 @@ title: {{ site.name }}
 
 <div id="home">
   <h3 >Articles</h3>
-  <img src="img/TEASER.jpg" style="max-width: 50%; float: right">
-  <ul class="" style="max-width: 50%">
+  <img src="img/TEASER.jpg" style="max-width: 50%; float: right; padding: 10px">
+  <ul class="" style="">
     {% for post in site.posts %}
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><br>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li><br>
     {% endfor %}
   </ul>
 
