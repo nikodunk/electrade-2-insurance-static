@@ -17,11 +17,13 @@ Attached Sean's great system:
 
 
 ![](/img/burningman1.JPG)
+The panel is mounted on top of the car at a fixed angle. The cables lead to back to the box next to the tent.
 
 ![](/img/burningman2.JPG)
+Next to the tent, the toolbox contains the battery, inverter and controller. Next to it is a swamp cooler and a cable leading into the tent for fans, chargers and lights.
 
 ![](/img/burningman3.JPG)
-
+Sean's running a great modified system – DC power goes to the swamp cooler's fan, the battery is laid into the tool tray. Plenty of extra space in this toolbox.
 
 
 
