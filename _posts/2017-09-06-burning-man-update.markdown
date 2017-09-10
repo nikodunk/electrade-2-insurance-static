@@ -28,3 +28,5 @@ Sean's running a great modified system – DC power goes to the swamp cooler's 
 
 
 We're going to add a box to the recommended kit, to give it a more rugged and finished look for outdoors and festival use.
+
+See Tech Specs and the How-To Guide for more info.
