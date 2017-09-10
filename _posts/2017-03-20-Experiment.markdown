@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Experimenting with Solar Self-Sufficiency"
+title:  "Trying to live self sufficiently in my room"
 date:   2017-03-20 08:00:00 -0700
 ---
 

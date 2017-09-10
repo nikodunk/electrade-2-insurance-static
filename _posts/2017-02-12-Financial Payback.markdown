@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Financial Payback Calculator"
+title:  "Financial Payback Calculations"
 date:   2017-02-12 08:00:00 -0700
 ---
 
