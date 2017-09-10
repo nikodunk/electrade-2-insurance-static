@@ -25,7 +25,12 @@ Next to the tent, the toolbox contains the battery, inverter and controller. Nex
 ![](/img/burningman3.JPG)
 Sean's running a great modified system – DC power goes to the swamp cooler's fan, the battery is laid into the tool tray. Plenty of extra space in this toolbox.
 
+	Sean listed the main three reasons he decided to build his own system vs. bringing a diesel generator:
+	* No Fuel Required
+	* No Noise
+	* Compact
 
+	A simple "green" (his words) system that's capable of running a swamp cooler (6 hours into the night, before the sun comes up and charges the battery again), charging his devices and running a fan inside.
 
 We're going to add a box to the recommended kit, to give it a more rugged and finished look for outdoors and festival use.
 
