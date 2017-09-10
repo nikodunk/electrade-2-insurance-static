@@ -1,12 +1,12 @@
 # Setup
 title:        Build A Personal Power Plant For $200.
-tagline:      A compact solar generator to provide silent, fuel-free power for off-grid appliances at home, power outages, camping or festivals.
+tagline:      A compact solar generator to provide silent, fuel-free power for festivals, power outages, camping or off-grid applications at home.
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
+  name:       Niko Dunk
   url:        http://gridlesskits.com
 
 # Gems
