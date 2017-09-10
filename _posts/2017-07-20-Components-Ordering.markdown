@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Components and Ordering – The How-To Guide"
+title:  "The How-To Guide: The Components and Ordering"
 date:   2017-07-20 08:00:00 -0700
 ---
 

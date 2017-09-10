@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Assembly – The How-To Guide"
+title:  "The How-To Guide: Assembly"
 date:   2017-04-28 08:00:00 -0700
 ---
 
