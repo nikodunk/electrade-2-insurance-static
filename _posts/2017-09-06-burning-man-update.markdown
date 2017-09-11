@@ -7,8 +7,8 @@ date:   2017-09-06 08:00:00 -0700
   
 
 
-Burning Man 2017 Update
-===========
+<b>Momentum at BM17</b> 
+
 
 We found numerous burners who had built, customized and improved on the $200 solar self-sufficiency system at Burning Man in Nevada. They were being used to run phones, fans, swamp coolers and lights.
 

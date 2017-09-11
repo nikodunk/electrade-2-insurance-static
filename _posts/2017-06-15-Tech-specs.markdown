@@ -7,8 +7,7 @@ date:   2017-06-15 08:00:00 -0700
   
 
 
-Technical Specifications
-===========
+<b>Technical Specifications</b>
 
 
 

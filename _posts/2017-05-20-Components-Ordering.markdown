@@ -6,8 +6,7 @@ date:   2017-05-20 08:00:00 -0700
 
 
 
-The components
-==============
+<b>The components</b>
 
 ![](/img/AMAZON.jpg)
 
@@ -20,10 +19,10 @@ My goal is to take care of the energy needs for just my bedroom. 4 main componen
 I ordered the system on July 2nd, and with ground shipping the PV panel ($95) arrived July 11th from Canada, and the battery ($66), wiring ($18), controller ($17) and inverter ($15) arrived July 15th from Amazon USA.
 
 
-<hr>
+<br><br><br>
 
-Assembly
-========
+<b>Assembly</b>
+
 Hopefully you can adapt my system to your spatial situation pretty easily:
 
 ![](/img/ASSEMBLY1.jpg) | ![](/img/ASSEMBLY2.jpg)

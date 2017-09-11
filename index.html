@@ -4,8 +4,6 @@ title: {{ site.name }}
 ---
 
 
- 
-
 
 
 <div id="home">
@@ -22,28 +20,34 @@ title: {{ site.name }}
   Festival Use -->
   
 
-  <h3 >Articles</h3>
-  <ul class="" style="">
+  <b>Articles</b>
     {% for post in site.posts %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li><br>
+      <!-- <span>{{ post.date | date_to_string }}</span> -->
+      <br> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     {% endfor %}
-  </ul>
+  
+<hr>
 
-  <br>
-  <hr><br>
+
   <ul class="posts">
     {% for post in site.posts %}
-      <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><br><br>
+    <br><br><br>
+    <b><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></b>
+    |
+    <span>{{ post.date | date_to_string }}</span>
+    <br><br>
       {{post.content}}
       <br><hr><br>
     {% endfor %}
   </ul>
 
 
-    <h3>More Articles</h3>
-    <ul>
-    {% for post in site.posts %}
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><br>
-    {% endfor %}
-  </ul>
+    <hr>
+  <b>More Articles</b>
+  {% for post in site.posts %}
+      <!-- <span>{{ post.date | date_to_string }}</span> -->
+      <br> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+  {% endfor %}
+
+  
 </div>
