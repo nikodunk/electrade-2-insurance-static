@@ -19,7 +19,7 @@ title: {{ site.name }}
   <img src="img/burningman3.JPG" style="max-width: 50%; float: right; padding: 10px">
   Festival Use -->
   
-
+<hr>
   <b>Articles</b>
     {% for post in site.posts %}
       <!-- <span>{{ post.date | date_to_string }}</span> -->
@@ -42,12 +42,12 @@ title: {{ site.name }}
   </ul>
 
 
-    <hr>
+<hr>
   <b>More Articles</b>
   {% for post in site.posts %}
       <!-- <span>{{ post.date | date_to_string }}</span> -->
       <br> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
   {% endfor %}
-
+<hr>
   
 </div>
