@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Financial Payback Calculations"
+title:  "Financial & Embodied Energy Payback Calculations"
 date:   2017-02-12 08:00:00 -0700
 ---
 
