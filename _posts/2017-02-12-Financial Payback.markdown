@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Financial & Embodied Energy Payback Calculations"
+title:  "Financial Payback & Embodied Energy"
 date:   2017-02-12 08:00:00 -0700
 ---
 
@@ -27,7 +27,8 @@ The financial payback of the system is 9 years including battery, which is in li
 Note however that after 8 years of daily use the lead-acid deep discharge battery will be spent, which I’m not taking into account here. Either way you cut it, this is not a money saving machine. Energy prices are just too low.
 
 
-How green is it?
+<b>How green is it?</b>
+
 Does it have an impact on my CO2 footprint? Back of the envelope:
 
 	Production footprint PV multicristalline: 
