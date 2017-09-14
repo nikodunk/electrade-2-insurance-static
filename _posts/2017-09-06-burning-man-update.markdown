@@ -35,4 +35,4 @@ Sean listed the main three reasons he decided to build his own system vs. bringi
 
 We're going to add a box to the recommended kit, to give it a more rugged and finished look for outdoors and festival use.
 
-See <a href="/2017/06/15/Tech-specs.html"> Tech Specs</a> and the <a href="/2017/05/20/Components-Ordering.html">How-To Guide</a> for more info.
+See <a href="/2017/06/15/Tech-specs.html"> tech specs</a>, the <a href="/2017/05/20/Components-Ordering.html">how-to guide</a> and the <a href="/parts.html">parts list</a> for more info.
