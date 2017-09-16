@@ -7,11 +7,6 @@ date:   2017-03-20 08:00:00 -0700
 
 
 
-
-
-<b>One month of energy self-sufficiency in my room</b> 
-
-
 In San Francisco we get 4.26 hours of usable sunshine a day (or 1156 hours a year) according to Google Sunroof. My battery holds 420Wh (12V x 35Ah), and should be filled once a day without any shading. Actual production is an average 350Wh/day on the rooftop with real-world shading and loss.
 
 	Daily Power Production:

@@ -6,12 +6,6 @@ date:   2017-06-15 08:00:00 -0700
 
   
 
-
-<b>Technical Specifications</b>
-
-
-
-
 	Polychristalline Solar Panel
 		Size: 39.8 x 1.2 x 26.6 inches
 		Weight: 19.6 pounds

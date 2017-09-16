@@ -6,10 +6,6 @@ date:   2017-09-06 08:00:00 -0700
 
   
 
-
-<b>Momentum at Burning Man 2017</b> 
-
-
 We found numerous burners who had built, customized and improved on the $200 solar self-sufficiency system at Burning Man in Nevada. They were being used to run phones, fans, swamp coolers and lights.
 
 Attached Sean's great system:

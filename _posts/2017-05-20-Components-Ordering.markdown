@@ -6,11 +6,11 @@ date:   2017-05-20 08:00:00 -0700
 
 
 
-<b>The components</b>
 
+
+My goal is to take care of the energy needs for just my bedroom. 4 main components are all we need to achieve this: A solar panel to collect, a battery to store, an inverter to convert the direct current to alternating current, and a “charge controller” to balance the three other components. 
 ![](/img/AMAZON.jpg)
-
-My goal is to take care of the energy needs for just my bedroom. 4 main components are all we need to achieve this: A solar panel to collect, a battery to store, an inverter to convert the direct current to alternating current, and a “charge controller” to balance the three other components. I’m using bargain-basement parts intended for RV, marine & car usage which keeps my system cheap and mobile. Total component cost is $211 ($230 after shipping & taxes). The main components as found on Amazon are above. Anyone looking to build a similar system themselves can view the full component list <a href="http://amzn.to/2eWcg6p" onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');">here</a> (tweet your build <a href="http://twitter.com/gridlesskits" onclick="ga('send', 'event', 'Twitter', 'clicked', 'Top');" target="_blank">@gridlesskits</a>, how it went and what we can improve! We'll repost – and we'd love to know!). 
+I’m using bargain-basement parts intended for RV, marine & car usage which keeps my system cheap and mobile. Total component cost is $211 ($230 after shipping & taxes). The main components as found on Amazon are above. Anyone looking to build a similar system themselves can view the full component list <a href="http://amzn.to/2eWcg6p" onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');">here</a> (tweet your build <a href="http://twitter.com/gridlesskits" onclick="ga('send', 'event', 'Twitter', 'clicked', 'Top');" target="_blank">@gridlesskits</a>, how it went and what we can improve! We'll repost – and we'd love to know!). 
 
 ![](/img/BOXES.jpg)   |  ![](/img/COMPONENTS.jpg)
 :-------------------------:|:-------------------------:

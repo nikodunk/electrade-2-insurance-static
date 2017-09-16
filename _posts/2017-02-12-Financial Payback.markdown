@@ -5,10 +5,9 @@ date:   2017-02-12 08:00:00 -0700
 ---
 
 
-<b>Financial Payback</b>
 
-How long until it saves me money?
-The reason this system is so simple is because it doesn’t tie in to your apartment’s behind-the-meter electrical grid. This means the system is clean, but it also doesn’t feed into electrical heavyweights like your water heater, refrigerator and washer/dryer. It does charge anything you plug into it though. So can the system save me money? Back of the envelope:
+
+How long until it saves me money? The reason this system is so simple is because it doesn’t tie in to your apartment’s behind-the-meter electrical grid. This means the system is clean, but it also doesn’t feed into electrical heavyweights like your water heater, refrigerator and washer/dryer. It does charge anything you plug into it though. So can the system save me money? Back of the envelope:
 
 	Financial payback period for 100W system
 	System cost : $211 on Amazon

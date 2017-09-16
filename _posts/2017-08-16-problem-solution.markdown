@@ -7,7 +7,6 @@ date:   2017-08-16 08:00:00 -0700
   
 
 
-<b>The problem</b>
 
 
 Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.
