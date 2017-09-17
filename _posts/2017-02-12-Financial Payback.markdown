@@ -10,7 +10,7 @@ date:   2017-02-12 08:00:00 -0700
 How long until it saves me money? The reason this system is so simple is because it doesn’t tie in to your apartment’s behind-the-meter electrical grid. This means the system is clean, but it also doesn’t feed into electrical heavyweights like your water heater, refrigerator and washer/dryer. It does charge anything you plug into it though. So can the system save me money? Back of the envelope:
 
 	Financial payback period for 100W system
-	System cost : $211 on Amazon
+	System cost : $211 on Amazon at time of writing
 	Yearly energy creation: 365d * 4.26hsun/d * 100W = 155’490Wh/y
 	Yearly value creation: 155kWh/y * 15.34c/kWh = $24/y energy created
 	100W system payback period: $211 / $24 = 8.5 years until payback
@@ -18,7 +18,7 @@ How long until it saves me money? The reason this system is so simple is because
 The financial payback of the system is 9 years including battery, which is in line with many rooftop systems but doesn’t include servicing. This could be reduced to 6.5 years by adding a second 100W solar panel:
 
 	Payback period for 200W system
-	200W System cost: $300 on Amazon
+	200W System cost: roughly $300 on Amazon at time of writing
 	Yearly energy creation: 365d * 4.26hsun/d * 100W = 310’980Wh/y
 	Yearly value creation: 311kWh/y * 15c/kWh = $48/y energy created
 	200W system payback period: $300 / $48 = 6.5 years until payback

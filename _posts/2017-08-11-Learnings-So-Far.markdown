@@ -6,7 +6,7 @@ date:   2017-08-11 08:00:00 -0700
 
 
 
-This project started with a simple idea: What if energy generation was a consumer electronic you could order off Amazon? I’ve learned that basic electrical knowledge and a little assembly bring us very close to this ideal: Self-contained renewable lighting and charging is achieved with a simple $211 setup off Amazon.
+This project started with a simple idea: What if energy generation was a consumer electronic you could order off Amazon? I’ve learned that basic electrical knowledge and a little assembly bring us very close to this ideal: Self-contained renewable lighting and charging is achieved with a simple setup off Amazon.
 
 ![](/img/FINAL.jpg) | ![](/img/FINAL2.jpg)
 :-----------------------------:|:-------------------------:
