@@ -66,6 +66,7 @@
       <!-- <span>{{ post.date | date_to_string }}</span> -->
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
+    <li><a onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');" href="/parts.html">The Recommended Parts List</a></li>
   </ul>
   <hr>
 </div>
