@@ -7,28 +7,6 @@ title: {{ site.name }}
 
 
 <div id="home">
-  <!-- <h3 >Example systems by users</h3>
-  
-  <img src="img/TEASER.jpg" style="max-width: 50%; padding: 10px">
-  <img src="img/FINAL2.jpg" style="max-width: 50%; float: right; padding: 10px">
-  Home Use
-  
-  <hr>
-
-  <img src="img/burningman1.JPG" style="max-width: 50%; padding: 10px">
-  <img src="img/burningman3.JPG" style="max-width: 50%; float: right; padding: 10px">
-  Festival Use -->
-  
-<hr>
-  <b>Articles</b>
-  
-    {% for post in site.posts %}
-      <!-- <span>{{ post.date | date_to_string }}</span> -->
-      <br><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    {% endfor %}
-  
-<hr>
-
 
   <ul class="posts">
     {% for post in site.posts %}
@@ -42,13 +20,5 @@ title: {{ site.name }}
     {% endfor %}
   </ul>
 
-
-<hr>
-  <b>More Articles</b>
-  {% for post in site.posts %}
-      <!-- <span>{{ post.date | date_to_string }}</span> -->
-      <br> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-  {% endfor %}
-<hr>
   
 </div>

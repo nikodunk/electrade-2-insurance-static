@@ -1,4 +1,4 @@
-<section class="page-header" style="margin-bottom: 0px; padding-bottom: 0px">
+<section class="page-header" style="margin-bottom: 0px; padding-bottom: 0px;">
   <a href="/" style=" cursor: pointer; text-decoration: none">
     <h2 class="project-name" style="color: #191919">{{ site.title }}</h2>
   </a>
@@ -54,8 +54,23 @@
      target="_blank"
      class="btn btn-amazon"
      onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');">
-        <img src="/img/icon1.png" style="max-height: 1em"> <b>Build Your Own: View Amazon Parts List </b><br> See latest prices here. Scroll down for How-To Guide.
+        <img src="/img/icon1.png" style="max-height: 1em"> <b>Build Your Own: View Recommended Parts List </b><br> See list, then scroll down for How-To Guide.
   </a>
 <br><br>
 
+<div style="text-align: left; max-width: 800px; margin: 0 auto;">
+  <hr>
+  <p><b>Articles</b></p>
+  <ul>
+    {% for post in site.posts %}
+      <!-- <span>{{ post.date | date_to_string }}</span> -->
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  <hr>
+</div>
+
 </section>
+
+
+

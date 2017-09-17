@@ -1,31 +1,47 @@
 
+
+<footer class="page-header" style="max-width: 1000px; margin: 0 auto; font-family: 'Verdana', sans-serif;">
 <br><br><br>
-<footer class="page-header">
-<iframe src="https://upscri.be/a543df/" style="border: 0;" width="100%"></iframe>
-  <!-- <span class="">☀️ Made with love by Gridlesskits ☀️  -->
-  <!-- |  Follow on <a style="color: lightblue" target="_blank" href="http://twitter.com/gridlesskits">Twitter</a> for project updates | </span> Upvote on <a href="https://www.producthunt.com/posts/gridless-kits" style="color: orange" target="_blank">Product Hunt</a> if you enjoyed please! -->
-  <br><br><br><br><br><br>
-  <hr>
-  <div id="disqus_thread"></div>
-<script>
 
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://gridlesskits.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
 
-                            
-  <p style="font-size: .7rem; color: grey">gridlesskits.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com</p>
+	<div style="text-align: left; max-width: 800px; margin: 0 auto; color: #606c71;">
+	  <hr>
+	  <p><b>More Articles</b></p>
+	  <ul>
+	    {% for post in site.posts %}
+	      <!-- <span>{{ post.date | date_to_string }}</span> -->
+	    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+	    {% endfor %}
+	  </ul>
+	  <hr>
+	</div>
+
+
+
+
+	<br><br><br>
+	<iframe src="https://upscri.be/a543df/" style="border: 0;" width="100%"></iframe>
+	  <!-- <span class="">☀️ Made with love by Gridlesskits ☀️  -->
+	  <!-- |  Follow on <a style="color: lightblue" target="_blank" href="http://twitter.com/gridlesskits">Twitter</a> for project updates | </span> Upvote on <a href="https://www.producthunt.com/posts/gridless-kits" style="color: orange" target="_blank">Product Hunt</a> if you enjoyed please! -->
+	  <br><br><br><br><br><br>
+	  <hr>
+
+
+
+
+  	<div id="disqus_thread"></div>
+	<script>
+	(function() { // DON'T EDIT BELOW THIS LINE
+	var d = document, s = d.createElement('script');
+	s.src = 'https://gridlesskits.disqus.com/embed.js';
+	s.setAttribute('data-timestamp', +new Date());
+	(d.head || d.body).appendChild(s);
+	})();
+	</script>
+	<br>
+   	<hr>   
+   	<br>     
+
+
+  	<p style="font-size: .7rem; color: grey">gridlesskits.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com</p>
 </footer>
