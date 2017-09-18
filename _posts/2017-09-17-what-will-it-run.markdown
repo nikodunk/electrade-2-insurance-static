@@ -20,12 +20,6 @@ Replacement thought-experiment:
 * Devices – Not really an issue. Already low power.
 * Wifi – Not really an issue. Already low power (on the consumer side at least).
 
-Can't be replaced yet:
-* Water heating - No alternatives yet if we want hot showers.
-* Cooking – Electric stove -> Gas stove - no low-power electric alternatives yet.
-* Dishwasher - Wash dishes by hand. sorry y’all. 
-* Washer/dryer - Hand wash and hang dry feasible? 
-
 Things you can run off a single 420Wh "classic" system every day:
 
 Transport | Heating | Cooling | Fridge | Light | Devices | Wifi
@@ -36,6 +30,12 @@ Electric Skateboard (or eBike) | Car heater | Car fan or <a href="https://www.yo
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 Note that all components above run on DC, so it's technically feasible to make just the cheaper DC-only system from the <a href="/parts.html">parts page</a>.
+
+High-power components that have no low-power replacement yet:
+* Water heating - No alternatives yet if we want hot showers, unfortunately.
+* Cooking – Electric stove -> Gas stove - no low-power electric alternatives yet.
+* Dishwasher - Wash dishes by hand. sorry y’all. 
+* Washer/dryer - Hand wash and hang dry feasible? 
 
 What if we're not constrained to just 420Wh off a single system? That'd be 840Wh or 1260Wh from 2 or 3 systems respectively. How many systems would we need to run <i>all</i> of the devices above?
 
