@@ -11,17 +11,17 @@ If you were to live off a single 420Wh system, what would this require?
 Worst energy culprits in my household are roughly in order of use: water heater, cooker, transportation, air heating, air cooling, fridge, dishwasher, washer/dryer, lighting. Living off 420wh a day requires replacing the culprits with lower-power parts (often intended for car, RV or marine use). At this point this project becomes very similar to the original inspiration for this article - Robin Rhineharts <a href="https://arstechnica.com/gadgets/2015/08/op-ed-how-i-gave-up-alternating-current/" target="_blank">How I gave up alternating current</a> (Robin Rhinehart is the founder of Soylent). Replacing high-energy AC appliances with low-energy DC ones to stay within the 420Wh "budget".
 
 Replacement thought-experiment:
-* Water heater - no alternatives yet for hot showers
-* Cooker – Electric stove -> Gas stove - no low-power electric alternatives yet.
+* Water heating - No alternatives yet if we want hot showers.
+* Cooking – Electric stove -> Gas stove - no low-power electric alternatives yet.
 * Transport - Car -> electric skateboard or ebike (though I prefer a bike to stay in shape).
 * Heating - Central heating (oil furnace) -> electric car heater
 * Cooling - Air Conditioner -> car fan
 * Fridge - Refridgerator -> car fridge
-* Dishwasher - wash dishes by hand. sorry y’all. 
-* Washer/dryer - hand wash and hang dry feasible? 
-* Lighting - not really an issue. Already low power.
-* Computing – not really an issue. Already low power.
-* Internet – not really an issue. Already low power (on the consumer side at least).
+* Dishwasher - Wash dishes by hand. sorry y’all. 
+* Washer/dryer - Hand wash and hang dry feasible? 
+* Light - Not really an issue. Already low power.
+* Devices – Not really an issue. Already low power.
+* Wifi – Not really an issue. Already low power (on the consumer side at least).
 
 
 Things you can run off a single 420Wh "classic" system every day:
