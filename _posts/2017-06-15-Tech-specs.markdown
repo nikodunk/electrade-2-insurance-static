@@ -26,6 +26,7 @@ date:   2017-06-15 08:00:00 -0700
 		Ports: 2x USB, 1x DC in, 1x DC out
 		Charge Current: 20A
 		Discharge Current: 20A
+		Max out: 20A * 12V = 240W
 		USB Output: 5V/3A (15W) each
 		Type: PWM
 		Weight: 0.25 pounds
