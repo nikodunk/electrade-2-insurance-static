@@ -13,10 +13,10 @@ Worst energy culprits in my household are roughly in order of use: water heater,
 Replacement thought-experiment:
 * Water heater - no alternatives yet for hot showers
 * Cooker – Electric stove -> Gas stove - no low-power electric alternatives yet.
-* Transportation - Car -> electric skateboard or ebike (though I prefer a bike to stay in shape).
-* Air Heating - Central heating (oil furnace) -> electric car heater
-* Air Cooling - Air Conditioner -> car fan
-* Refridgeration - Refridgerator -> car fridge
+* Transport - Car -> electric skateboard or ebike (though I prefer a bike to stay in shape).
+* Heating - Central heating (oil furnace) -> electric car heater
+* Cooling - Air Conditioner -> car fan
+* Fridge - Refridgerator -> car fridge
 * Dishwasher - wash dishes by hand. sorry y’all. 
 * Washer/dryer - hand wash and hang dry feasible? 
 * Lighting - not really an issue. Already low power.
@@ -26,7 +26,7 @@ Replacement thought-experiment:
 
 Things you can run off a single 420Wh "classic" system every day:
 
-Transportation | Air Heating | Air Cooling | Refridgeration | Lighting | Computing | Internet
+Transport | Heating | Cooling | Fridge | Lighting | Computing | Internet
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 Electric Skateboard (or eBike) | Car heater | Car fan or <a href="https://www.youtube.com/watch?v=aHbQYajfGqM" target="_blank">swamp cooler</a> | Car fridge | USB LED lights | MacBook Air, iPhone | Low power router
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
