@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "What can the system run? The theoretical low-power apartment."
+title:  "What can the system run?"
 date:   2017-09-17 08:00:00 -0700
 ---
 
 
 A lot of questions we receive here are as to what you can charge and how far the energy will reach. I thought this would be worth a separate, more in-depth analysis. The findings from this article are now in the updated <a href="/parts.html" target="_blank">Parts List</a>
 
-If you were to live off a single 420Wh system, what would this require?
+What adjustments would living off a single 420Wh system require of your lifestyle?
 Worst energy culprits in my household are roughly in order of use: water heater, cooker, transportation, air heating, air cooling, fridge, dishwasher, washer/dryer, lighting. Living off 420wh a day requires replacing the culprits with lower-power parts (often intended for car, RV or marine use). At this point this project becomes very similar to the original inspiration for this article - Robin Rhineharts <a href="https://arstechnica.com/gadgets/2015/08/op-ed-how-i-gave-up-alternating-current/" target="_blank">How I gave up alternating current</a> (Robin Rhinehart is the founder of Soylent). Replacing high-energy AC appliances with low-energy DC ones to stay within the 420Wh "budget".
 
 
