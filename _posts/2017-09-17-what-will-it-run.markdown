@@ -26,9 +26,9 @@ Transport | Heating | Cooling | Fridge | Light | Devices | Wifi
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 Electric Skateboard (or eBike) | Car heater | Car fan or <a href="https://www.youtube.com/watch?v=aHbQYajfGqM" target="_blank">swamp cooler</a> | Car fridge | USB LED lights | MacBook Air, iPhone | Low power router
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
-97Wh | 300Wh | 360Wh |  420Wh | 40Wh	| 67Wh + 10Wh | 216Wh
-:---:|:---:|:---:|:---:|:---:|:---:|:---:
 1 charge | 2h * 150W | 24h * 15W |  60W * 7h | 2 lights * 4W * 5h	| 1 charge each | 9W * 24h
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
+97Wh | 300Wh | 360Wh |  420Wh | 40Wh	| 67Wh + 10Wh | 216Wh
 
 Note that all components above run on DC, so it's technically feasible to make just the cheaper DC-only system from the <a onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');" href="/parts.html">parts page</a>.
 
