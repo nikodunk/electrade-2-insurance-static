@@ -20,8 +20,7 @@ Replacement thought-experiment:
 * Devices – Not really an issue. Already low power.
 * Wifi – Not really an issue. Already low power (on the consumer side at least).
 
-
-
+<br><br>
 Things you can run off a single 420Wh "classic" system every day:
 
 Transport | Heating | Cooling | Fridge | Light | Devices | Wifi
@@ -32,7 +31,7 @@ Electric Skateboard (or eBike) | Car heater | Car fan or <a href="https://www.yo
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 <b>97Wh/d</b> | <b>300Wh/d</b> | <b>360Wh/d</b> |  <b>420Wh/d</b> | <b>40Wh/d</b>	| <b>67+10Wh/d</b> | <b>216Wh/d</b>
 
-
+<br><br>
 
 Note that all components above run on DC, so it's technically feasible to make just the cheaper DC-only system from the <a onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');" href="/parts.html">parts page</a>.
 
