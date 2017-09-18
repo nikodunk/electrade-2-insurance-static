@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What can the system run?"
+title:  "What can the system run? The theoretical low-power apartment."
 date:   2017-09-17 08:00:00 -0700
 ---
 
