@@ -29,7 +29,7 @@ Electric Skateboard (or eBike) | Car heater | Car fan or <a href="https://www.yo
 97Wh<br>(1 charge) | 300Wh<br>(2h * 150W) | 360Wh<br>(24h * 15W) |  420Wh<br>(60W * 7h) | 40Wh<br>(2 lights * 4W * 5h)	| 67Wh + 10Wh<br>(1 charge each) | 216Wh<br>(9W * 24h)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
-Note that all components above run on DC, so it's technically feasible to make just the cheaper DC-only system from the <a href="/parts.html">parts page</a>.
+Note that all components above run on DC, so it's technically feasible to make just the cheaper DC-only system from the <a onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');" href="/parts.html">parts page</a>.
 
 High-power components that have no low-power replacement yet:
 * Water heating - No alternatives yet if we want hot showers, unfortunately.
