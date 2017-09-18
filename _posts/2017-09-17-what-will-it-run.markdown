@@ -37,8 +37,6 @@ High-power components that have no low-power replacement yet:
 * Dishwasher - Wash dishes by hand. sorry y’all. 
 * Washer/dryer - Hand wash and hang dry feasible? 
 
-What if we're not constrained to just 420Wh off a single system? That'd be 840Wh or 1260Wh from 2 or 3 systems respectively. How many systems would we need to run <i>all</i> of the devices above?
+But what if we're not constrained to just 420Wh off a single system? This is where the componentization of the system comes in handy – we can just keep adding systems until our (reduced) power needs are covered by the panel+storage systems. How many systems would we need to run <i>all</i> of the devices above?
 
-Total is load is 1510Wh (or 1.51kWh). We'd need 4 systems to load all of the components every day and be completely off-grid in our apartment or while camping or after a hurricane (with some compromises like cooking with gas and washing by hand). The total cost for all of this would be around $800 (see <a href="/parts.html" target="_blank"> parts list</a>) – and payback would be around <a href="/2017/02/12/Financial-Payback.html" target="_blank"> 6.5 years</a> if we used it every day based on Californian electricity prices. 
-
-This is where the componentization of the system comes in handy – we can just keep adding systems until our (reduced) power needs are covered by the panel+storage systems.
+The total load for all the components in the theoretical off-grid apartment above is 1510Wh (or 1.51kWh). We'd need 4 systems to load all of the components every day and be completely off-grid in our apartment (or glamping or post-hurricane). Some compromises would be necessary like cooking with gas and washing by hand. The total cost would be around $800 (see <a href="/parts.html" target="_blank"> parts list</a>) – and payback would be around <a href="/2017/02/12/Financial-Payback.html" target="_blank"> 6.5 years</a> if we used it every day based on Californian electricity prices (@11c/kWh), or 4 years based on <a href="https://www.bls.gov/regions/new-york-new-jersey/news-release/averageenergyprices_newyorkarea.htm" target="_blank">20c/kWh in NY</a>.
