@@ -26,7 +26,7 @@ Replacement thought-experiment:
 
 Things you can run off a single 420Wh "classic" system every day:
 
-Transport | Heating | Cooling | Fridge | Lighting | Computing | Internet
+Transport | Heating | Cooling | Fridge | Light | Devices | Wifi
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 Electric Skateboard (or eBike) | Car heater | Car fan or <a href="https://www.youtube.com/watch?v=aHbQYajfGqM" target="_blank">swamp cooler</a> | Car fridge | USB LED lights | MacBook Air, iPhone | Low power router
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
