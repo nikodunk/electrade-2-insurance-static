@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What can the system run? The Low power life."
+title:  "What can the system run? Off-grid life = low power."
 date:   2017-09-17 08:00:00 -0700
 ---
 
@@ -11,7 +11,7 @@ What adjustments would living off a single 420Wh system require of your lifestyl
 Worst energy culprits in my household are roughly in order of energy use: hot water tank for showers, stove/kettle, transportation, air heating, air cooling, fridge, dishwasher, washer/dryer, lighting. Living off 420wh a day requires replacing the culprits with lower-power parts (often intended for car, RV or marine use). At this point this project becomes very similar to the original inspiration for this article - Robin Rhineharts <a href="https://arstechnica.com/gadgets/2015/08/op-ed-how-i-gave-up-alternating-current/" target="_blank">How I gave up alternating current</a> (Robin Rhinehart is the founder of Soylent). Replacing high-energy AC appliances with low-energy DC ones to stay within the 420Wh "budget".
 
 
-Low-power thought-experiment:
+Low-power thought experiment:
 * Lighting - LED Lighting. Not really an issue. Already low power.
 * Fridge - 300W Refridgerator -> 60W Low-voltage 12V car fridge (smaller size), no freezer.
 * Stove/kettle – 1200W Electric stove -> 144W Low-voltage 12V car cooker. Heats things up to 300F – can cook rice, etc.
