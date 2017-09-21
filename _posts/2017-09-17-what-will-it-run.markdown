@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What can the system run? Off-grid life = low power."
+title:  "What can the system run? Off-grid life = low power devices."
 date:   2017-09-17 08:00:00 -0700
 ---
 
