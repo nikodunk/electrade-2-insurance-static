@@ -47,6 +47,9 @@ Combustion transport => Electric skateboard/ebike (though I prefer a bike to sta
 <b>Communication</b>
 Laptop, Phone. Not really an issue. Already low power. Energy needed after: 1 charge each = 67Wh/d+10Wh/d
 
+Total energy required to do all these things every day: 
+1483Wh/day, roughly 1.5kWh.
+This can be covered by 4 systems/personal power plants, for roughly $880 dollars. Granted, we'd be living by a hermit, but it'd be as close we could get to an off-grid DC only lifestyle.
 
 <br><br>See the actual components for this experiment <a onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');" href="/parts.html">here</a>. Note that almost all components above run on DC, so it's technically feasible to make the cheaper DC-only system from the aforementioned parts page.
 
