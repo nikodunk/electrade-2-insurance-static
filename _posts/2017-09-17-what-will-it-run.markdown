@@ -18,19 +18,59 @@ Low-power thought experiment: How could we replace devices to live within the 42
 60W Incandescent Bulbs => 5W LED Lighting. Easy. Energy needed after: 2 lights * 4W * 5h = 40Wh/d
 
 <b>Fridge</b>
-300W Refridgerator => 60W Low-voltage 12V car fridge (smaller size), no freezer. Energy needed after: 60W * 7h = 420Wh/d
 
-<b>Stove/kettle</b>
-1200W Electric stove => 144W Low-voltage 12V car cooker. Heats things up to 300F – can cook rice, etc. Energy needed after: 144W * 1h = 144Wh/d
+<table style="text-align: center; margin: 0px; padding: 0px">
+	<tr>
+		<td><img src="/img/devices/fridgebefore.jpg" style="max-height: 200px"></td>
+		<td><img src="/img/devices/fridgeafter.jpg" style="max-height: 200px"></td>
+	</tr>
+	<tr style="padding: 0px; margin: 0px">
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">300W Refrigerator</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">60W Low-voltage 12V car fridge (smaller size), no freezer.</td>
+	</tr>
+	<tr>
+		<td colspan="2"> Energy needed after: 60W * 7h = 420Wh/d</td>
+	</tr>
+</table>
+
+
+<b>Cooking</b>
+
+<table style="text-align: center; margin: 0px; padding: 0px">
+	<tr>
+		<td><img src="/img/devices/cookbefore.jpg" style="max-height: 200px"></td>
+		<td><img src="/img/devices/cookafter.jpg" style="max-height: 200px"></td>
+	</tr>
+	<tr style="padding: 0px; margin: 0px">
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">1200W Electric stove</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">Replaced with a 144W Low-voltage 12V car cooker. Heats things up to 300F – can cook rice, etc.</td>
+	</tr>
+	<tr>
+		<td colspan="2"> Energy needed after: 144W * 1h = 144Wh/d</td>
+	</tr>
+</table>
 
 <b>Air Heating</b>
-5600W Central heating (oil furnace) => 150W Low-voltage 12V car heater. Energy needed after: 2h * 150W = 300Wh/d
+<table style="text-align: center; margin: 0px; padding: 0px">
+	<tr>
+		<td><img src="/img/devices/heatbefore.jpg" style="max-height: 200px"></td>
+		<td><img src="/img/devices/heatafter.jpg" style="max-height: 200px"></td>
+	</tr>
+	<tr style="padding: 0px; margin: 0px">
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">5600W Central heating (oil furnace)</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">Replaced with a 150W Low-voltage 12V car heater</td>
+	</tr>
+	<tr>
+		<td colspan="2">Energy needed after: 2h * 150W = 300Wh/d</td>
+	</tr>
+</table>
+
 
 <b>Air Cooling</b>
 <table style="text-align: center; margin: 0px; padding: 0px">
 	<tr>
-		<td><img src="/img/devices/ac.jpg" style="max-height: 200px"></td>
-		<td><img src="/img/devices/evap.jpg" style="max-height: 200px"></td>
+		<td><img src="/img/devices/coolbefore.jpg" style="max-height: 200px"></td>
+		<td><img src="/img/devices/coolafter.jpg" style="max-height: 200px"></td>
 	</tr>
 	<tr style="padding: 0px; margin: 0px">
 		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">1400W Air Conditioner</td>
