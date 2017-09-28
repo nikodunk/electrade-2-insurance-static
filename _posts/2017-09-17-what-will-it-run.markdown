@@ -18,9 +18,9 @@ Low-power thought experiment: How could we replace devices to live within the 42
 
 <table style="text-align: center; margin: 0px; padding: 0px; width: 100%">
 	<tr>
-		<td><img src="/img/devices/fridgebefore.jpg" style="max-height: 200px"></td>
+		<td><img src="/img/devices/fridgebefore.jpg" style="max-height: 200px; margin: 0 auto; "></td>
 		<td>&rarr;</td>
-		<td><img src="/img/devices/fridgeafter.jpg" style="max-height: 200px"></td>
+		<td><img src="/img/devices/fridgeafter.jpg" style="max-height: 200px; margin: 0 auto;"></td>
 	</tr>
 	<tr style="padding: 0px; margin: 0px">
 		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">1020W<br> Frigidaire Gallery 22.2 Cu. Ft. Side-by-Side Refrigerator</td>
