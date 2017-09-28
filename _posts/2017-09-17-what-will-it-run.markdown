@@ -16,7 +16,7 @@ Low-power thought experiment: How could we replace devices to live within the 42
 
 <b>Fridge</b>
 
-<table style="text-align: center; margin: 0px; padding: 0px">
+<table style="text-align: center; margin: 0px; padding: 0px; width: 100%">
 	<tr>
 		<td><img src="/img/devices/fridgebefore.jpg" style="max-height: 200px"></td>
 		<td>&rarr;</td>
