@@ -132,12 +132,12 @@ Total energy required to do all these things every day: <br>
 1483Wh/day, roughly 1.5kWh.<br>
 This can be covered by 4 systems/personal power plants, for roughly $880 dollars. Granted, we'd be living like a hermit, but it'd be as close as we could get to an off-grid DC-only lifestyle.
 
-<br><br>See the actual components for this experiment <a onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');" href="/parts.html">here</a>. Note that almost all components above (apart from the evap cooler) run on DC, so it's technically feasible to make the cheaper DC-only system from the aforementioned parts page.
+<br><br>See the actual components for this experiment <a onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');" href="/parts.html">here</a>. Note that almost all components above (apart from the evap cooler) run on DC, so it's recommended to build the DC-only system from the aforementioned parts page.
 
 High-power devices in my household that have no low-power replacement yet:
-* Hot water tank: 4200W water heater => would be replaced with a solar water heater. This is a non-electric, purely mechanical system, similar to the system installed by Jimmy Carter on the white house in the 70s.
-* Dishwasher: Dishwasher => Wash dishes by hand. Sorry y’all. 
-* Washer/dryer: Washer/Dryer => Hand wash and hang dry feasible? 
+* Hot water tank: 4200W water heater => would have to be replaced with a solar water heater. This is a non-electric, purely mechanical system, similar to the system installed by Jimmy Carter on the white house in the 70s.
+* Dishwasher: Dishwasher => Hand wash dishes. Sorry y’all. 
+* Washer/dryer: Washer/Dryer => Hand wash clothes and hang dry feasible? 
 
 But what if we're not constrained to just 420Wh off a single system? This is where the componentization of the system comes in handy – we can just keep adding systems until our (reduced) power needs are covered by the panel+storage systems. How many systems would we need to run <i>all</i> of the devices above?
 
