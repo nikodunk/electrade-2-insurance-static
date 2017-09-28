@@ -14,9 +14,6 @@ Worst energy culprits in my household are roughly in order of energy use: hot wa
 Low-power thought experiment: How could we replace devices to live within the 420Wh solar personal power plant budget?
 
 
-<b>Lighting</b>
-60W Incandescent Bulbs => 5W LED Lighting. Easy. Energy needed after: 2 lights * 4W * 5h = 40Wh/d
-
 <b>Fridge</b>
 
 <table style="text-align: center; margin: 0px; padding: 0px">
@@ -25,8 +22,8 @@ Low-power thought experiment: How could we replace devices to live within the 42
 		<td><img src="/img/devices/fridgeafter.jpg" style="max-height: 200px"></td>
 	</tr>
 	<tr style="padding: 0px; margin: 0px">
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">300W Refrigerator</td>
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">60W Low-voltage 12V car fridge (smaller size), no freezer.</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">1020W<br> Frigidaire Gallery 22.2 Cu. Ft. Side-by-Side Refrigerator</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">60W<br> Low-voltage 12V car fridge (smaller size), no freezer.</td>
 	</tr>
 	<tr>
 		<td colspan="2"> Energy needed after: 60W * 7h = 420Wh/d</td>
@@ -42,8 +39,8 @@ Low-power thought experiment: How could we replace devices to live within the 42
 		<td><img src="/img/devices/cookafter.jpg" style="max-height: 200px"></td>
 	</tr>
 	<tr style="padding: 0px; margin: 0px">
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">1200W Electric stove</td>
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">Replaced with a 144W Low-voltage 12V car cooker. Heats things up to 300F – can cook rice, etc.</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">7000W<br>(3000W Range + 4000W Oven) Frigidaire Professional 30'' Electric</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">144W<br> Low-voltage 12V car cooker. Heats up to 300F – can cook rice, etc.</td>
 	</tr>
 	<tr>
 		<td colspan="2"> Energy needed after: 144W * 1h = 144Wh/d</td>
@@ -57,8 +54,8 @@ Low-power thought experiment: How could we replace devices to live within the 42
 		<td><img src="/img/devices/heatafter.jpg" style="max-height: 200px"></td>
 	</tr>
 	<tr style="padding: 0px; margin: 0px">
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">5600W Central heating (oil furnace)</td>
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">Replaced with a 150W Low-voltage 12V car heater</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">5600W<br> Central oil heater</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">150W<br> Low-voltage 12V car heater</td>
 	</tr>
 	<tr>
 		<td colspan="2">Energy needed after: 2h * 150W = 300Wh/d</td>
@@ -73,8 +70,8 @@ Low-power thought experiment: How could we replace devices to live within the 42
 		<td><img src="/img/devices/coolafter.jpg" style="max-height: 200px"></td>
 	</tr>
 	<tr style="padding: 0px; margin: 0px">
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">1400W Air Conditioner</td>
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">Replaced with a 45W Low-power evaporative cooler.</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">2425W<br>Frigidaire 25,000 BTU Room Air Conditioner</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">45W<br> Low-power Room Evaporative Cooler</td>
 	</tr>
 	<tr>
 		<td colspan="2">Energy needed after: 9h * 45W = 405Wh/d</td>
@@ -82,10 +79,54 @@ Low-power thought experiment: How could we replace devices to live within the 42
 </table>
 
 <b>Transport</b> 
-Combustion transport => Electric skateboard/ebike (though I prefer a bike to stay in shape). Energy needed after: 1 charge = 97Wh/d
+
+<table style="text-align: center; margin: 0px; padding: 0px">
+	<tr>
+		<td><img src="/img/devices/transportbefore.jpg" style="max-height: 200px"></td>
+		<td><img src="/img/devices/transportafter.jpg" style="max-height: 200px"></td>
+	</tr>
+	<tr style="padding: 0px; margin: 0px">
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">30,000Wh<br> Nissan Leaf (or equivalent combustion engine)</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">97Wh<br> Electric skateboard/ebike (though I prefer a bike to stay in shape).</td>
+	</tr>
+	<tr>
+		<td colspan="2">Energy needed after: 1 charge = 97Wh/d</td>
+	</tr>
+</table>
+
 
 <b>Communication</b>
-Laptop, Phone. Not really an issue. Already low power. Energy needed after: 1 charge each = 67Wh/d+10Wh/d
+
+<table style="text-align: center; margin: 0px; padding: 0px">
+	<tr>
+		<td><img src="/img/devices/macbookafter.jpg" style="max-height: 200px"></td>
+		<td><img src="/img/devices/macbookafter.jpg" style="max-height: 200px"></td>
+	</tr>
+	<tr style="padding: 0px; margin: 0px">
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">77Wh<br>Laptop, Tablet, Phone. Not really an issue. Already low power.</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">77Wh<br>Laptop, Tablet, Phone.</td>
+	</tr>
+	<tr>
+		<td colspan="2">Energy needed after: 1 charge each = 67Wh/d+10Wh/d</td>
+	</tr>
+</table>
+
+<b>Lighting</b>
+
+<table style="text-align: center; margin: 0px; padding: 0px">
+	<tr>
+		<td><img src="/img/devices/lightafter.jpg" style="max-height: 200px"></td>
+		<td><img src="/img/devices/lightafter.jpg" style="max-height: 200px"></td>
+	</tr>
+	<tr style="padding: 0px; margin: 0px">
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">5W<br> LED Lighting (or 15W CFLs or 60W Incandescents)</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">5W<br> LED Lighting</td>
+	</tr>
+	<tr>
+		<td colspan="2">Energy needed after: 2 lights * 4W * 5h = 40Wh/d</td>
+	</tr>
+</table>
+
 
 Total energy required to do all these things every day: 
 1483Wh/day, roughly 1.5kWh.
