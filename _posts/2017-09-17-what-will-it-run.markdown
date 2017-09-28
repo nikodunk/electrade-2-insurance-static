@@ -16,24 +16,25 @@ Low-power thought experiment: How could we replace devices to live within the 42
 
 <b>Fridge</b>
 
-<table >
-	<tr>
-		<td><img src="/img/devices/fridgebefore.jpg" style="max-height: 200px; margin: 0 auto; "></td>
-		<td>&rarr;</td>
-		<td><img src="/img/devices/fridgeafter.jpg" style="max-height: 200px; margin: 0 auto;"></td>
-	</tr>
-	<tr style="padding: 0px; margin: 0px">
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">1020W<br> Frigidaire Gallery 22.2 Cu. Ft. Side-by-Side Refrigerator</td>
-		<td></td>
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">60W<br> Low-voltage 12V car fridge (smaller size), no freezer.</td>
-	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td style="font-size: .8rem">420Wh/d<br>(60W * 7h)</td>
-	</tr>
-</table>
-
+<div style="margin: 0 auto; padding: 0px; width: 100%">
+	<table style="text-align: center">
+		<tr>
+			<td><img src="/img/devices/fridgebefore.jpg" style="max-height: 200px; margin: 0 auto; "></td>
+			<td>&rarr;</td>
+			<td><img src="/img/devices/fridgeafter.jpg" style="max-height: 200px; margin: 0 auto;"></td>
+		</tr>
+		<tr style="padding: 0px; margin: 0px">
+			<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">1020W<br> Frigidaire Gallery 22.2 Cu. Ft. Side-by-Side Refrigerator</td>
+			<td></td>
+			<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">60W<br> Low-voltage 12V car fridge (smaller size), no freezer.</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td style="font-size: .8rem">420Wh/d<br>(60W * 7h)</td>
+		</tr>
+	</table>
+</div>
 
 <b>Cooking</b>
 
