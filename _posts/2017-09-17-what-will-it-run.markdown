@@ -37,7 +37,7 @@ Low-power thought experiment: How could we replace devices to live within the 42
 
 <b>Cooking</b>
 
-<table style="text-align: center; margin: 0px; padding: 0px">
+<table style="text-align: center; margin: 0px; padding: 0px; width: 100%">
 	<tr>
 		<td><img src="/img/devices/cookbefore.jpg" style="max-height: 200px"></td>
 		<td>&rarr;</td>
@@ -56,7 +56,7 @@ Low-power thought experiment: How could we replace devices to live within the 42
 </table>
 
 <b>Air Heating</b>
-<table style="text-align: center; margin: 0px; padding: 0px">
+<table style="text-align: center; margin: 0px; padding: 0px; width: 100%">
 	<tr>
 		<td><img src="/img/devices/heatbefore.jpg" style="max-height: 200px"></td>
 		<td>&rarr;</td>
@@ -76,7 +76,7 @@ Low-power thought experiment: How could we replace devices to live within the 42
 
 
 <b>Air Cooling</b>
-<table style="text-align: center; margin: 0px; padding: 0px">
+<table style="text-align: center; margin: 0px; padding: 0px; width: 100%">
 	<tr>
 		<td><img src="/img/devices/coolbefore.jpg" style="max-height: 200px"></td>
 		<td>&rarr;</td>
@@ -96,7 +96,7 @@ Low-power thought experiment: How could we replace devices to live within the 42
 
 <b>Transport</b> 
 
-<table style="text-align: center; margin: 0px; padding: 0px">
+<table style="text-align: center; margin: 0px; padding: 0px; width: 100%">
 	<tr>
 		<td><img src="/img/devices/transportbefore.jpg" style="max-height: 200px"></td>
 		<td>&rarr;</td>
@@ -117,7 +117,7 @@ Low-power thought experiment: How could we replace devices to live within the 42
 
 <b>Communication</b>
 
-<table style="text-align: center; margin: 0px; padding: 0px">
+<table style="text-align: center; margin: 0px; padding: 0px; width: 100%">
 	<tr>
 		<td><img src="/img/devices/macbookafter.jpg" style="max-height: 200px"></td>
 		<td>&rarr;</td>
@@ -137,7 +137,7 @@ Low-power thought experiment: How could we replace devices to live within the 42
 
 <b>Lighting</b>
 
-<table style="text-align: center; margin: 0px; padding: 0px">
+<table style="text-align: center; margin: 0px; padding: 0px; width: 100%">
 	<tr>
 		<td><img src="/img/devices/lightafter.jpg" style="max-height: 200px"></td>
 		<td>&rarr;</td>
