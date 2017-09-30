@@ -24,9 +24,9 @@ Low-power thought experiment: How could we replace devices to live within the 42
 			<td><img src="/img/devices/fridgeafter.jpg" style="max-height: 200px; margin: 0 auto;"></td>
 		</tr>
 		<tr style="padding: 0px; margin: 0px">
-			<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">1020W<br> Frigidaire Gallery 22.2 Cu. Ft. Side-by-Side Refrigerator</td>
+			<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>1020W</b><br> Frigidaire Gallery 22.2 Cu. Ft. Side-by-Side Refrigerator</td>
 			<td></td>
-			<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">60W<br> Low-voltage 12V car fridge (smaller size), no freezer.</td>
+			<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>60W</b><br> Low-voltage 12V car fridge (smaller size), no freezer.</td>
 		</tr>
 	</table>
 </div>
@@ -42,9 +42,9 @@ Low-power thought experiment: How could we replace devices to live within the 42
 		<td><img src="/img/devices/cookafter.jpg" style="max-height: 200px"></td>
 	</tr>
 	<tr style="padding: 0px; margin: 0px">
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">7000W<br>(3000W Range + 4000W Oven) Frigidaire Professional 30'' Electric</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>7000W</b><br>(3000W Range + 4000W Oven) Frigidaire Professional 30'' Electric</td>
 		<td></td>
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">144W<br> Low-voltage 12V car cooker. Heats up to 300F – can cook rice, etc.</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>144W</b><br> Low-voltage 12V car cooker. Heats up to 300F – can cook rice, etc.</td>
 	</tr>
 </table>
 
@@ -58,9 +58,9 @@ Low-power thought experiment: How could we replace devices to live within the 42
 		<td><img src="/img/devices/heatafter.jpg" style="max-height: 200px"></td>
 	</tr>
 	<tr style="padding: 0px; margin: 0px">
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">5600W<br> Central oil heater</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>5600W</b><br> Central oil heater</td>
 		<td></td>
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">150W<br> Low-voltage 12V car heater</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>150W</b><br> Low-voltage 12V car heater</td>
 	</tr>
 </table>
 
@@ -74,9 +74,9 @@ Low-power thought experiment: How could we replace devices to live within the 42
 		<td><img src="/img/devices/coolafter.jpg" style="max-height: 200px"></td>
 	</tr>
 	<tr style="padding: 0px; margin: 0px">
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">2425W<br>Frigidaire 25,000 BTU Room Air Conditioner</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>2425W</b><br>Frigidaire 25,000 BTU Room Air Conditioner</td>
 		<td></td>
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">45W<br> Low-power Room Evaporative Cooler</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>45W</b><br> Low-power Room Evaporative Cooler</td>
 	</tr>
 </table>
 
@@ -91,9 +91,9 @@ Low-power thought experiment: How could we replace devices to live within the 42
 		<td><img src="/img/devices/transportafter.jpg" style="max-height: 200px"></td>
 	</tr>
 	<tr style="padding: 0px; margin: 0px">
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">30,000Wh<br> Nissan Leaf (or equivalent combustion engine)</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>30,000Wh</b><br> Nissan Leaf (or equivalent combustion engine)</td>
 		<td></td>
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">97Wh<br> Electric skateboard/ebike (though I prefer a bike to stay in shape).</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>97Wh</b><br> Electric skateboard/ebike (though I prefer a bike to stay in shape).</td>
 	</tr>
 </table>
 
@@ -108,9 +108,9 @@ Low-power thought experiment: How could we replace devices to live within the 42
 		<td><img src="/img/devices/macbookafter.jpg" style="max-height: 200px"></td>
 	</tr>
 	<tr style="padding: 0px; margin: 0px">
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">77Wh<br>Laptop, Tablet, Phone. Not really an issue. Already low power.</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>77Wh</b><br>Laptop, Tablet, Phone. Not really an issue. Already low power.</td>
 		<td></td>
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">77Wh<br>Laptop, Tablet, Phone.</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>77Wh</b><br>Laptop, Tablet, Phone.</td>
 	</tr>
 </table>
 
@@ -125,9 +125,9 @@ Low-power thought experiment: How could we replace devices to live within the 42
 		<td><img src="/img/devices/lightafter.jpg" style="max-height: 200px"></td>
 	</tr>
 	<tr style="padding: 0px; margin: 0px">
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">5W<br> LED Lighting (or 15W CFLs or 60W Incandescents)</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>5W</b><br> LED Lighting (or 15W CFLs or 60W Incandescents)</td>
 		<td></td>
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">5W<br> LED Lighting</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>5W</b><br> LED Lighting</td>
 	</tr>
 </table>
 
