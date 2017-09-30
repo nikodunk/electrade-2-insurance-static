@@ -28,13 +28,10 @@ Low-power thought experiment: How could we replace devices to live within the 42
 			<td></td>
 			<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">60W<br> Low-voltage 12V car fridge (smaller size), no freezer.</td>
 		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td style="font-size: .8rem">420Wh/d<br>(60W * 7h)</td>
-		</tr>
 	</table>
 </div>
+
+	420Wh/d (60W * 7h)
 
 <b>Cooking</b>
 
@@ -49,12 +46,9 @@ Low-power thought experiment: How could we replace devices to live within the 42
 		<td></td>
 		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">144W<br> Low-voltage 12V car cooker. Heats up to 300F – can cook rice, etc.</td>
 	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td style="font-size: .8rem">144Wh/d<br>(1h * 144W)</td>
-	</tr>
 </table>
+
+	144Wh/d(1h * 144W)
 
 <b>Air Heating</b>
 <table style="text-align: center; margin: 0 auto; padding: 0px; width: 100%">
@@ -68,13 +62,9 @@ Low-power thought experiment: How could we replace devices to live within the 42
 		<td></td>
 		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">150W<br> Low-voltage 12V car heater</td>
 	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td style="font-size: .8rem">300Wh/d<br>(2h * 150W)</td>
-	</tr>
 </table>
 
+	300Wh/d (2h * 150W)
 
 <b>Air Cooling</b>
 <table style="text-align: center; margin: 0 auto; padding: 0px; width: 100%">
@@ -88,12 +78,9 @@ Low-power thought experiment: How could we replace devices to live within the 42
 		<td></td>
 		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">45W<br> Low-power Room Evaporative Cooler</td>
 	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td style="font-size: .8rem">405Wh/d<br>(9h * 45W)</td>
-	</tr>
 </table>
+
+	405Wh/d (9h * 45W)
 
 <b>Transport</b> 
 
@@ -108,13 +95,9 @@ Low-power thought experiment: How could we replace devices to live within the 42
 		<td></td>
 		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">97Wh<br> Electric skateboard/ebike (though I prefer a bike to stay in shape).</td>
 	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td style="font-size: .8rem">97Wh/d<br>(1 charge/d)</td>
-	</tr>
 </table>
 
+	97Wh/d (1 charge/d)
 
 <b>Communication</b>
 
@@ -129,12 +112,9 @@ Low-power thought experiment: How could we replace devices to live within the 42
 		<td></td>
 		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">77Wh<br>Laptop, Tablet, Phone.</td>
 	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td style="font-size: .8rem">67Wh/d+10Wh/d<br>(1 charge each/d)</td>
-	</tr>
 </table>
+
+	67Wh/d+10Wh/d (1 charge each/d)	
 
 <b>Lighting</b>
 
@@ -149,16 +129,16 @@ Low-power thought experiment: How could we replace devices to live within the 42
 		<td></td>
 		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem">5W<br> LED Lighting</td>
 	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td style="font-size: .8rem">40Wh/d<br>(2 lights * 4W * 5h)</td>
-	</tr>
 </table>
 
+	40Wh/d (2 lights * 4W * 5h)
 
-Total energy required to do all these things every day: <br>
-1483Wh/day, roughly 1.5kWh.<br>
+
+
+Total energy required to use all devices above every day:
+
+	1483Wh/day, roughly 1.5kWh
+
 This can be covered by 4 systems/personal power plants for roughly $880 dollars. Granted, we'd raise some eyebrows, but we wouldn't be living like a hermit and it'd be as close as we could get to an off-grid DC-only lifestyle.
 
 <br><br>See all the devices listed above <a onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');" href="/parts.html">here</a>. Note that all of them (apart from the evap cooler) run on DC, so it's recommended to build the DC-only system from <a onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');" href="/parts.html">the parts page</a>.
