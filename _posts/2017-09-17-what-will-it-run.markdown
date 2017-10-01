@@ -14,8 +14,8 @@ Worst energy culprits in my household are roughly in order of energy use: hot wa
 Low-power thought experiment: How could we replace devices to live within the 420Wh solar personal power plant budget?
 
 
-<b>Fridge</b>
-
+<b>Refrigeration</b>
+A large part of the baseload in apartments and houses is from the fridge. Obviously essential for a modern lifestyle (unless you order take-out a lot or live off powder), it's the main power draw we can't live without. That being said, existing fridges are often super in-efficient. Let's replace it with a low-voltage car fridge!
 <div style="margin: 0px auto !important; padding: 0px; width: 100% !important">
 	<table style="text-align: center; width: 100% !important">
 		<tr>
@@ -32,6 +32,25 @@ Low-power thought experiment: How could we replace devices to live within the 42
 </div>
 
 	420Wh/d (60W * 7h)
+
+<b>Heat</b>
+The next-biggest baseload (at least in winter) is from heating. This is often oil-based, but (at least in San Francisco where old houses are terribly insulated) is often assisted with electric space-heaters. These are also incredibly in-efficient (as they're often bargain-basement appliances). Let's again replace with low-voltage car heaters!
+
+<table style="text-align: center; margin: 0 auto; padding: 0px; width: 100%">
+	<tr>
+		<td><img src="/img/devices/heatbefore.jpg" style="max-height: 200px"></td>
+		<td>&rarr;</td>
+		<td><img src="/img/devices/heatafter.jpg" style="max-height: 200px"></td>
+	</tr>
+	<tr style="padding: 0px; margin: 0px">
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>1500W</b><br>Ceramig Space Heater</td>
+		<td></td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>150W</b><br> Low-voltage 12V car heater</td>
+	</tr>
+</table>
+
+	300Wh/d (2h * 150W)
+
 
 <b>Cooking</b>
 
@@ -50,21 +69,7 @@ Low-power thought experiment: How could we replace devices to live within the 42
 
 	144Wh/d(1h * 144W)
 
-<b>Air Heating</b>
-<table style="text-align: center; margin: 0 auto; padding: 0px; width: 100%">
-	<tr>
-		<td><img src="/img/devices/heatbefore.jpg" style="max-height: 200px"></td>
-		<td>&rarr;</td>
-		<td><img src="/img/devices/heatafter.jpg" style="max-height: 200px"></td>
-	</tr>
-	<tr style="padding: 0px; margin: 0px">
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>5600W</b><br> Central oil heater</td>
-		<td></td>
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>150W</b><br> Low-voltage 12V car heater</td>
-	</tr>
-</table>
 
-	300Wh/d (2h * 150W)
 
 <b>Air Cooling</b>
 <table style="text-align: center; margin: 0 auto; padding: 0px; width: 100%">
@@ -120,7 +125,7 @@ Low-power thought experiment: How could we replace devices to live within the 42
 
 <table style="text-align: center; margin: 0 auto; padding: 0px; width: 100%">
 	<tr>
-		<td><img src="/img/devices/lightafter.jpg" style="max-height: 200px"></td>
+		<td><img src="/img/devices/lightbefore.jpg" style="max-height: 200px"></td>
 		<td>&rarr;</td>
 		<td><img src="/img/devices/lightafter.jpg" style="max-height: 200px"></td>
 	</tr>
