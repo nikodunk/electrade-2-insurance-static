@@ -43,7 +43,7 @@ The next-biggest baseload (at least in winter) is from heating. This is often oi
 		<td><img src="/img/devices/heatafter.jpg" style="max-height: 200px"></td>
 	</tr>
 	<tr style="padding: 0px; margin: 0px">
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>1500W</b><br>Ceramig Space Heater</td>
+		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>1500W</b><br>Ceramic Space Heater</td>
 		<td></td>
 		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>150W</b><br> Low-voltage 12V car heater</td>
 	</tr>
