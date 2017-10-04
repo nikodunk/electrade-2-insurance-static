@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What can the system run? Off-grid life = low power devices?"
+title:  "What devices can the system run?"
 date:   2017-09-17 08:00:00 -0700
 ---
 
@@ -109,13 +109,9 @@ The next-biggest baseload (at least in winter) is from heating. This is often oi
 <table style="text-align: center; margin: 0 auto; padding: 0px; width: 100%">
 	<tr>
 		<td><img src="/img/devices/macbookafter.jpg" style="max-height: 200px"></td>
-		<td>&rarr;</td>
-		<td><img src="/img/devices/macbookafter.jpg" style="max-height: 200px"></td>
 	</tr>
 	<tr style="padding: 0px; margin: 0px">
 		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>77Wh</b><br>Laptop, Tablet, Phone. Not really an issue. Already low power.</td>
-		<td></td>
-		<td style="width: 250px; padding: 0px; margin: 0px; font-size: .8rem"><b>77Wh</b><br>Laptop, Tablet, Phone.</td>
 	</tr>
 </table>
 

@@ -1,46 +1,95 @@
 
 
-<footer class="page-header" style="max-width: 1000px; margin: 0 auto; font-family: 'Verdana', sans-serif;">
+<footer class="page-header" style="margin: 0 auto; padding-top: 60px; font-family: 'Verdana', sans-serif;">
+  <b>Articles</b>
+  <div style="display: flex; flex-wrap: wrap; max-width: 1000px; margin: 0 auto;"">
+  
+  <a href="/2017/06/20/200-apartment-solar-system.html" style="width: 300px; margin: auto ; cursor: pointer; font-weight: normal; text-decoration: none">
+    <div style=" border: 1px solid lightgrey; padding: 20px;">
+          <p><b>$200 apartment solar system</b></p>
+          <p>Discussion: 234 Comments</p>
+          <p>difficulty: beginner</p>
+          <img style="max-height: 180px" src="/img/final.jpg">
+          <img style="max-height: 180px" src="/img/final2.jpg">
+          <p>user: niko</p>
+    </div>
+  </a>
+  
+  <a href="/2017/09/06/burning-man-update.html" style="width: 300px; margin: auto ; cursor: pointer; font-weight: normal; text-decoration: none">
+    <div style=" border: 1px solid lightgrey; padding: 20px;">
+          <p><b>the burning man solar system</b></p>
+          <p>Discussion: 321 Comments</p>
+          <p>difficulty: beginner</p>
+          <img style="max-height: 180px" src="/img/sean/burningman2.jpg">
+          <img style="max-height: 180px" src="/img/sean/burningman1.jpg">
+          <p>user: sean</p>
+    </div>
+  </a>
+ <!-- <div style="width: 300px; border: 1px solid lightgrey; padding: 20px; margin:10px auto">
+          <p><b>burning man solar system #2</b></p>
+          <a href="2017/10/01/burning-man-solar-2.html">Read Now</a>
+          |
+          <a 
+           target="_blank"
+           href="/parts.html#charles"
+           onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');">
+              required parts
+          </a>
+          <p>Discussion: 12 Comments</p>
+          <p>difficulty: advanced</p>
+          <img style="max-height: 180px" src="/img/charles/1.jpg">
+          <img style="max-height: 180px" src="/img/charles/2.jpg">
+          <p>user: charles</p>
+  </div>
+
+   <div style="width: 300px; border: 1px solid lightgrey; padding: 20px; margin: 10px auto">
+          <p><b>RV & car usage</b></p>
+          <a href="2017/09/06/burning-man-update.html">Read Now</a>
+          <p>Discussion: 149 Comments</p>
+          <p>difficulty: medium</p>
+          <a 
+           target="_blank"
+           href="/parts.html#dan"
+           onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');">
+            view parts list
+          </a>
+          <br><br>
+          <img style="max-height: 180px" src="/dan/dan1.jpg">
+          <img style="max-height: 180px" src="/dan/dan2.jpg">
+          <p>user: dan</p>
+  </div> -->
+  <a href="/2017/09/17/what-will-it-run.html" style="width: 300px; margin: auto ; cursor: pointer; font-weight: normal; text-decoration: none">
+    <div style=" border: 1px solid lightgrey; padding: 20px; margin: 10px auto">
+            <p><b>Replacing appliances with low-power devices</b></p>
+            <p>Discussion: 0 Comments</p>
+            <p>difficulty: easy</p>
+            <img style="max-height: 180px" src="/img/devices/fridgebefore.jpg">
+            <img style="max-height: 180px" src="/img/devices/fridgeafter.jpg">
+            <p>user: niko</p>
+    </div>
+  </a>
+
+  <div style="width: 400px; border: 1px solid lightgrey; padding: 20px; margin: 10px auto; display: flex; 
+  align-items: center; justify-content: center;">     
+          <a 
+          target="_blank"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSfztLQA9UaDv0PBmEQcNTMOV8e6Qwnt1Tdvmf2fnf-jYdVzig/viewform?usp=sf_link"
+          onclick="ga('send', 'event', 'Submit', 'clicked', 'Same Page');"
+          class="btn btn-twitter">
+              <b>+ Share Your System</b><!-- <br> Have a build? Send a photo and parts list! -->
+          </a>
+  </div>
+  <div style="width: 400px; border: 1px solid lightgrey; padding: 20px; margin: 10px auto; display: flex; 
+  align-items: center; justify-content: center;">    
+          <iframe src="https://upscri.be/a543df/" style="border: 0;" width="100%"></iframe>
+  </div>
+</div>
+
+  
+  
+<br><br>
 <br><br><br>
 
 
-	<div style="text-align: left; max-width: 800px; margin: 0 auto; color: #606c71;">
-	  <hr>
-	  <p><b>More Articles</b></p>
-	  <ul>
-	    {% for post in site.posts %}
-	      <!-- <span>{{ post.date | date_to_string }}</span> -->
-	    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-	    {% endfor %}
-	    <li><a onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');" href="/parts.html">The Recommended Parts List</a></li>
-	  </ul>
-	  <hr>
-	</div>
-
-
-
-
-	<br><br><br>
-	<iframe src="https://upscri.be/a543df/" style="border: 0;" width="100%"></iframe>
-	  <br><br><br><br><br><br>
-	  <hr>
-
-
-
-
-  	<div id="disqus_thread"></div>
-	<script>
-	(function() { // DON'T EDIT BELOW THIS LINE
-	var d = document, s = d.createElement('script');
-	s.src = 'https://gridlesskits.disqus.com/embed.js';
-	s.setAttribute('data-timestamp', +new Date());
-	(d.head || d.body).appendChild(s);
-	})();
-	</script>
-	<br>
-   	<hr>   
-   	<br>     
-
-
-  	<p style="font-size: .7rem; color: grey">projectsunbox.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com</p>
+  	<p style="font-size: .7rem; color: grey">sunboxlabs.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com</p>
 </footer>

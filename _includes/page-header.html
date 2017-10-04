@@ -1,53 +1,10 @@
-<div id="header-wrap">
-    <div id="header">
-        <div style="margin-right: 25px; max-width: 40%; float: right">
-          <a 
-           href="/parts.html"
-           class="btn btn-amazon"
-           target="_blank"
-           style="margin: 0; margin-left: 5px; padding-top: 15px; padding-bottom: 15px; "
-           onclick="ga('send', 'event', 'AffLink', 'clicked', 'Corner Button');">
-              <img src="/img/icon1.png" style="max-height: 1em"> <b>Build:</b> View Parts List
-          </a>
-        </div>
-        <div style="max-width: 45%; float: right;">
-          <a href="mailto:n.dunkel@gmail.com"
-            class="btn btn-twitter"
-            onclick="ga('send', 'event', 'Submit', 'clicked', 'Corner Button');"
-            style=" margin: 0; padding-top: 15px; padding-bottom: 15px;  "> 
-                <b>+ Share:</b> Submit Photos / Parts List
-          </a>
-        </div>
-    </div>
-</div>
-
-<script type="text/javascript">
-    var previousScroll = 0,
-    headerOrgOffset = $('#header').height();
-    $('#header-wrap').height($('#header').height());
-
-    $('#header-wrap').slideUp();
-    $(window).scroll(function () {
-        var currentScroll = $(this).scrollTop();
-        if (currentScroll > headerOrgOffset) {
-            if (currentScroll > previousScroll) {
-                $('#header-wrap').slideDown();
-            } else {
-                $('#header-wrap').slideUp();
-            }
-        } 
-        previousScroll = currentScroll; });
-</script>
-
-
-
 <section class="page-header" style="margin-bottom: 0px; padding-bottom: 0px;">
   <a href="/" style=" cursor: pointer; text-decoration: none">
     <h2 class="project-name" style="color: #191919">{{ site.title }}</h2>
   </a>
   <p class="sub-title" style="color:  #606c71; margin-top: 0px; font-size: 1.1rem ">{{ site.tagline }}
       <br><br>
-      <table  style=" margin: 0px auto; max-width: 800px">
+       <table  style=" margin: 0px auto; max-width: 800px">
         <tr>
           <td style="width: 30%">
             <img src="/img/money1.jpg" style="padding: 1px; max-width: 200px; width: 100%">
@@ -76,54 +33,15 @@
         </tr>
       </table>
 </p>
-<!-- <a href="http://twitter.com/gridlesskits"
-     class="btn btn-twitter"
-     onclick="ga('send', 'event', 'Twitter', 'clicked', 'Top');">
-        <img src="/img/icon2.png" style="max-height: 1em"> <b>Follow For Updates</b><br>on the project
-  </a> -->
 
-<br><br>
-
-<!-- <p  style="color: #606c71; margin-bottom: 4px; font-size: 1.1rem  ">Order one pre-assembled or build it yourself:</p>
- -->
-
-
-
-<!--   <a href="https://cash.me/$nikodunk" 
-     target="_blank"
-     class="btn btn-buy"
-     onclick="ga('send', 'event', 'Reserve', 'clicked', 'Top');"> 
-        <img src="/img/icon3.png" style="max-height: 1em"> <b>Support This Guide</b><br> $1 for Li-Po battery testing
-  </a> -->
-  <a 
-    href="mailto:n.dunkel@gmail.com"
-    onclick="ga('send', 'event', 'Submit', 'clicked', 'Same Page');"
-    class="btn btn-twitter">
-        <b>+ Share Your System</b><br> Have a build? Send a photo and parts list!
-  </a>
-  <a 
-     target="_blank"
-     class="btn btn-amazon"
-     href="/parts.html"
-     onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');">
-        <img src="/img/icon1.png" style="max-height: 1em"> <b>Build Your Own: View Parts List</b><br> See list, then scroll down for How-To Guide.
-  </a>
-
-
-<br><br><br>
-
-<div style="text-align: left; max-width: 800px; margin: 0 auto;">
-  <hr>
-  <p><b>Articles</b></p>
-  <ul>
-    {% for post in site.posts %}
-      <!-- <span>{{ post.date | date_to_string }}</span> -->
-    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-    <li><a onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');" href="/parts.html">The Recommended Parts List</a></li>
-  </ul>
-  <hr>
-</div>
+<br>
+<a
+           class="btn btn-amazon"
+           target="_blank"
+           href="/parts.html#niko"
+           onclick="ga('send', 'event', 'AffLink', 'clicked', 'Top of Page');">
+            <img src="/img/icon1.png" style="max-height: 1em"> <b>Build Your Own:</b> View Parts Lists
+</a>
 
 </section>
 

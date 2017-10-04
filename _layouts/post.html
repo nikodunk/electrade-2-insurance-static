@@ -2,12 +2,74 @@
 layout: default
 ---
 
+<div id="header-wrap">
+    <div id="header" style="display: flex; flex-direction: row-reverse;">
+        <div style="margin-right: 30px">
+          <a 
+           href="/parts.html"
+           class="btn btn-amazon"
+           target="_blank"
+           onclick="ga('send', 'event', 'AffLink', 'clicked', 'Corner Button');">
+              <img src="/img/icon1.png" style="max-height: 1em"> <b>Build:</b> Parts Lists
+          </a>
+        </div>
+        <div style="margin-right: 10px">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfztLQA9UaDv0PBmEQcNTMOV8e6Qwnt1Tdvmf2fnf-jYdVzig/viewform?usp=sf_link"
+            class="btn btn-twitter"
+            onclick="ga('send', 'event', 'Submit', 'clicked', 'Corner Button');"> 
+                <b>+ Share Your System</b>
+          </a>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var previousScroll = 0,
+    headerOrgOffset = $('#header').height();
+    $('#header-wrap').height($('#header').height());
+
+    $('#header-wrap').slideUp();
+    $(window).scroll(function () {
+        var currentScroll = $(this).scrollTop();
+        if (currentScroll > headerOrgOffset) {
+            if (currentScroll > previousScroll) {
+                $('#header-wrap').slideDown();
+            } else {
+                $('#header-wrap').slideUp();
+            }
+        } 
+        previousScroll = currentScroll; });
+</script>
+
 
 <!-- <p class="meta">{{ page.date | date_to_string }}</p>  -->
 
-
-
-
 <br><br><br>
-<p><b>{{ page.title }}</b></p>
-{{ content }}
+
+<div style="max-width: 600px; margin: auto">
+	<p style="text-align: center"><b>{{ page.title }}</b></p>
+	<br>
+	{{ content }}
+
+
+
+
+	<br><br><br><br><br><br>
+	<hr>
+
+  	<div id="disqus_thread"></div>
+	<script>
+	(function() { // DON'T EDIT BELOW THIS LINE
+	var d = document, s = d.createElement('script');
+	s.src = 'https://gridlesskits.disqus.com/embed.js';
+	s.setAttribute('data-timestamp', +new Date());
+	(d.head || d.body).appendChild(s);
+	})();
+	</script>
+	<br>
+   	<hr>   
+   	<br>     
+
+</div>
+
+

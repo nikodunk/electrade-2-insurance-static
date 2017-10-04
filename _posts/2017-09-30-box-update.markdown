@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Box Update"
-date:   2017-09-10 08:00:00 -0700
+date:   2017-09-30 08:00:00 -0700
 ---
 
   
@@ -12,4 +12,3 @@ First Try: A HackerNews reader told me that an Igloo Lunchbox fit the battery & 
 ![](/img/box1.jpg)
 
 Argh! So close! Return. More updates soon.
-
