@@ -18,6 +18,11 @@ Evaporative Cooler instead of building your own. $112
 
 $810 for the total package. The benefits are that you get to use a lithium-based battery which is 20 lbs lighter, you can use a foldable solar panel which is more portable, and you buy a pre-assembled evaporative cooler which has nice features like swinging. Mainly this is a good solution for those that just want to press buttons and set up their configuration in a few hours otherwise the kit seems like a good option too.
 
+![](/img/charles/charles1.png) | ![](/img/charles/charles2.png)
+:---------------------------:|:-------------------------:
+							 |
+
+
 I used this configuration at burning man and the battery was permanently charged even with the cooler on the whole time. I needed another shade structure for the tent to keep it down a couple more degrees but I was able to sleep until noon with this set up and be totally off grid and have enough power left over for lights and music.
 
 <br><br><br>
