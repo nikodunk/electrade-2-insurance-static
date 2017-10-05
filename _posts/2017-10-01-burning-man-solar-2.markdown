@@ -4,7 +4,7 @@ title:  "Lithium-ion based Burning Man System"
 date:   2017-10-01 08:00:00 -0700
 ---
 
-Here is the much more portable and expensive version of <a href="/2017/06/20/200-apartment-solar-system.html">niko's</a> kit.
+Here is the much more portable and expensive version of <a href="/2017/09/06/burning-man-update.html">sean's</a> kit.
 
 <a href="/parts.html#charles">See the parts list</a>
 
