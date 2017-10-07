@@ -23,14 +23,46 @@ To run the Solar Pi you need
 * SQLite3 installed
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div style="text-align: center">
 <br><br>
-<p style="color: orange;"><b>The goods</b></p>
-<br>
-<a class="btn btn-amazon" 
+<p style="color: orange;"><b>The kit</b></p>
+<div style="border: 5px solid orange; padding-left: 15px; padding-right: 15px">      
+ <script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B01CD5VC92";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "44b20e7ab9009c619cf5d278c43b06d1";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+
+Software – <a class="btn btn-amazon" 
 style="background-color: orange" 
 target="_blank"
 onclick="ga('send', 'event', 'Github Button', 'clicked', 'russell');"
 href="https://github.com/Tafkas/solarpi"><b>View code on Github</b></a>
-<br><br>
-</div>	
+          
+          <p style="text-align: center"><i>Note: Ad-blockers hide the Amazon links you should be seeing here</i></p>
+ </div>
+ <br>
+
+</div>
