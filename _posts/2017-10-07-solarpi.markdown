@@ -13,6 +13,14 @@ A Raspberry Pi based, Flask powered photovoltaic monitor.
 :---------------------------:|:-------------------------:
 							 |
 
+Demo at <a href="Demo at http://solarpi.tafkas.net" target="_blank">http://solarpi.tafkas.net</a>
+
+Prerequisites
+
+To run the Solar Pi you need
+
+* A Linux server running Python 2.7 (e.g. Raspberry Pi running Raspbian)
+* SQLite3 installed
 
 
 <div style="text-align: center">
@@ -22,7 +30,7 @@ A Raspberry Pi based, Flask powered photovoltaic monitor.
 <a class="btn btn-amazon" 
 style="background-color: orange" 
 target="_blank"
-onclick="ga('send', 'event', 'Buy Button', 'clicked', 'russell');"
+onclick="ga('send', 'event', 'Github Button', 'clicked', 'russell');"
 href="https://github.com/Tafkas/solarpi"><b>View code on Github</b></a>
 <br><br>
 </div>	
