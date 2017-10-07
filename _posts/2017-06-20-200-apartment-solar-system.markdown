@@ -210,7 +210,7 @@ In San Francisco we get 4.26 hours of usable sunshine a day (or 1156 hours a yea
 	
 	Total: 82Wh energy need per day in room (up to 382Wh)`
 
-This should be easily met by the solar system. I turn the inverter on when I get home to use AC lights and charge the Macbook through the power brick, and turn it off before I go to bed to avoid energy drain. My phone’s USB (which is direct current) can charge all night straight through the solar controller itself (which has USB ports) and doesn’t require the inverter. My laptop is a DC device and could be charged straight off the 12V battery, but I found it easier to just charge it with the AC power brick through the inverter.
+This should be easily met by the solar system. I turn the inverter on when I get home to use AC lights and charge the Macbook through the power brick, and turn it off before I go to bed to avoid energy drain. My phone’s USB (which is direct current) can charge all night straight through the solar controller itself (which has USB ports) and doesn’t require the inverter. My laptop is a DC device and could be charged straight off the 12V battery, but I found it easier to just charge it with the AC power brick through the inverter. More info on what you can run off the system in the follow-up article<a href="/2017/09/17/what-will-it-run.html">here</a>.
 
 ![](/img/GENERATION.jpg) | ![](/img/GENERATION2.jpg)
 :-----------------------------:|:-------------------------:
