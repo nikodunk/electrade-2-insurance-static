@@ -63,4 +63,30 @@ target="_blank"
 onclick="ga('send', 'event', 'Buy Button', 'clicked', 'russell');"
 href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B00UK56AR2&Quantity.1=1&ASIN.2=B00KLOQ9NM&Quantity.2=1"><b>Add parts to cart</b></a>
 <br><br>
-</div>							 
+</div>	
+
+
+
+
+
+<b>Tech Specs</b><a name="specs"></a>
+
+
+	Monochristalline Solar Panel
+		Max power rating: 20W
+		Daily output: 4.2h * 20W = 84Wh
+
+
+	Power bank
+		Voltage: 5V DC
+		Storage Capacity: 10Ah * 5V = 50Ah
+		SunJack 10000mAh
+		Power Bank QC 3.0
+		Dimensions: 3.98 x 2.48 x 0.87 inches (101 x 63 x 22 mm)
+      	Weight: 6.35 ounces (180 g)
+      	Input: USB: 5V, 2.1A (Max)
+		USB-C: 5V, 2A (Max)
+		Output: USB: 5V, 2A (Max)
+        QC3.0: 3.6-12V, 3A (Max)
+        USB-C: 5V, 2A (Max)
+
