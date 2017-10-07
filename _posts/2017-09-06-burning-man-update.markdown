@@ -26,4 +26,167 @@ Sean listed the main three reasons he decided to build his own system vs. bringi
 
 We're going to add a box to the recommended kit, to give it a more rugged and finished look for outdoors and festival use.
 
-See <a href="2017/06/20/200-apartment-solar-system.html#specs"> tech specs</a>, the <a href="2017/06/20/200-apartment-solar-system.html#how-to">how-to guide</a> and the <a onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');" href="/parts.html#sean">parts list</a> for more info.
+See the <a href="2017/06/20/200-apartment-solar-system.html#how-to">how-to guide</a> for assembly instructions.
+
+
+
+
+<div style="text-align: center">
+<br><br>
+<p style="color: orange;"><b>The kit</b></p>
+<div style="border: 5px solid orange; padding-left: 15px; padding-right: 15px">      
+    
+			<script type="text/javascript">
+            amzn_assoc_tracking_id = "gridlesskits-20";
+            amzn_assoc_ad_mode = "manual";
+            amzn_assoc_ad_type = "smart";
+            amzn_assoc_marketplace = "amazon";
+            amzn_assoc_region = "US";
+            amzn_assoc_design = "enhanced_links";
+            amzn_assoc_asins = "B00L6LZRXM";
+            amzn_assoc_placement = "adunit";
+            amzn_assoc_linkid = "765f985de9909d402fde1ce8724faf32";
+            </script>
+            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+            <script type="text/javascript">
+            amzn_assoc_tracking_id = "gridlesskits-20";
+            amzn_assoc_ad_mode = "manual";
+            amzn_assoc_ad_type = "smart";
+            amzn_assoc_marketplace = "amazon";
+            amzn_assoc_region = "US";
+            amzn_assoc_design = "enhanced_links";
+            amzn_assoc_asins = "B015DJ4QX4";
+            amzn_assoc_placement = "adunit";
+            amzn_assoc_linkid = "face2bfee9d3f09e8aa52fd38d22577f";
+            </script>
+            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+            <script type="text/javascript">
+            amzn_assoc_tracking_id = "gridlesskits-20";
+            amzn_assoc_ad_mode = "manual";
+            amzn_assoc_ad_type = "smart";
+            amzn_assoc_marketplace = "amazon";
+            amzn_assoc_region = "US";
+            amzn_assoc_design = "enhanced_links";
+            amzn_assoc_asins = "B06ZY6ZPWQ";
+            amzn_assoc_placement = "adunit";
+            amzn_assoc_linkid = "6ef5d6de5634380970d737c29cc53336";
+            </script>
+            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+            <script type="text/javascript">
+            amzn_assoc_tracking_id = "gridlesskits-20";
+            amzn_assoc_ad_mode = "manual";
+            amzn_assoc_ad_type = "smart";
+            amzn_assoc_marketplace = "amazon";
+            amzn_assoc_region = "US";
+            amzn_assoc_design = "enhanced_links";
+            amzn_assoc_asins = "B01NAUV18K";
+            amzn_assoc_placement = "adunit";
+            amzn_assoc_linkid = "a70b5df7254c0970c03805b05b51b272";
+            </script>
+            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+            <script type="text/javascript">
+            amzn_assoc_tracking_id = "gridlesskits-20";
+            amzn_assoc_ad_mode = "manual";
+            amzn_assoc_ad_type = "smart";
+            amzn_assoc_marketplace = "amazon";
+            amzn_assoc_region = "US";
+            amzn_assoc_design = "enhanced_links";
+            amzn_assoc_asins = "B017PI2OUS";
+            amzn_assoc_placement = "adunit";
+            amzn_assoc_linkid = "5fe6418e10905709a14a3a604ef75fd5";
+            </script>
+            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+            <script type="text/javascript">
+            amzn_assoc_tracking_id = "gridlesskits-20";
+            amzn_assoc_ad_mode = "manual";
+            amzn_assoc_ad_type = "smart";
+            amzn_assoc_marketplace = "amazon";
+            amzn_assoc_region = "US";
+            amzn_assoc_design = "enhanced_links";
+            amzn_assoc_asins = "B000ND0WB6";
+            amzn_assoc_placement = "adunit";
+            amzn_assoc_linkid = "b9cbc9f21a52ecf9ec2c45d7be847f98";
+            </script>
+            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+            <script type="text/javascript">
+            amzn_assoc_tracking_id = "gridlesskits-20";
+            amzn_assoc_ad_mode = "manual";
+            amzn_assoc_ad_type = "smart";
+            amzn_assoc_marketplace = "amazon";
+            amzn_assoc_region = "US";
+            amzn_assoc_design = "enhanced_links";
+            amzn_assoc_asins = "B0046QYRTE";
+            amzn_assoc_placement = "adunit";
+            amzn_assoc_linkid = "e020e97664f8885b7a65740674262010";
+            </script>
+            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+          
+            <p style="text-align: center"><i>Note: Ad-blockers hide the Amazon links you should be seeing here</i></p>
+ </div>
+ <br>
+<a class="btn btn-amazon" 
+style="background-color: orange" 
+target="_blank"
+onclick="ga('send', 'event', 'Buy Button', 'clicked', 'Cart');"
+href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B00L6LZRXM&Quantity.1=1&ASIN.2=B015DJ4QX4&Quantity.2=1&ASIN.3=B06ZY6ZPWQ&Quantity.3=1&ASIN.4=B01NAUV18K&Quantity.4=1&ASIN.5=B017PI2OUS&Quantity.5=1&ASIN.6=B000ND0WB6&Quantity.6=1&ASIN.7=B0046QYRTE&Quantity.7=1"><b>Add parts to cart</b></a>
+<br><br>
+</div>
+
+
+
+
+<br><br><br>
+
+<b>Tech Specs</b><a name="specs"></a>
+
+
+	Polychristalline Solar Panel
+		Size: 39.8 x 1.2 x 26.6 inches
+		Weight: 19.6 pounds
+		Voltage: 12V DC
+		Max power rating: 100W
+		Max amperage: 8.3A 
+
+	
+	Inverter
+		Max power rating: 150W 
+
+(turns off if you use more than this, but a 300W version is $6 more)
+		
+		Voltage: 12V DC in, 110V AC out
+		Only DC 12V, NOT for DC 24V
+		USB Output: 5V/1+2.1A (5W and 10.5W respectively)
+
+		
+	Solar controller 
+		Voltage: 12V/24V
+		Ports: 2x USB, 1x DC in, 1x DC out
+		Charge Current: 20A
+		Discharge Current: 20A
+		Max in: 20A * 12V = 240W
+		Max out: 20A * 12V = 240W
+		USB Output: 5V/3A (15W) each
+		Type: PWM
+		Weight: 0.25 pounds
+		Size: 5.9 x 3 x 1.4in
+		Will upgrade to a USB-C version when available
+
+	Marine lead-acid battery (Deep Cycle)
+		Voltage: 12V DC
+		Storage Capacity: 0.42Kwh, 35Ah
+		Size: 6.5 x 7.7 x 5.1 in
+		Weight: 25 pounds
+
+	Cables (aka "Tender" or "B.O.M.")
+		Alligator Clips (for connecting the battery to the solar controller)
+		20Ft Extension Cable 
+
+(MC4 12AWG, for connecting the solar panel to the solar controller)
+
+

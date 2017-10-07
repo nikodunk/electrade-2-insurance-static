@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "What devices can the system run?"
+title:  "Low-energy devices for an off-grid home"
 date:   2017-09-17 08:00:00 -0700
 ---
 
 
-A lot of questions we receive here are as to what you can charge and how far the energy will reach. I thought this would be worth a separate, more in-depth analysis. The findings from this article are now in the updated <a onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');" href="/parts.html" target="_blank">Parts List</a>
+A lot of questions we receive here are as to what you can charge and how far the energy will reach. I thought this would be worth a separate, more in-depth analysis.
 
 What adjustments would living off a single 420Wh system require of your lifestyle?
 Worst energy culprits in my household are roughly in order of energy use: hot water tank for showers, stove/kettle, transportation, air heating, air cooling, fridge, dishwasher, washer/dryer, lighting. Living off 420wh a day requires replacing the culprits with lower-power parts (often intended for car, RV or marine use). At this point this project becomes very similar to the original inspiration for these projects - Robin Rhineharts <a href="https://arstechnica.com/gadgets/2015/08/op-ed-how-i-gave-up-alternating-current/" target="_blank">How I gave up alternating current</a> (Robin Rhinehart is the founder of Soylent). Replacing high-energy AC appliances with low-energy DC ones to stay within the 420Wh "budget".
@@ -142,9 +142,128 @@ Total energy required to use all devices above every day:
 
 This can be covered by 4 systems/personal power plants for roughly $880 dollars. Granted, we'd raise some eyebrows, but we wouldn't be living like a hermit and it'd be as close as we could get to an off-grid DC-only lifestyle.
 
-<br><br>See all the devices listed above <a onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');" href="/parts.html">here</a>. Note that all of them (apart from the evap cooler) run on DC, so it's recommended to build the DC-only system from <a onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');" href="/parts.html">the parts page</a>.
+<br><br>See all the devices listed above below. Note that all of them (apart from the evap cooler) run on DC, so you could theoretically leave off the AC inverter and run directly off 12V DC (shoot me an <a href="mailto:n.dunkel@gmail.com">email</a> if you have any questions).
 
 High-power devices in my household that have no low-power replacement yet:
 * Hot water tank: 4200W water heater => would have to be replaced with a solar water heater. This is a non-electric, purely mechanical system, similar to the system installed by Jimmy Carter on the white house in the 70s.
 * Dishwasher: Dishwasher => Hand wash dishes. Sorry y’all. 
 * Washer/dryer: Washer/Dryer => Hand wash clothes and hang dry feasible? 
+
+
+
+
+<div style="text-align: center">
+<br><br>
+<p style="color: orange;"><b>The kit</b></p>
+<div style="border: 5px solid orange; padding-left: 15px; padding-right: 15px">      
+    
+
+<br><br>LED Light (45W – usable 9h/day)
+
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B01CGBO1PK";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "72311d3ad0ffeaac049ab2553e4c6ded";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+
+<br><br>Fridge (60W – usable 7h/day)
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B01LYFKZRT";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "407a837d646c6fed6313fba193374f9f";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+
+<br><br>Stove/Water Heater Replacement (144W – usable 3h/day)
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B00030DLEE";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "9c3dac5a97b97d0aeab6bcd7416b39e6";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+
+<br><br>Heating Replacement (150W – usable 3h/day)
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B0066CP998";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "f51f3466d621decdf18576b8070e954f";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+
+<br><br>Air conditioning replacement (45W – usable 9h/day)
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B007SNQ4FM";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "de04f31d00a52ef4959b28d465e13a87";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+
+<br><br>Transport replacement (97Wh – get 4 charges/day)
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B01M0LI1CX";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "18778076705ee6de352f019a4117da3c";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+                
+<br><br>Communication (9W – usable 46h/day)
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B01LFSDZCU";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "82e5fb9369bbb754417e44c82ab86d0d";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+          
+          <p style="text-align: center"><i>Note: Ad-blockers hide the Amazon links you should be seeing here</i></p>
+ </div>
+<br><br>
+</div>

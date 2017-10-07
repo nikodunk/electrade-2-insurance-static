@@ -37,8 +37,107 @@ Questions remain. Can this system make any meaningful energy? Does it make finan
 <b>How-To Guide</b><a name="how-to"></a>
 
 My goal is to take care of the energy needs for just my bedroom. 4 main components are all we need to achieve this: A solar panel to collect, a battery to store, an inverter to convert the direct current to alternating current, and a “charge controller” to balance the three other components. 
-![](/img/AMAZON.jpg)
-I’m using bargain-basement parts intended for RV, marine & car usage which keeps my system cheap and mobile. The main components as found on Amazon are above. Anyone looking to build a similar system themselves can view the full component list <a href="/parts.html" onclick="ga('send', 'event', 'AffLink', 'clicked', 'Same Page');">here</a> (send your build <a href="mailto:n.dunkel@gmail.com" onclick="ga('send', 'event', 'Submit', 'clicked', 'In-text');">to us</a>, how it went and what we can improve! We'll repost – and we'd love to know!). 
+
+
+<div style="text-align: center">
+<br><br>
+<p style="color: orange;"><b>The kit</b></p>
+<div style="border: 5px solid orange; padding-left: 15px; padding-right: 15px">      
+    
+			<script type="text/javascript">
+            amzn_assoc_tracking_id = "gridlesskits-20";
+            amzn_assoc_ad_mode = "manual";
+            amzn_assoc_ad_type = "smart";
+            amzn_assoc_marketplace = "amazon";
+            amzn_assoc_region = "US";
+            amzn_assoc_design = "enhanced_links";
+            amzn_assoc_asins = "B00L6LZRXM";
+            amzn_assoc_placement = "adunit";
+            amzn_assoc_linkid = "765f985de9909d402fde1ce8724faf32";
+            </script>
+            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+            <script type="text/javascript">
+            amzn_assoc_tracking_id = "gridlesskits-20";
+            amzn_assoc_ad_mode = "manual";
+            amzn_assoc_ad_type = "smart";
+            amzn_assoc_marketplace = "amazon";
+            amzn_assoc_region = "US";
+            amzn_assoc_design = "enhanced_links";
+            amzn_assoc_asins = "B015DJ4QX4";
+            amzn_assoc_placement = "adunit";
+            amzn_assoc_linkid = "face2bfee9d3f09e8aa52fd38d22577f";
+            </script>
+            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+            <script type="text/javascript">
+            amzn_assoc_tracking_id = "gridlesskits-20";
+            amzn_assoc_ad_mode = "manual";
+            amzn_assoc_ad_type = "smart";
+            amzn_assoc_marketplace = "amazon";
+            amzn_assoc_region = "US";
+            amzn_assoc_design = "enhanced_links";
+            amzn_assoc_asins = "B06ZY6ZPWQ";
+            amzn_assoc_placement = "adunit";
+            amzn_assoc_linkid = "6ef5d6de5634380970d737c29cc53336";
+            </script>
+            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+            <script type="text/javascript">
+            amzn_assoc_tracking_id = "gridlesskits-20";
+            amzn_assoc_ad_mode = "manual";
+            amzn_assoc_ad_type = "smart";
+            amzn_assoc_marketplace = "amazon";
+            amzn_assoc_region = "US";
+            amzn_assoc_design = "enhanced_links";
+            amzn_assoc_asins = "B01NAUV18K";
+            amzn_assoc_placement = "adunit";
+            amzn_assoc_linkid = "a70b5df7254c0970c03805b05b51b272";
+            </script>
+            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+            <script type="text/javascript">
+            amzn_assoc_tracking_id = "gridlesskits-20";
+            amzn_assoc_ad_mode = "manual";
+            amzn_assoc_ad_type = "smart";
+            amzn_assoc_marketplace = "amazon";
+            amzn_assoc_region = "US";
+            amzn_assoc_design = "enhanced_links";
+            amzn_assoc_asins = "B017PI2OUS";
+            amzn_assoc_placement = "adunit";
+            amzn_assoc_linkid = "5fe6418e10905709a14a3a604ef75fd5";
+            </script>
+            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+            <script type="text/javascript">
+            amzn_assoc_tracking_id = "gridlesskits-20";
+            amzn_assoc_ad_mode = "manual";
+            amzn_assoc_ad_type = "smart";
+            amzn_assoc_marketplace = "amazon";
+            amzn_assoc_region = "US";
+            amzn_assoc_design = "enhanced_links";
+            amzn_assoc_asins = "B000ND0WB6";
+            amzn_assoc_placement = "adunit";
+            amzn_assoc_linkid = "b9cbc9f21a52ecf9ec2c45d7be847f98";
+            </script>
+            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+          
+            <p style="text-align: center"><i>Note: Ad-blockers hide the Amazon links you should be seeing here</i></p>
+ </div>
+ <br>
+<a class="btn btn-amazon" 
+style="background-color: orange" 
+target="_blank"
+onclick="ga('send', 'event', 'Buy Button', 'clicked', 'Cart');"
+href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B00L6LZRXM&Quantity.1=1&ASIN.2=B015DJ4QX4&Quantity.2=1&ASIN.3=B06ZY6ZPWQ&Quantity.3=1&ASIN.4=B01NAUV18K&Quantity.4=1&ASIN.5=B017PI2OUS&Quantity.5=1&ASIN.6=B000ND0WB6&Quantity.6=1"><b>Add parts to cart</b></a>
+<br><br>
+</div>
+
+
+
+
+I’m using bargain-basement parts intended for RV, marine & car usage which keeps my system cheap and mobile. The main components as found on Amazon are above. 
+
 
 ![](/img/BOXES.jpg)   |  ![](/img/COMPONENTS.jpg)
 :-------------------------:|:-------------------------:
