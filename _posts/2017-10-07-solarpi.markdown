@@ -13,7 +13,7 @@ A Raspberry Pi based, Flask powered photovoltaic monitor.
 :---------------------------:|:-------------------------:
 							 |
 
-Demo at <a href="Demo at http://solarpi.tafkas.net" target="_blank">http://solarpi.tafkas.net</a>
+Demo at <a href="http://solarpi.tafkas.net" target="_blank">http://solarpi.tafkas.net</a>
 
 Prerequisites
 
