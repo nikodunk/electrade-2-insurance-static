@@ -54,7 +54,9 @@ amzn_assoc_linkid = "01ae2177008f3cc95d34403a2c8110bf";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-            <p style="text-align: center"><i>Note: Ad-blockers hide the Amazon links you should be seeing here</i></p>
+            <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
+            <br><a href="http://amzn.to/2y7YMLn" target="_blank">Solar Panel</a>
+            <br><a href="http://amzn.to/2fU2vSX" target="_blank">Battery</a></p>
  </div>
  <br>
 <a class="btn btn-amazon" 
