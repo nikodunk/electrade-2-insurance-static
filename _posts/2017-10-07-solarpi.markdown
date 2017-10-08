@@ -61,7 +61,8 @@ target="_blank"
 onclick="ga('send', 'event', 'Github Button', 'clicked', 'russell');"
 href="https://github.com/Tafkas/solarpi"><b>View code on Github</b></a>
           
-          <p style="text-align: center"><i>Note: Ad-blockers hide the Amazon links you should be seeing here</i></p>
+          <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
+            <br><a href="http://amzn.to/2y8FxkZ" target="_blank">Raspberry Pi</a></p>
  </div>
  <br>
 

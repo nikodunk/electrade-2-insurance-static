@@ -75,7 +75,11 @@ Here is the much more portable and expensive version of <a href="/2017/09/06/bur
           </script>
           <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
           
-          <p style="text-align: center"><i>Note: Ad-blockers hide the Amazon links you should be seeing here</i></p>
+          <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
+            <br><a href="http://amzn.to/2y7S3kt" target="_blank">Lithium Ion Battery + Inverter</a>
+            <br><a href="http://amzn.to/2xp4p9g" target="_blank">80W Foldable Solar Panels</a>
+            <br><a href="http://amzn.to/2y88NIr" target="_blank">DC Cable</a>
+            <br><a href="http://amzn.to/2xqw0lq" target="_blank">Low-Power Evaporative Cooler</a></p>
  </div>
  <br>
 <a class="btn btn-amazon" 
