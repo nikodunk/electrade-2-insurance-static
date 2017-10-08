@@ -127,7 +127,14 @@ See the <a href="2017/06/20/200-apartment-solar-system.html#how-to">how-to guide
             </script>
             <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
           
-            <p style="text-align: center"><i>Note: Ad-blockers hide the Amazon links you should be seeing here</i></p>
+            <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
+            <br><a href="http://amzn.to/2z60eMR" target="_blank">Solar Panel</a>
+            <br><a href="http://amzn.to/2xpB5PR" target="_blank">Battery</a>
+            <br><a href="http://amzn.to/2y8mZld" target="_blank">Charge Controller</a>
+            <br><a href="http://amzn.to/2xp6TEK" target="_blank">Micro Inverter</a>
+            <br><a href="http://amzn.to/2g0LHNG" target="_blank">MC4 Cable</a>
+            <br><a href="http://amzn.to/2z60eMR" target="_blank">Alligator Clips</a>
+            <br><a href="http://amzn.to/2xqECh2" target="_blank">Case / Toolbox</a></p>
  </div>
  <br>
 <a class="btn btn-amazon" 

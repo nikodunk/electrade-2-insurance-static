@@ -122,7 +122,7 @@ My goal is to take care of the energy needs for just my bedroom. 4 main componen
             </script>
             <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
           
-            <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links, so here's the plain text links:</i>
+            <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
             <br><a href="http://amzn.to/2z60eMR" target="_blank">Solar Panel</a>
             <br><a href="http://amzn.to/2xpB5PR" target="_blank">Battery</a>
             <br><a href="http://amzn.to/2y8mZld" target="_blank">Charge Controller</a>
