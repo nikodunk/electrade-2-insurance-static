@@ -158,7 +158,7 @@ High-power devices in my household that have no low-power replacement yet:
 <div style="border: 5px solid orange; padding-left: 15px; padding-right: 15px">      
     
 
-<br><br>LED Light (45W – usable 9h/day)
+<br><br>LED Light (45Wh – usable 9h/day)
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "gridlesskits-20";
@@ -263,7 +263,14 @@ amzn_assoc_linkid = "82e5fb9369bbb754417e44c82ab86d0d";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
           
-          <p style="text-align: center"><i>Note: Ad-blockers hide the Amazon links you should be seeing here</i></p>
+          <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
+            <br><a href="http://amzn.to/2xqifTT" target="_blank">5W LED USB Lightbulbs (DC)</a>
+            <br><a href="http://amzn.to/2fT4HKl" target="_blank">60W Mini-Fridge (DC)</a>
+	        <br><a href="http://amzn.to/2y82JQe" target="_blank">144W Stove (DC)</a>
+		    <br><a href="http://amzn.to/2yPs92D" target="_blank">150W Ceramic Space Heater (DC)</a>
+			<br><a href="http://amzn.to/2xoQfVD" target="_blank">45W Evaporative Cooler (DC, but with AC brick)</a>
+			<br><a href="http://amzn.to/2y87SI8" target="_blank">97Wh Electric Skateboard (DC, but with AC brick)</a>
+			<br><a href="http://amzn.to/2y8G32p" target="_blank">9W Wifi (DC, but with AC brick)</a></p>
  </div>
 <br><br>
 </div>
