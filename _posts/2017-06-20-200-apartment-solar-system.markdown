@@ -123,12 +123,12 @@ My goal is to take care of the energy needs for just my bedroom. 4 main componen
             <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
           
             <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
-            <br><a href="http://amzn.to/2z60eMR" target="_blank">100W Solar Panel</a>
-            <br><a href="http://amzn.to/2xpB5PR" target="_blank">420Wh Deep Cycle Battery</a>
-            <br><a href="http://amzn.to/2y8mZld" target="_blank">Charge Controller</a>
-            <br><a href="http://amzn.to/2xp6TEK" target="_blank">150W Micro Inverter</a>
-            <br><a href="http://amzn.to/2g0LHNG" target="_blank">MC4 Cable</a>
-            <br><a href="http://amzn.to/2z60eMR" target="_blank">Alligator Clips</a></p>
+            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">100W Solar Panel</a>
+            <br><a href="http://amzn.to/2xpB5PR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">420Wh Deep Cycle Battery</a>
+            <br><a href="http://amzn.to/2y8mZld" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">Charge Controller</a>
+            <br><a href="http://amzn.to/2xp6TEK" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">150W Micro Inverter</a>
+            <br><a href="http://amzn.to/2g0LHNG" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">MC4 Cable</a>
+            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">Alligator Clips</a></p>
 
  </div>
  <br>
