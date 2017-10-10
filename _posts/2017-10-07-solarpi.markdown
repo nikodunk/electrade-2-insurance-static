@@ -40,22 +40,12 @@ More details and a write-up coming soon!
 <div style="text-align: center">
 <br><br>
 <p style="color: orange;"><b>The kit</b></p>
-<div style="border: 5px solid orange; padding-left: 15px; padding-right: 15px">      
- <script type="text/javascript">
-amzn_assoc_tracking_id = "gridlesskits-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01CD5VC92";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "44b20e7ab9009c619cf5d278c43b06d1";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<div style="border: 5px solid orange; padding: 20px">   
+
+ <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01CD5VC92&asins=B01CD5VC92&linkId=eb7d71b7c477260e57099d3902de15c0&show_border=true&link_opens_in_new_window=true"></iframe>
 
 
-Software – <a class="btn btn-amazon" 
+<br><br>Software – <a class="btn btn-amazon" 
 style="background-color: orange" 
 target="_blank"
 onclick="ga('send', 'event', 'Github Button', 'clicked', 'russell');"

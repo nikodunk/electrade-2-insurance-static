@@ -19,7 +19,7 @@ The benefits are that you get to use a lithium-based battery which is 20 lbs lig
 <div style="text-align: center">
 <br><br>
 <p style="color: orange;"><b>The kit</b></p>
-<div style="border: 5px solid orange; padding-left: 15px; padding-right: 15px">      
+<div style="border: 5px solid orange; padding: 20px">      
     
 <br><br>Anker PowerHouse to store the energy. 400 WH which is about the same capacity as the deep cycle battery listed, but this is lithium based so it's much lighter (9.3 lbs vs about 30 lbs for the deep cycle version).<br><br>
             

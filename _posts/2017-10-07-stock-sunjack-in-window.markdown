@@ -26,33 +26,11 @@ I plan to have this power an old cell phone set to record in my green house or g
 <div style="text-align: center">
 <br><br>
 <p style="color: orange;"><b>The kit</b></p>
-<div style="border: 5px solid orange; padding-left: 15px; padding-right: 15px">      
+<div style="border: 5px solid orange; padding: 20px">      
     
-			<script type="text/javascript">
-amzn_assoc_tracking_id = "gridlesskits-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B00UK56AR2";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "8ef1ba830e290010296f3b38a9de20ec";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+			<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B00UK56AR2&asins=B00UK56AR2&linkId=99224dad1bc8d9fc8481aaacdfc9fd26&show_border=true&link_opens_in_new_window=true"></iframe>
 
-            <script type="text/javascript">
-amzn_assoc_tracking_id = "gridlesskits-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B00KLOQ9NM";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "01ae2177008f3cc95d34403a2c8110bf";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B00KLOQ9NM&asins=B00KLOQ9NM&linkId=9264580a06e3c1ed4b3cecf47d098a5c&show_border=true&link_opens_in_new_window=true"></iframe>
 
             <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
             <br><a href="http://amzn.to/2y7YMLn" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">Solar Panel</a>

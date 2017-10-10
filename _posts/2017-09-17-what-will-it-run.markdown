@@ -155,113 +155,36 @@ High-power devices in my household that have no low-power replacement yet:
 <div style="text-align: center">
 <br><br>
 <p style="color: orange;"><b>The kit</b></p>
-<div style="border: 5px solid orange; padding-left: 15px; padding-right: 15px">      
+<div style="border: 5px solid orange; padding: 20px">      
     
 
-<br><br>LED Light (45Wh – usable 9h/day)
+LED Light (45Wh – usable 9h/day)<br><br>
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "gridlesskits-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01CGBO1PK";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "72311d3ad0ffeaac049ab2553e4c6ded";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01CGBO1PK&asins=B01CGBO1PK&linkId=897405d3d9168c44b9e1a7e286688cef&show_border=true&link_opens_in_new_window=true"></iframe>
 
 
-<br><br>Fridge (60W – usable 7h/day)
-<script type="text/javascript">
-amzn_assoc_tracking_id = "gridlesskits-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01LYFKZRT";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "407a837d646c6fed6313fba193374f9f";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<br><br>Fridge (60W – usable 7h/day)<br><br>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01LYFKZRT&asins=B01LYFKZRT&linkId=e92c933d9758b8c099f238f41564a426&show_border=true&link_opens_in_new_window=true"></iframe>
 
 
-<br><br>Stove/Water Heater Replacement (144W – usable 3h/day)
-<script type="text/javascript">
-amzn_assoc_tracking_id = "gridlesskits-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B00030DLEE";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "9c3dac5a97b97d0aeab6bcd7416b39e6";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<br><br>Stove/Water Heater Replacement (144W – usable 3h/day)<br><br>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B00030DLEE&asins=B00030DLEE&linkId=c1ad8780c2ff97c70b0552ede3a188fc&show_border=true&link_opens_in_new_window=true"></iframe>
 
 
-<br><br>Heating Replacement (150W – usable 3h/day)
-<script type="text/javascript">
-amzn_assoc_tracking_id = "gridlesskits-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B0066CP998";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "f51f3466d621decdf18576b8070e954f";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<br><br>Heating Replacement (150W – usable 3h/day)<br><br>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B0066CP998&asins=B0066CP998&linkId=a0e2501e85ef387463a34ad47fc7bf50&show_border=true&link_opens_in_new_window=true"></iframe>
 
 
-<br><br>Air conditioning replacement (45W – usable 9h/day)
-<script type="text/javascript">
-amzn_assoc_tracking_id = "gridlesskits-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B007SNQ4FM";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "de04f31d00a52ef4959b28d465e13a87";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<br><br>Air conditioning replacement (45W – usable 9h/day)<br><br>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B007SNQ4FM&asins=B007SNQ4FM&linkId=27d62ccbbbffd7fc82b74c49a8a9decd&show_border=true&link_opens_in_new_window=true"></iframe>
 
 
-<br><br>Transport replacement (97Wh – get 4 charges/day)
-<script type="text/javascript">
-amzn_assoc_tracking_id = "gridlesskits-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01M0LI1CX";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "18778076705ee6de352f019a4117da3c";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<br><br>Transport replacement (97Wh – get 4 charges/day)<br><br>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01M0LI1CX&asins=B01M0LI1CX&linkId=06c13f012874ba7551caa030952afd19&show_border=true&link_opens_in_new_window=true"></iframe>
 
                 
-<br><br>Communication (9W – usable 46h/day)
-<script type="text/javascript">
-amzn_assoc_tracking_id = "gridlesskits-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01LFSDZCU";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "82e5fb9369bbb754417e44c82ab86d0d";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<br><br>Communication (9W – usable 46h/day)<br><br>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01LFSDZCU&asins=B01LFSDZCU&linkId=1783362acc517ede433c0fec058661c8&show_border=true&link_opens_in_new_window=true"></iframe>
           
           <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
             <br><a href="http://amzn.to/2xqifTT" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">5W LED USB Lightbulbs (DC)</a>
