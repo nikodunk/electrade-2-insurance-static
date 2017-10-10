@@ -42,85 +42,19 @@ My goal is to take care of the energy needs for just my bedroom. 4 main componen
 <div style="text-align: center">
 <br><br>
 <p style="color: orange;"><b>The kit</b></p>
-<div style="border: 5px solid orange; padding-left: 15px; padding-right: 15px">      
+<div style="border: 5px solid orange; padding: 20px; ">      
     
-			<script type="text/javascript">
-            amzn_assoc_tracking_id = "gridlesskits-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_design = "enhanced_links";
-            amzn_assoc_asins = "B00L6LZRXM";
-            amzn_assoc_placement = "adunit";
-            amzn_assoc_linkid = "765f985de9909d402fde1ce8724faf32";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+			<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B00L6LZRXM&asins=B00L6LZRXM&linkId=4102131e8f327f4c89c0a9ca80015ede&show_border=true&link_opens_in_new_window=true"></iframe>
 
-            <script type="text/javascript">
-            amzn_assoc_tracking_id = "gridlesskits-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_design = "enhanced_links";
-            amzn_assoc_asins = "B015DJ4QX4";
-            amzn_assoc_placement = "adunit";
-            amzn_assoc_linkid = "face2bfee9d3f09e8aa52fd38d22577f";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B015DJ4QX4&asins=B015DJ4QX4&linkId=4780763d2a9824fa01d399045b16ce90&show_border=true&link_opens_in_new_window=true"></iframe>
 
-            <script type="text/javascript">
-            amzn_assoc_tracking_id = "gridlesskits-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_design = "enhanced_links";
-            amzn_assoc_asins = "B06ZY6ZPWQ";
-            amzn_assoc_placement = "adunit";
-            amzn_assoc_linkid = "6ef5d6de5634380970d737c29cc53336";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B06ZY6ZPWQ&asins=B06ZY6ZPWQ&linkId=1b430adfffdbfd9e93b94b37235d9c13&show_border=true&link_opens_in_new_window=true"></iframe>
 
-            <script type="text/javascript">
-            amzn_assoc_tracking_id = "gridlesskits-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_design = "enhanced_links";
-            amzn_assoc_asins = "B01NAUV18K";
-            amzn_assoc_placement = "adunit";
-            amzn_assoc_linkid = "a70b5df7254c0970c03805b05b51b272";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01NAUV18K&asins=B01NAUV18K&linkId=f4946c85009d9b874e9af4d4f698c879&show_border=true&link_opens_in_new_window=true"></iframe>
 
-            <script type="text/javascript">
-            amzn_assoc_tracking_id = "gridlesskits-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_design = "enhanced_links";
-            amzn_assoc_asins = "B017PI2OUS";
-            amzn_assoc_placement = "adunit";
-            amzn_assoc_linkid = "5fe6418e10905709a14a3a604ef75fd5";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B017PI2OUS&asins=B017PI2OUS&linkId=f62bfc2931ce07df9de6f89fba444006&show_border=true&link_opens_in_new_window=true"></iframe>
 
-            <script type="text/javascript">
-            amzn_assoc_tracking_id = "gridlesskits-20";
-            amzn_assoc_ad_mode = "manual";
-            amzn_assoc_ad_type = "smart";
-            amzn_assoc_marketplace = "amazon";
-            amzn_assoc_region = "US";
-            amzn_assoc_design = "enhanced_links";
-            amzn_assoc_asins = "B000ND0WB6";
-            amzn_assoc_placement = "adunit";
-            amzn_assoc_linkid = "b9cbc9f21a52ecf9ec2c45d7be847f98";
-            </script>
-            <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B000ND0WB6&asins=B000ND0WB6&linkId=713b1b232093ab6c3a67a860227b69d7&show_border=true&link_opens_in_new_window=true"></iframe>
           
             <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
             <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">100W Solar Panel</a>
