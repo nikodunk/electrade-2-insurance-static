@@ -24,6 +24,8 @@ Sean listed the main three reasons he decided to build his own system vs. bringi
 
 "A <i>green</i> (his words) device with enough wattage to power a DC swamp cooler". He usually got 6 hours into the night before the battery was drained, but at that moment the sun came up and started generating energy again to power the swamp cooler.
 
+![](/img/sean/sketch.jpg)
+
 We're going to add a box to the recommended kit, to give it a more rugged and finished look for outdoors and festival use.
 
 See the <a href="2017/06/20/200-apartment-solar-system.html#how-to">how-to guide</a> for assembly instructions.
