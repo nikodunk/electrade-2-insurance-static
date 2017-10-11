@@ -3,6 +3,13 @@
 <footer class="page-header" style="margin: 0 auto; padding-top: 60px; font-family: 'Verdana', sans-serif;">
   
 <div style="text-align: left; margin: 0 auto; max-width: 1000px">
+    <a  class="submit-link"
+        target="_blank"
+        href="https://docs.google.com/forms/d/e/1FAIpQLSc44b2kjsdLXjWLOBrZ9g7XPng8cFYjSUTN0H7ysD5sSHXjfA/viewform?usp=sf_link"
+        onclick="ga('send', 'event', 'Submit', 'clicked', 'Thread');">  
+          <b>Submit</b>
+    </a>
+    <hr style="height: 1px; border: 0; border-top: 1px solid #ccc;" />
     <ol>
       {% for item in site.posts reversed %}
       <li> 
@@ -15,13 +22,8 @@
       </li>
       {% endfor %}
     </ol>
-    <hr style="height: 1px; border: 0; border-top: 1px solid #ccc;" />
-    <a  class="submit-link"
-        target="_blank"
-        href="https://docs.google.com/forms/d/e/1FAIpQLSc44b2kjsdLXjWLOBrZ9g7XPng8cFYjSUTN0H7ysD5sSHXjfA/viewform?usp=sf_link"
-        onclick="ga('send', 'event', 'Submit', 'clicked', 'Thread');">  
-          <b>Submit</b>
-    </a>
+    
+    
     
       <!-- <li> 
         Question: Is it possible to "pipe" sunlight through (thick) optical fibers, to take it 5 floors down from the roof? (I keep asking myself this for 20years but never tried)  - 
