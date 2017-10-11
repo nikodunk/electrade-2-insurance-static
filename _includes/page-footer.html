@@ -12,7 +12,18 @@
     </a>
     <hr style="height: 1px; border: 0; border-top: 1px solid #ccc;" />
     <ol>
+      {% for item in site.posts %}
       <li> 
+        <a href="{{ item.url }}">
+        {{ item.title }} </a> –
+        <a href="{{ item.url }}#discuss" onclick="ga('send', 'event', 'new-discuss', 'clicked', 'one');">
+          <a href="{{item.url}}#disqus_thread">discuss</a>
+          
+        </a>
+      </li>
+      {% endfor %}
+    </ol>
+      <!-- <li> 
         Question: Is it possible to "pipe" sunlight through (thick) optical fibers, to take it 5 floors down from the roof? (I keep asking myself this for 20years but never tried)  - 
         <a href="/2017/10/09/question-pipe.html" onclick="ga('send', 'event', 'new-discuss', 'clicked', 'one');">
           discuss
@@ -223,7 +234,7 @@
 </div>
                                                                                
 </div>
-                                                               
+            -->                                                    
 
 <br><br><br>                                                     
 <iframe src="https://upscri.be/a543df/" style="border: 0;" width="100%"></iframe>
@@ -236,3 +247,4 @@
 
   	<p style="font-size: .7rem; color: grey">sunboxlabs.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com</p>
 </footer>
+<script id="dsq-count-scr" src="//gridlesskits.disqus.com/count.js" async></script>
