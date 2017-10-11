@@ -3,3 +3,7 @@ layout: post
 title:  "More than 500 renewable energy and conservation projects you can build"
 date:   2017-10-10 08:00:00 -0700
 ---
+
+
+Check it out <a target="_blank" href="http://www.builditsolar.com/Projects/Projects.html" 
+              onclick="ga('send', 'event', 'great-link', 'clicked', 'exit');">here</a>.
