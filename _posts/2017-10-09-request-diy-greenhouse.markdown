@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Request DIY Greenhouse + Solar"
+title:  "Request: DIY Greenhouse + Solar"
 date:   2017-10-09 08:00:00 -0700
 ---
 

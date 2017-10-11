@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Box Update"
+title:  "Show-n-tell: Box Update"
 date:   2017-09-30 08:00:00 -0700
 ---
 

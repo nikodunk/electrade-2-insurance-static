@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "For Burning Man / Camping (Lithium battery)"
+title:  "Show-n-tell: For Burning Man / Camping (Lithium battery)"
 date:   2017-10-01 08:00:00 -0700
 ---
 
