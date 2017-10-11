@@ -12,7 +12,7 @@
     </a>
     <hr style="height: 1px; border: 0; border-top: 1px solid #ccc;" />
     <ol>
-      {% for item in site.posts %}
+      {% for item in site.posts reversed %}
       <li> 
         <a href="{{ item.url }}">
         {{ item.title }} </a> –
