@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Show-n-tell: sunjack stock in window"
+title:  "Project: sunjack stock in window"
 date:   2017-10-07 08:00:00 -0700
 ---
 

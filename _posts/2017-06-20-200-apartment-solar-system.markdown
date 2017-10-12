@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Show-n-tell: $200 Off-Grid Solar For Apartments"
+title:  "Project: $200 Off-Grid Solar For Apartments"
 date:   2017-06-20 08:00:00 -0700
 ---
 

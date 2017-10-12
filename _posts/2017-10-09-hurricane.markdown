@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Show-n-tell: Hurricane Solar Lighting"
+title:  "Project: Hurricane Solar Lighting"
 date:   2017-10-09 08:00:00 -0700
 ---
 

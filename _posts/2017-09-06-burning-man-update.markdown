@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Show-n-tell: Burning Man System"
+title:  "Project: Burning Man System"
 date:   2017-09-06 08:00:00 -0700
 ---
 

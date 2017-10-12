@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Show-n-tell: Low-energy devices for an off-grid home"
+title:  "Project: Low-energy devices for an off-grid home"
 date:   2017-09-17 08:00:00 -0700
 ---
 
