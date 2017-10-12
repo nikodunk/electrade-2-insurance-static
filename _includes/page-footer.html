@@ -14,12 +14,13 @@
       {% for item in site.posts reversed %}
       <li> 
         <a href="{{ item.url }}">
-        {{ item.title }} </a> –
-        <a href="{{ item.url }}#discuss" onclick="ga('send', 'event', 'new-discuss', 'clicked', 'one');">
-          <a href="{{item.url}}#disqus_thread">discuss</a>
-          
+        {{ item.title }} 
+        </a> –
+        <a href="{{item.url}}#disqus_thread" onclick="ga('send', 'event', 'new-discuss', 'clicked', 'one');">
+        discuss
         </a>
       </li>
+      <br>
       {% endfor %}
     </ol>
     
