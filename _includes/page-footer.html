@@ -12,11 +12,11 @@
     <hr style="height: 1px; border: 0; border-top: 1px solid #ccc;" />
     <ol>
       {% for item in site.posts reversed %}
-      <li> 
+      <li style="line-height: 1.8rem"> 
         <a href="{{ item.url }}">
         {{ item.title }} 
         </a>&nbsp;
-        <a style="color:  #606c71; font-size: .8rem; margin-top: 0" href="{{item.url}}#disqus_thread" onclick="ga('send', 'event', 'new-discuss', 'clicked', 'one');">
+        <a style="color: #606c71; font-size: .8rem; margin-top: 0" href="{{item.url}}#disqus_thread" onclick="ga('send', 'event', 'new-discuss', 'clicked', 'one');">
         discuss
         </a>
       </li>
