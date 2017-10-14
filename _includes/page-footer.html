@@ -15,7 +15,7 @@
         target="_blank"
         href="https://docs.google.com/forms/d/e/1FAIpQLSc44b2kjsdLXjWLOBrZ9g7XPng8cFYjSUTN0H7ysD5sSHXjfA/viewform?usp=sf_link"
         onclick="ga('send', 'event', 'Submit', 'clicked', 'Thread');">  
-        <span style="margin: 10px; padding-left:20px; padding-right: 20px; background: lightgreen; padding: 5px; border-radius: 5px; color: white"
+        <span style="margin: 10px; padding-left:20px; padding-right: 20px; background: orange; text-decoration: none; padding: 5px; border-radius: 5px; color: white"
              >
             <b>new post</b>
             <span style="font-size: 0.7rem">
@@ -31,7 +31,7 @@
         <a href="{{ item.url }}">
         {{ item.title }} 
         </a>&nbsp;
-        <a style="color: #606c71; font-size: .8rem; margin-top: 0" href="{{item.url}}#disqus_thread" onclick="ga('send', 'event', 'new-discuss', 'clicked', 'one');">
+        <a style="color: orange; font-size: .8rem; margin-top: 0" href="{{item.url}}#disqus_thread" onclick="ga('send', 'event', 'new-discuss', 'clicked', 'one');">
         discuss
         </a>
       </li>
