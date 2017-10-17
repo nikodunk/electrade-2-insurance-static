@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Link: The world's first solar smartwatch"
+title:  "Link: LunaR, the world’s first solar powered smartwatch. "
 date:   2017-10-16 08:00:00 -0700
 ---
 
