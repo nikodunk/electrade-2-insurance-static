@@ -11,7 +11,7 @@ image: "/img/money2.jpg"
 
 
 
-![](/img/money2.png)
+![](/img/money2.jpg)
 
 Whether you live in a city or in the country, every time a hurricane or storm passes through we're in danger of being without the essential communication and comfort that power brings.
 
@@ -92,6 +92,10 @@ I ordered the system on July 2nd, and with ground shipping the PV panel arrived 
 
 Hopefully you can adapt my system to your spatial situation pretty easily:
 
+
+<b>BEFORE STORM</b> Cut and lay bare the end of the battery & inverter wires (battery disconnected, please). The panel’s wires are already bare on one end. Do a dry run connecting battery, inverter and panel to the controller — it should look like above.
+
+
 ![](/img/ASSEMBLY1.jpg) | ![](/img/ASSEMBLY2.jpg)
 :---------------------------:|:-------------------------:
 							 |
@@ -99,7 +103,14 @@ Hopefully you can adapt my system to your spatial situation pretty easily:
 
 ![](/img/ASSEMBLY3.jpg)
 
-<b>Step 1</b> Cut and lay bare the end of the battery & inverter wires (battery disconnected, please). The panel’s wires are already bare on one end. Do a dry run connecting battery, inverter and panel to the controller — it should look like above.
+<br><br><br>
+<hr>
+<br><br><br>
+
+
+<b>AFTER STORM</b> Detach the panel wires again and place the panel on the rooftop or wherever you get the most sunlight (…garden …balcony …).
+
+
 
 ![](/img/ASSEMBLY4.jpg)
 
@@ -108,7 +119,7 @@ Hopefully you can adapt my system to your spatial situation pretty easily:
 :-----------------------------:|:-------------------------:
 							   |
 
-<b>Step 2 (AFTER THE HURRICANE PASSES THROUGH)</b> Detach the panel wires again and place the panel on the rooftop or wherever you get the most sunlight (…garden …balcony …). Attach the panel to something in case any final gusts of wind pass through: I zip-tied the back of the panel to a cable which I fastened on both ends around sturdy roof pipes...
+Attach the panel to something in case any final gusts of wind pass through: I zip-tied the back of the panel to a cable which I fastened on both ends around sturdy roof pipes...
 
 ![](/img/ASSEMBLY5.jpg) | ![](/img/ASSEMBLY6.jpg)
 :-----------------------------:|:-------------------------:
@@ -119,7 +130,7 @@ Hopefully you can adapt my system to your spatial situation pretty easily:
 
 ![](/img/INSIDE.jpg)
 
-<b>Step 3</b> Assemble the solar controller, inverter and battery into a tighter package. Re-clamp the wire from the panel to the solar controller and close the window. It should look as above. The charge begins!
+Assemble the solar controller, inverter and battery into a tighter package. Re-clamp the wire from the panel to the solar controller and close the window. It should look as above. The charge begins!
 
 ![](/img/SELF-SUFFICIENCY.jpg)
 
