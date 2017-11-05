@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to build a solar panel + battery kit from Amazon for Hurricane Backup Power"
+title:  "How to build a DIY solar panel + battery kit from Amazon for Hurricane Backup Power"
 date:   2017-10-09 08:00:00 -0700
 image: "/img/money2.jpg"
 ---

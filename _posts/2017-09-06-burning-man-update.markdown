@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "For festival solar at Burning Man:<br> How to build a solar panel + battery kit with parts from Amazon"
+title:  "For festival solar at Burning Man:<br> How to build a DIY solar panel + battery kit with parts from Amazon"
 date:   2017-09-06 08:00:00 -0700
 image: "/img/money3.jpg"
 ---
