@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Project: Hurricane Solar Lighting"
+title:  "Solar panel + batteries for backup power. Price on Amazon: $200"
 date:   2017-10-09 08:00:00 -0700
+image: "/img/money2.jpg"
 ---
 
 

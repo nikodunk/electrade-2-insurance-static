@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Project: Burning Man System"
+title:  "Solar panel + batteries for Burning Man & Festivals. Price on Amazon: $200"
 date:   2017-09-06 08:00:00 -0700
+image: "/img/money3.jpg"
 ---
 
 I built a system for Burning Man 2017 in Nevada. It's a customized and improved version of Niko's system. We used it to run phones, fans, swamp coolers and lights.

@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Project: $200 Off-Grid Solar For Apartments"
+title:  "Solar panel + batteries for Apartments. Price on Amazon: $200"
 date:   2017-06-20 08:00:00 -0700
+image: "/img/money1.jpg"
 ---
 
 <b>The problem</b><a name="problem"></a>

@@ -2,3 +2,40 @@
 layout: default
 title: {{ site.name }}
 ---
+
+
+
+<div style="text-align: left; margin: 0 auto; max-width: 1000px">
+    <p style="text-align: left">
+      <a href="/" style=" cursor: pointer; text-decoration: none; color: black">
+        <b>{{ site.title }}</b> | {{ site.tagline }}
+      </a>
+<!--       <form action="https://formspree.io/n.dunkel@gmail.com"
+      method="POST">
+          Submit new:
+          <input type="text" placeholder="link or story" name="name">
+          <input type="email" placeholder="your email" name="_replyto">
+          <input type="submit" value="Submit">
+      </form> -->
+    </p>
+    <hr style="height: 1px; border: 0; border-top: 1px solid #ccc;" >
+
+    <div style="display:flex; padding-top: 60px; text-align: center">
+      {% for item in site.posts reversed %}
+        <div style="width: 50%; padding: 5px; margin: 5px; border: 1px lightgrey solid;">
+          <a href="{{ item.url }}">
+          	<p style="min-height: 3.4rem">{{ item.title }}</p>
+  	        <img src="{{ item.image }}" style="max-height: 200px">
+  	    </a>
+          <br>
+          <a style="color: orange; font-size: .8rem; margin-top: 0" href="{{item.url}}#disqus_thread" onclick="ga('send', 'event', 'new-discuss', 'clicked', 'one');">
+          discuss
+          </a> 
+        </div>
+      {% endfor %}
+    </div>
+
+       
+
+<br><br><br>                                                     
+</div>
