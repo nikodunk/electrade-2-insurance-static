@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "For Apartments: $200 solar panel + battery kit on Amazon"
+title:  "For rented urban apartments: $200 solar panel + battery kit on Amazon"
 date:   2017-06-20 08:00:00 -0700
 image: "/img/money1.jpg"
 ---
