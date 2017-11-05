@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "For festival goers (like Burning Man):<br> How to build a solar panel + battery kit with parts from Amazon"
+title:  "For festival solar at Burning Man:<br> How to build a solar panel + battery kit with parts from Amazon"
 date:   2017-09-06 08:00:00 -0700
 image: "/img/money3.jpg"
 ---
 
-Burning Man is a crazy desert art festival and party in northern Nevada. It takes place on federal public lands and attracts about 60,000 people each year. People think nothing of driving ten or fifteen hours to get there, or flying in from the East Coast or Europe. It’s an art festival that is radically inclusive and radically expressive. It’s a good time.
+Burning Man is a crazy desert art festival and party in northern Nevada. It takes place on federal public lands and attracts about 60,000 people each year. Everything there is radically offgrid. You bring your own power, water and food and take everything with you again when you leave. Here's an aerial view of the city in the desert (dubbed Black Rock City) that springs up overnight for the festival:
 
-As amazing as Burning Man is in so many ways, it’s not remotely green or sustainable. People generally bring diesel generators for power, or use built-in RV generators for camp power. And did I mention the driving and flying to get there?
+![](/img/sean/burningmanoverview.jpg)
+
+But this means visitors generally bring diesel generators for power, or use built-in RV generators for camp power. And did I mention the driving and flying to get there? People think nothing of driving ten or fifteen hours to get there, or flying in from the East Coast or Europe.
 
 Efforts are abundant to green up Burning Man, and now that solar components are getting cheaper on Amazon, we're increasingly see DIY systems crop up.
 
