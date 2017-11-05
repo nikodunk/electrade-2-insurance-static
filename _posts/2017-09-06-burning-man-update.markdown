@@ -5,39 +5,19 @@ date:   2017-09-06 08:00:00 -0700
 image: "/img/money3.jpg"
 ---
 
-I built a system for Burning Man 2017 in Nevada. It's a customized and improved version of Niko's system. We used it to run phones, fans, swamp coolers and lights.
+Burning Man is a crazy desert art festival and party in northern Nevada. It takes place on federal public lands and attracts about 60,000 people each year. People think nothing of driving ten or fifteen hours to get there, or flying in from the East Coast or Europe. It’s an art festival that is radically inclusive and radically expressive. It’s a good time.
 
+As amazing as Burning Man is in so many ways, it’s not remotely green or sustainable. People generally bring diesel generators for power, or use built-in RV generators for camp power. And did I mention the driving and flying to get there?
 
-![](/img/sean/burningman1.JPG)
-The panel is mounted on top of the car at a fixed angle. The cables lead to back to the box next to the tent.
+Efforts are abundant to green up Burning Man, and now that solar components are getting cheaper on Amazon, we're increasingly see DIY systems crop up.
 
-![](/img/sean/burningman2.JPG)
-Next to the tent, the toolbox contains the battery, inverter and controller. Next to it is a swamp cooler and a cable leading into his tent (AC extension cable from the inverter in the box) powering another fan, chargers and lights.
-
-![](/img/sean/burningman3.JPG)
-Sean's running a great modified system – DC power goes to the swamp cooler's fan, the battery is laid into the tool tray. Plenty of extra space in this toolbox, which protects the system from dust and the sun.
-
-Sean listed the main three reasons he decided to build his own system vs. bringing a diesel generator:
-
-	* No Fuel Required
-	* No Noise
-	* Compact
-
-"A <i>green</i> (his words) device with enough wattage to power a DC swamp cooler". He usually got 6 hours into the night before the battery was drained, but at that moment the sun came up and started generating energy again to power the swamp cooler.
-
-![](/img/sean/sketch.jpg)
-
-We're going to add a box to the recommended kit, to give it a more rugged and finished look for outdoors and festival use.
-
-See the <a href="2017/06/20/200-apartment-solar-system.html#how-to">how-to guide</a> for assembly instructions.
-
-
+Here's Sean's system for Burning Man 2017 in Nevada. He used it to run phones, fans, swamp coolers and lights.
 
 
 <div style="text-align: center">
 <br><br>
 <p style="color: orange;"><b>The kit</b></p>
-<div style="border: 5px solid orange; padding: 20px; ">      
+<div style="border: 5px solid orange; padding: 20px; ">
 
                   <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B00L6LZRXM&asins=B00L6LZRXM&linkId=4102131e8f327f4c89c0a9ca80015ede&show_border=true&link_opens_in_new_window=true"></iframe>
 
@@ -70,6 +50,72 @@ onclick="ga('send', 'event', 'Buy Button', 'clicked', 'Cart');"
 href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B00L6LZRXM&Quantity.1=1&ASIN.2=B015DJ4QX4&Quantity.2=1&ASIN.3=B06ZY6ZPWQ&Quantity.3=1&ASIN.4=B01NAUV18K&Quantity.4=1&ASIN.5=B017PI2OUS&Quantity.5=1&ASIN.6=B000ND0WB6&Quantity.6=1&ASIN.7=B0046QYRTE&Quantity.7=1"><b>Add parts to cart</b></a>
 <br><br>
 </div>
+
+<b>How-To Guide</b><a name="how-to"></a>
+
+The goal is to take care of my festival energy needs for during Burning Man 2017. 4 main components are all we need to achieve this: A solar panel to collect, a battery to store, an inverter to convert the direct current to alternating current, and a “charge controller” to balance the three other components.
+
+
+
+I’m using bargain-basement parts intended for RV, marine & car usage which keeps my system cheap and mobile. The main components as found on Amazon are above.
+
+
+![](/img/BOXES.jpg)   |  ![](/img/COMPONENTS.jpg)
+:-------------------------:|:-------------------------:
+						   |
+
+I ordered the system on July 2nd, and with ground shipping the PV panel arrived July 11th from Canada, and the battery, wiring, controller and inverter arrived July 15th from Amazon USA.
+
+
+<br><br><br>
+
+<b>Assembly</b><a name="assembly"></a>
+
+
+
+![](/img/ASSEMBLY1.jpg) | ![](/img/ASSEMBLY2.jpg)
+:---------------------------:|:-------------------------:
+							 |
+
+
+
+![](/img/ASSEMBLY3.jpg)
+
+<b>Step 1</b> Cut and lay bare the end of the battery & inverter wires (battery disconnected, please). The panel’s wires are already bare on one end. Do a dry run connecting battery, inverter and panel to the controller — it should look like above.
+
+![](/img/sean/burningman1.JPG)
+
+
+<b>Step 2</b> Detach the panel wires again and place the panel on the car, tent or wherever you get the most sunlight. Attach the panel to something: I zip-tied the back of the panel to a car with multiple zipties. You don't want this coming undone in a dust storm! The panel is mounted on top of the car at a fixed angle, and run the power lines back to your main battery next to the tent.
+
+
+
+![](/img/sean/burningman3.JPG)
+<b>Step 3</b> Assemble the solar controller, inverter and battery into a tighter package. Re-clamp the wire from the panel to the solar controller and place it in the box. It should look as above. The charge begins! Next to the tent, the toolbox contains the battery, inverter and controller. Next to it is a swamp cooler and a cable leading into his tent (AC extension cable from the inverter in the box) powering another fan, chargers and lights.
+
+
+![](/img/sean/burningman2.JPG)
+In the evening, turn on the inverter. My lamp, computer, tablet & phone are all being powered simultaneously here on the day’s solar charge! Self sufficiency achieved?
+
+
+
+
+
+Sean's running a great modified system – DC power goes to the swamp cooler's fan, the battery is laid into the tool tray. Plenty of extra space in this toolbox, which protects the system from dust and the sun.
+
+Sean listed the main three reasons he decided to build his own system vs. bringing a diesel generator:
+
+	* No Fuel Required
+	* No Noise
+	* Compact
+
+"A <i>green</i> (his words) device with enough wattage to power a DC swamp cooler". He usually got 6 hours into the night before the battery was drained, but at that moment the sun came up and started generating energy again to power the swamp cooler.
+
+![](/img/sean/sketch.jpg)
+
+We're going to add a box to the recommended kit, to give it a more rugged and finished look for outdoors and festival use.
+
+
 
 
 
