@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "For offgrid festivals (ie. Burning Man): How to build a solar panel + battery kit with $200 parts from Amazon"
+title:  "For festival goers (like Burning Man):<br> How to build a solar panel + battery kit with parts from Amazon"
 date:   2017-09-06 08:00:00 -0700
 image: "/img/money3.jpg"
 ---
@@ -38,7 +38,7 @@ See the <a href="2017/06/20/200-apartment-solar-system.html#how-to">how-to guide
 <br><br>
 <p style="color: orange;"><b>The kit</b></p>
 <div style="border: 5px solid orange; padding: 20px; ">      
-    
+
                   <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B00L6LZRXM&asins=B00L6LZRXM&linkId=4102131e8f327f4c89c0a9ca80015ede&show_border=true&link_opens_in_new_window=true"></iframe>
 
             <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B015DJ4QX4&asins=B015DJ4QX4&linkId=4780763d2a9824fa01d399045b16ce90&show_border=true&link_opens_in_new_window=true"></iframe>
@@ -52,7 +52,7 @@ See the <a href="2017/06/20/200-apartment-solar-system.html#how-to">how-to guide
             <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B000ND0WB6&asins=B000ND0WB6&linkId=713b1b232093ab6c3a67a860227b69d7&show_border=true&link_opens_in_new_window=true"></iframe>
 
             <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B0046QYRTE&asins=B0046QYRTE&linkId=cffa1e6127488de35509b1549b10672b&show_border=true&link_opens_in_new_window=true"></iframe>
-          
+
             <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
             <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">Solar Panel</a>
             <br><a href="http://amzn.to/2xpB5PR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">Battery</a>
@@ -63,8 +63,8 @@ See the <a href="2017/06/20/200-apartment-solar-system.html#how-to">how-to guide
             <br><a href="http://amzn.to/2xqECh2" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">Case / Toolbox</a></p>
  </div>
  <br>
-<a class="btn btn-amazon" 
-style="background-color: orange" 
+<a class="btn btn-amazon"
+style="background-color: orange"
 target="_blank"
 onclick="ga('send', 'event', 'Buy Button', 'clicked', 'Cart');"
 href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B00L6LZRXM&Quantity.1=1&ASIN.2=B015DJ4QX4&Quantity.2=1&ASIN.3=B06ZY6ZPWQ&Quantity.3=1&ASIN.4=B01NAUV18K&Quantity.4=1&ASIN.5=B017PI2OUS&Quantity.5=1&ASIN.6=B000ND0WB6&Quantity.6=1&ASIN.7=B0046QYRTE&Quantity.7=1"><b>Add parts to cart</b></a>
@@ -84,20 +84,20 @@ href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&AS
 		Weight: 19.6 pounds
 		Voltage: 12V DC
 		Max power rating: 100W
-		Max amperage: 8.3A 
+		Max amperage: 8.3A
 
-	
+
 	Inverter
-		Max power rating: 150W 
+		Max power rating: 150W
 
 (turns off if you use more than this, but a 300W version is $6 more)
-		
+
 		Voltage: 12V DC in, 110V AC out
 		Only DC 12V, NOT for DC 24V
 		USB Output: 5V/1+2.1A (5W and 10.5W respectively)
 
-		
-	Solar controller 
+
+	Solar controller
 		Voltage: 12V/24V
 		Ports: 2x USB, 1x DC in, 1x DC out
 		Charge Current: 20A
@@ -118,8 +118,6 @@ href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&AS
 
 	Cables (aka "Tender" or "B.O.M.")
 		Alligator Clips (for connecting the battery to the solar controller)
-		20Ft Extension Cable 
+		20Ft Extension Cable
 
 (MC4 12AWG, for connecting the solar panel to the solar controller)
-
-

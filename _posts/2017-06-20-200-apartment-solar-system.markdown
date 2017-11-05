@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "For rented urban apartments: How to build a solar panel + battery kit with $200 parts from Amazon"
+title:  "For urban apartment renters:<br> How to build a solar panel + battery kit with parts from Amazon"
 date:   2017-06-20 08:00:00 -0700
 image: "/img/money1.jpg"
 ---
@@ -37,14 +37,14 @@ Questions remain. Can this system make any meaningful energy? Does it make finan
 
 <b>How-To Guide</b><a name="how-to"></a>
 
-My goal is to take care of the energy needs for just my bedroom. 4 main components are all we need to achieve this: A solar panel to collect, a battery to store, an inverter to convert the direct current to alternating current, and a “charge controller” to balance the three other components. 
+My goal is to take care of the energy needs for just my bedroom. 4 main components are all we need to achieve this: A solar panel to collect, a battery to store, an inverter to convert the direct current to alternating current, and a “charge controller” to balance the three other components.
 
 
 <div style="text-align: center">
 <br><br>
 <p style="color: orange;"><b>The kit</b></p>
 <div style="border: 5px solid orange; padding: 20px; ">      
-    
+
 			<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B00L6LZRXM&asins=B00L6LZRXM&linkId=4102131e8f327f4c89c0a9ca80015ede&show_border=true&link_opens_in_new_window=true"></iframe>
 
             <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B015DJ4QX4&asins=B015DJ4QX4&linkId=4780763d2a9824fa01d399045b16ce90&show_border=true&link_opens_in_new_window=true"></iframe>
@@ -56,7 +56,7 @@ My goal is to take care of the energy needs for just my bedroom. 4 main componen
             <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B017PI2OUS&asins=B017PI2OUS&linkId=f62bfc2931ce07df9de6f89fba444006&show_border=true&link_opens_in_new_window=true"></iframe>
 
             <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B000ND0WB6&asins=B000ND0WB6&linkId=713b1b232093ab6c3a67a860227b69d7&show_border=true&link_opens_in_new_window=true"></iframe>
-          
+
             <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
             <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">100W Solar Panel</a>
             <br><a href="http://amzn.to/2xpB5PR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">420Wh Deep Cycle Battery</a>
@@ -67,8 +67,8 @@ My goal is to take care of the energy needs for just my bedroom. 4 main componen
 
  </div>
  <br>
-<a class="btn btn-amazon" 
-style="background-color: orange" 
+<a class="btn btn-amazon"
+style="background-color: orange"
 target="_blank"
 onclick="ga('send', 'event', 'Buy Button', 'clicked', 'Cart');"
 href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B00L6LZRXM&Quantity.1=1&ASIN.2=B015DJ4QX4&Quantity.2=1&ASIN.3=B06ZY6ZPWQ&Quantity.3=1&ASIN.4=B01NAUV18K&Quantity.4=1&ASIN.5=B017PI2OUS&Quantity.5=1&ASIN.6=B000ND0WB6&Quantity.6=1"><b>Add parts to cart</b></a>
@@ -78,7 +78,7 @@ href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&AS
 
 
 
-I’m using bargain-basement parts intended for RV, marine & car usage which keeps my system cheap and mobile. The main components as found on Amazon are above. 
+I’m using bargain-basement parts intended for RV, marine & car usage which keeps my system cheap and mobile. The main components as found on Amazon are above.
 
 
 ![](/img/BOXES.jpg)   |  ![](/img/COMPONENTS.jpg)
@@ -105,7 +105,7 @@ Hopefully you can adapt my system to your spatial situation pretty easily:
 
 ![](/img/ASSEMBLY4.jpg)
 
- 
+
 ![](/img/ASSEMBLY4-1.jpg) | ![](/img/ASSEMBLY4-2.jpg)
 :-----------------------------:|:-------------------------:
 							   |
@@ -149,7 +149,7 @@ In San Francisco we get 4.26 hours of usable sunshine a day (or 1156 hours a yea
 	20Wh Light (4W LED x 5h)
 	300Wh Space Heater (150W x 2h – our SF house has no heating)
 	___________
-	
+
 	Total: 82Wh energy need per day in room (up to 382Wh)`
 
 This should be easily met by the solar system. I turn the inverter on when I get home to use AC lights and charge the Macbook through the power brick, and turn it off before I go to bed to avoid energy drain. My phone’s USB (which is direct current) can charge all night straight through the solar controller itself (which has USB ports) and doesn’t require the inverter. My laptop is a DC device and could be charged straight off the 12V battery, but I found it easier to just charge it with the AC power brick through the inverter. More info on what you can run off the system in the follow-up article<a href="/2017/09/17/what-will-it-run.html">here</a>.
@@ -218,14 +218,14 @@ Note however that after 8 years of daily use the lead-acid deep discharge batter
 
 Does it have an impact on my CO2 footprint? Back of the envelope:
 
-	Production footprint PV multicristalline: 
+	Production footprint PV multicristalline:
 	4200kWhee/kW [1] * 0.1kW = 420kWh embodied energy
-	
-	Production footprint lead-acid battery: 
+
+	Production footprint lead-acid battery:
 	321kWhee/kWh [1] * 0.5kWh = 161kWh embodied energy
 
 	Total Footprint: 581kWh
-	
+
 	Annual energy production system: 155kWh/y
 	Payback period: 581kWh / 155kWh/y = 4+ year footprint payback
 	[1] http://renew.org.au/articles/energy-flows-how-green-is-my-solar/
@@ -247,20 +247,20 @@ In case of brownouts or blackouts, this would be a helpful way of wirelessly cha
 		Weight: 19.6 pounds
 		Voltage: 12V DC
 		Max power rating: 100W
-		Max amperage: 8.3A 
+		Max amperage: 8.3A
 
-	
+
 	Inverter
-		Max power rating: 150W 
+		Max power rating: 150W
 
 (turns off if you use more than this, but a 300W version is $6 more)
-		
+
 		Voltage: 12V DC in, 110V AC out
 		Only DC 12V, NOT for DC 24V
 		USB Output: 5V/1+2.1A (5W and 10.5W respectively)
 
-		
-	Solar controller 
+
+	Solar controller
 		Voltage: 12V/24V
 		Ports: 2x USB, 1x DC in, 1x DC out
 		Charge Current: 20A
@@ -281,9 +281,6 @@ In case of brownouts or blackouts, this would be a helpful way of wirelessly cha
 
 	Cables (aka "Tender" or "B.O.M.")
 		Alligator Clips (for connecting the battery to the solar controller)
-		20Ft Extension Cable 
+		20Ft Extension Cable
 
 (MC4 12AWG, for connecting the solar panel to the solar controller)
-
-
-

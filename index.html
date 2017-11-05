@@ -7,9 +7,9 @@ title: {{ site.name }}
 
 
 
-    <div style="display:flex; padding-top: 60px; text-align: center">
+    <div style="margin: 0 auto; max-width: 800px; display:flex; flex-wrap: wrap; justify-content: center; padding-top: 60px; text-align: center">
       {% for item in site.posts reversed %}
-        <div style="width: 50%; padding: 5px; margin: 5px; border: 1px lightgrey solid;">
+        <div style="width: 300px; padding: 15px; margin: 10px; border: 1px lightgrey solid; border-radius: 5px">
           <a href="{{ item.url }}">
           	<p style="min-height: 3.4rem">{{ item.title }}</p>
   	        <img src="{{ item.image }}" style="max-height: 200px">
@@ -17,9 +17,7 @@ title: {{ site.name }}
           <br>
           <a style="color: orange; font-size: .8rem; margin-top: 0" href="{{item.url}}#disqus_thread" onclick="ga('send', 'event', 'new-discuss', 'clicked', 'one');">
           discuss
-          </a> 
+          </a>
         </div>
       {% endfor %}
     </div>
-
-  

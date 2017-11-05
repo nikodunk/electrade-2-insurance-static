@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "For Storm & Hurricane Backup Power: How to build a solar panel + battery kit with $200 parts from Amazon"
+title:  "For storm & hurricane backup:<br> How to build a solar panel + battery kit with parts from Amazon"
 date:   2017-10-09 08:00:00 -0700
 image: "/img/money2.jpg"
 ---
@@ -53,7 +53,7 @@ Here's the list of parts I used:
 
 UPDATE: I added an inline fuse between the charge controller LOAD (+) lead and the phone line just in case somebody plugs in too heavy a load.
 
-					   
+
 
 
 1 - Inline fuse holder and 3 amp fuse
@@ -85,7 +85,7 @@ I used a 3 watt LED bulb in my testing. It actually gives off an impressive amou
 
 ![](/img/mike/mike24.jpg) | ![](/img/mike/mike7.jpg)
 :-----------------------------:|:-------------------------:
-							   |	
+							   |
 
 CAUTION: If you build this, please remember to always remove the 12 volt bulb before you plug the lamp back into 110 volts.
 
@@ -103,11 +103,11 @@ I needed a box to hold the batteries, the controller, and all of the wiring conn
 
 ![](/img/mike/mike11.jpg) | ![](/img/mike/mike20.jpg)
 :-----------------------------:|:-------------------------:
-							   |	
+							   |
 
 ![](/img/mike/mike23.jpg) | ![](/img/mike/mike27.jpg)
 :-----------------------------:|:-------------------------:
-							   |	
+							   |
 
 While I was adding the indoor lighting, I decided to add an outdoor floodlight and a 12 volt barrel jack to the project as well. The outdoor light was something I've been needing anyway. The 12 volt jack will be great for running other devices during a power outage including phone chargers, fans, and even a plug-in inverter for running 110 volt appliances.
 
@@ -133,11 +133,11 @@ The next photo shows my standard table lamp plugged into the 110 volt outlet wit
 
 ![](/img/mike/mike1.jpg) | ![](/img/mike/mike18.jpg)
 :-----------------------------:|:-------------------------:
-							   |	
+							   |
 
 ![](/img/mike/mike5.jpg) | ![](/img/mike/mike6.jpg)
 :-----------------------------:|:-------------------------:
-							   |	
+							   |
 
 CAUTION: If you build this, please remember to always remove the 12 volt bulb before you plug the lamp back into 110 volts. I almost forgot to do it while taking these photos. That would have been a big mistake!
 
@@ -147,7 +147,7 @@ UPDATE: Due to lots of helpful suggestions (and a few outright warnings) regardi
 
 So there's my project. Like most people on the Gulf Coast, I hope we have another mild hurricane season this year. But if we do have a power outage, I'll be more prepared than most!
 
-Plus, since I have this system up and running anyway, I might as well use it now and save a little bit of fossil fuel. So tonight, I'm turning my solar lamps ON and my grid-powered lamps OFF! 
+Plus, since I have this system up and running anyway, I might as well use it now and save a little bit of fossil fuel. So tonight, I'm turning my solar lamps ON and my grid-powered lamps OFF!
 
 
 Note: reposted with the author's permission from <a href="http://www.instructables.com/id/Solar-Hurricane-Lighting-and-more/" target="_blank">here</a>

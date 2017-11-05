@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "For Efficient Home Appliances: How to replace your devices with low-power versions with from Amazon"
+title:  "For a tiny home footprint:<br> How to replace your devices with low-power versions with from Amazon"
 date:   2017-10-10 08:00:00 -0700
 image: "/img/devices/cookbefore.jpg"
 ---
@@ -88,7 +88,7 @@ The next-biggest baseload (at least in winter) is from heating. This is often oi
 
 	405Wh/d (9h * 45W)
 
-<b>Transport</b> 
+<b>Transport</b>
 
 <table style="text-align: center; margin: 0 auto; padding: 0px; width: 100%">
 	<tr>
@@ -116,7 +116,7 @@ The next-biggest baseload (at least in winter) is from heating. This is often oi
 	</tr>
 </table>
 
-	67Wh/d+10Wh/d (1 charge each/d)	
+	67Wh/d+10Wh/d (1 charge each/d)
 
 <b>Lighting</b>
 
@@ -147,8 +147,8 @@ This can be covered by 4 systems/personal power plants for roughly $880 dollars.
 
 High-power devices in my household that have no low-power replacement yet:
 * Hot water tank: 4200W water heater => would have to be replaced with a solar water heater. This is a non-electric, purely mechanical system, similar to the system installed by Jimmy Carter on the white house in the 70s.
-* Dishwasher: Dishwasher => Hand wash dishes. Sorry y’all. 
-* Washer/dryer: Washer/Dryer => Hand wash clothes and hang dry feasible? 
+* Dishwasher: Dishwasher => Hand wash dishes. Sorry y’all.
+* Washer/dryer: Washer/Dryer => Hand wash clothes and hang dry feasible?
 
 
 
@@ -157,7 +157,7 @@ High-power devices in my household that have no low-power replacement yet:
 <br><br>
 <p style="color: orange;"><b>The kit</b></p>
 <div style="border: 5px solid orange; padding: 20px">      
-    
+
 
 LED Light (45Wh – usable 9h/day)<br><br>
 
@@ -183,10 +183,10 @@ LED Light (45Wh – usable 9h/day)<br><br>
 <br><br>Transport replacement (97Wh – get 4 charges/day)<br><br>
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01M0LI1CX&asins=B01M0LI1CX&linkId=06c13f012874ba7551caa030952afd19&show_border=true&link_opens_in_new_window=true"></iframe>
 
-                
+
 <br><br>Communication (9W – usable 46h/day)<br><br>
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01LFSDZCU&asins=B01LFSDZCU&linkId=1783362acc517ede433c0fec058661c8&show_border=true&link_opens_in_new_window=true"></iframe>
-          
+
           <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
             <br><a href="http://amzn.to/2xqifTT" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">5W LED USB Lightbulbs (DC)</a>
             <br><a href="http://amzn.to/2fT4HKl" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">60W Mini-Fridge (DC)</a>
