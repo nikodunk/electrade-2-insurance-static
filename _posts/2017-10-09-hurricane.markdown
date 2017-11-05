@@ -15,7 +15,9 @@ image: "/img/money2.jpg"
 
 Whether you live in a city or in the country, every time a hurricane or storm passes through we're in danger of being without the essential communication and comfort that power brings.
 
-The most recent American examples are Puerto Rico and Sandy in NYC, but they are all over the world.
+Hurricane Irma cut the power to about 6.7 million customers across Florida, as well as hundreds of thousands in Georgia, South Carolina and North Carolina. Only about two-thirds of those in Florida had power back five days later, and Florida Power & Light said the outages could last weeks in some areas.
+
+The most recent American examples are Puerto Rico, where some customers won't have access to power 2 months after landfall. These are just some US examples - they exist all over the world.
 
 
 <br><br><br>
@@ -23,9 +25,9 @@ The most recent American examples are Puerto Rico and Sandy in NYC, but they are
 
 
 
-<b>A possible solution</b><a name="solution"></a>
+<b>A possible solution for grid resilience</b><a name="solution"></a>
 
-A windowsill solar system bought off Amazon can be kept in the basement the rest of the year and then brought out and put together after the hurricane passes through. This makes the solar buying process more like buying a consumer electronic.
+A solar system bought and assembled off Amazon can be low-cost backup kept in the basement the rest of the year and then brought out and put together after the hurricane passes through. This makes the solar buying process more like buying a consumer electronic.
 
 
 In this article we'll show you how to build one, where to get the parts, and whether this system makes any meaningful energy and makes financial sense.
