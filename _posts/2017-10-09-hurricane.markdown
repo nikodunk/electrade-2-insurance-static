@@ -1,153 +1,281 @@
 ---
 layout: post
-title:  "For storm & hurricane backup:<br> How to build a solar panel + battery kit with parts from Amazon"
+title:  "How to build a solar panel + battery kit from Amazon for Hurricane Backup Power"
 date:   2017-10-09 08:00:00 -0700
 image: "/img/money2.jpg"
 ---
 
 
-I've spent my entire life living on or near the Gulf Coast. And even though we've had a couple of seasons with no major hurricanes, I can't help thinking about them this time of year. Of course, the big storms are very dangerous and most people should evacuate to safer ground. But those who stay and those who return afterward, are often faced with a loss of electrical power. Even some relatively minor storms can cause power outages.
-
-<p style="text-align: center"><img style="max-height: 500px;" src="/img/mike/mike1.jpg"></p>
-
-Power outages suck! Sure we have candles, lanterns, and flashlights, but you have to either station these items in each room or carry them around with you. I was trying to think of some way to have lights in every room of the house in the event of a power outage and, naturally, solar came to mind.
-
-I would love to outfit my house with a complete solar system that produces 5 or 10 kW of power, but I'm not quite ready to make that investment. So I needed a quick, easy way to have lights all over the house, plus the ability to run other small devices such as fans and a couple of phone chargers.
-
-I was walking around my house from room to room thinking about this and it hit me; phone jacks! Even though I haven't had a landline phone in years, there are phone lines run throughout the house and a handy little wall jack in each room. Why couldn't I use this wiring to provide low voltage solar lighting in the event of a power outage?
-
-Well, the first reason is I didn't know if I could legally disconnect the wires inside my house from the phone company's junction box outside. So I called my local phone company office and asked. Turns out there's a customer disconnect right there on the side of the house. They said I can disconnect my house from their line and everything on my side is my property. Awesome!
-
-The second reason is the wire size. Typical phone cables are between 22 and 26 gauge, which means the current capacity is very limited. But I did some research and found that there are all shapes and sizes (and wattages) of 12 volt light bulbs out there and the LED bulbs come is sizes as low as 2 or 3 watts.
-
-Based on the information I found at http://www.engineeringtoolbox.com/wire-gauges-d_419.html I should be able to safely run 3.5 amps through a 24 gauge wire. At 12 volts, that comes to 42 watts. However, since I don't know the length of the wire in the walls, I decided to play it safe and keep it to a maximum of 2-3 amps, which still gives me 24-36 watts to work with.
-
-So I decided to configure a low-end solar system using mostly items I had on hand or could buy locally. What follows is a detailed description of this project. I hope you like it!
-
-UPDATE: I added an inline fuse between the charge controller LOAD (+) lead and the phone line just in case somebody plugs in too heavy a load.
-
-UPDATE: Due to lots of helpful suggestions (and a few outright warnings) regarding my choice of a 110 volt plug for the power outlet, I decided to add some optional 12 volt outlets to the project. Please see Steps 1 & 3 for details.
-
-<b>Step 1: Materials</b>
-
-Here's the list of parts I used:
-
-	1 - 12x12x6 PVC Junction box (from Lowes)
-	2 - 15 watt solar panels
-	2 - 12 volt 14Ah batteries
-	1 - 12 volt, 3 watt LED light bulb
-	1 - 100 watt solar charge controller (from Harbor Freight)
-	1 - Solar Power Connection Kit (from Harbor Freight)
-	10 - feet - 1/2" PVC
-	6 - feet - 1/2" Flexible tubing
-	1 - outdoor round box w/ 1/2" knockouts (for flood light)
-	1 - outdoor light kit (for one flood light)
-	4 - 1/2" PVC threaded male adapters
-	2 - 1/2" PVC 90s
-	3 - 1/2" PVC couplings
-	3 - 1/2" PVC 2-hole straps
-	1 - Weatherproof switch box
-	1 - Single Pole light switch
-	1 - Weatherproof switch cover
-	6 - Receptacle wall outlets
-
-UPDATE: I added an inline fuse between the charge controller LOAD (+) lead and the phone line just in case somebody plugs in too heavy a load.
+<b>The problem</b><a name="problem"></a>
 
 
 
 
-1 - Inline fuse holder and 3 amp fuse
+![](/img/money2.png)
 
-UPDATE: Due to lots of helpful suggestions (and a few outright warnings) regarding my choice of a 110 volt plug for the power outlet, I decided to add some optional 12 volt outlets to the project.
+Whether you live in a city or in the country, every time a hurricane or storm passes through we're in danger of being without the essential communication and comfort that power brings.
 
-<b>Step 2: Rewire Phone Company Junction Box</b>
-
-
-
-First I disconnected the phone company's line jack. Then I wired in a length of 2-conductor thermostat wire (18 gauge) that will eventually be connected to my solar power source. I routed the thermostat wire up to the eve with tie wraps and cable clips.
-
-![](/img/mike/mike25.jpg) | ![](/img/mike/mike26.jpg)
-:-----------------------------:|:-------------------------:
-							   |		
+The most recent American examples are Puerto Rico and Sandy in NYC, but they are all over the world.
 
 
-<b>Step 3: Replace Phone Jacks With Recepticle Outlets</b>
+<br><br><br>
 
-Rather than buy special 12 volt table lamps or rewire existing lamps to plug into a phone jack, I decided to just use my existing ones as they are. So, I wired regular wall outlets into the phone jack boxes and just swapped the AC light bulbs in the lamps with 12 volt bulbs. It turns out you can buy 12 volt LED bulbs with a regular sized (medium) base. Here are a few examples:
 
-http://www.theledlight.com/12volt-led-bulb.html,
 
-http://www.superbrightleds.com/moreinfo/led-spot-f...
 
-http://www.lightexports.com/servlet/the-8423/8W-LE...
+<b>A possible solution</b><a name="solution"></a>
 
-I used a 3 watt LED bulb in my testing. It actually gives off an impressive amount of light for such a low wattage bulb. I've ordered some higher wattage bulbs to compare the results.
+A windowsill solar system bought off Amazon can be kept in the basement the rest of the year and then brought out and put together after the hurricane passes through. This makes the solar buying process more like buying a consumer electronic.
 
-![](/img/mike/mike24.jpg) | ![](/img/mike/mike7.jpg)
-:-----------------------------:|:-------------------------:
-							   |
 
-CAUTION: If you build this, please remember to always remove the 12 volt bulb before you plug the lamp back into 110 volts.
+In this article we'll show you how to build one, where to get the parts, and whether this system makes any meaningful energy and makes financial sense.
 
-UPDATE: I added an inline fuse between the charge controller LOAD (+) lead and the phone line just in case somebody plugs in too heavy a load.
 
-UPDATE: Due to lots of helpful suggestions (and a few outright warnings) regarding my choice of a 110 volt plug for the power outlet, I decided to add some optional 12 volt outlets to the project.
+<br><br><br>
 
-<b>Step 4: My Solar Power Source</b>
+<b>How-To Guide</b><a name="how-to"></a>
 
-I've been experimenting with solar energy for a while now, so I had a couple of 15 watt panels and 12 volt batteries on hand. I decided to use what I had for my initial installation. I may decide to add more panels and/or batteries later to run more stuff.
+My goal is to take care of the energy needs for me personally in the aftermath of a hurricane or superstorm. 4 main components are all we need to achieve this: A solar panel to collect, a battery to store, an inverter to convert the direct current to alternating current, and a “charge controller” to balance the three other components.
 
-I bought a 100 watt solar charge controller from Harbor Freight. I'm sure it's not the best controller on the market, but it only cost $25 and seems to work fine for this project. I also bought their cable connection kit, which I used to connect the solar panels to the controller. I also used the 12 volt female barrel cable as a 12 volt outlet for connecting other devices (see below).
 
-I needed a box to hold the batteries, the controller, and all of the wiring connections. So, I bought a 12"x12"x6" PVC junction box from Lowes to do the trick. I wired the solar panels in parallel and the batteries in parallel. So my voltage remains at 12 volts, but my current capacity (charging time) and battery time improve.
+<div style="text-align: center">
+<br><br>
+<p style="color: orange;"><b>The kit</b></p>
+<div style="border: 5px solid orange; padding: 20px; ">      
 
-![](/img/mike/mike11.jpg) | ![](/img/mike/mike20.jpg)
-:-----------------------------:|:-------------------------:
-							   |
+			<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B00L6LZRXM&asins=B00L6LZRXM&linkId=4102131e8f327f4c89c0a9ca80015ede&show_border=true&link_opens_in_new_window=true"></iframe>
 
-![](/img/mike/mike23.jpg) | ![](/img/mike/mike27.jpg)
-:-----------------------------:|:-------------------------:
-							   |
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B015DJ4QX4&asins=B015DJ4QX4&linkId=4780763d2a9824fa01d399045b16ce90&show_border=true&link_opens_in_new_window=true"></iframe>
 
-While I was adding the indoor lighting, I decided to add an outdoor floodlight and a 12 volt barrel jack to the project as well. The outdoor light was something I've been needing anyway. The 12 volt jack will be great for running other devices during a power outage including phone chargers, fans, and even a plug-in inverter for running 110 volt appliances.
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B06ZY6ZPWQ&asins=B06ZY6ZPWQ&linkId=1b430adfffdbfd9e93b94b37235d9c13&show_border=true&link_opens_in_new_window=true"></iframe>
 
-Since the flood light would be situated between the phone box and the control box and also happed to be close to where the solar panels would be located, the flood light box seemed like the perfect place to wire everything together.
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01NAUV18K&asins=B01NAUV18K&linkId=f4946c85009d9b874e9af4d4f698c879&show_border=true&link_opens_in_new_window=true"></iframe>
 
-So, I ran the thermostat wire from the telephone box, the solar panel wires, and three pair of wires from the control box into the flood light box. I wired the solar panels in parallel and connected them to a single pair of wires feeding down to the control box. Then, I feed the phone box wires and switch leg for the flood light down to the control box using thermostat wire.
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B017PI2OUS&asins=B017PI2OUS&linkId=f62bfc2931ce07df9de6f89fba444006&show_border=true&link_opens_in_new_window=true"></iframe>
 
-In the control box, I wired the batteries in parallel and to the charge controller's BATT connector. Then, I attached the 2-conductor wire from the solar panels to the charge controller's SOLAR connector. And finally, I wired the phone box wires and the switch leg for the flood light to the controller's LOAD connector.
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B000ND0WB6&asins=B000ND0WB6&linkId=713b1b232093ab6c3a67a860227b69d7&show_border=true&link_opens_in_new_window=true"></iframe>
 
-IMPORTANT: Make sure you watch the polarity on these connections as you should always do with DC power.
+            <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
+            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">100W Solar Panel</a>
+            <br><a href="http://amzn.to/2xpB5PR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">420Wh Deep Cycle Battery</a>
+            <br><a href="http://amzn.to/2y8mZld" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">Charge Controller</a>
+            <br><a href="http://amzn.to/2xp6TEK" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">150W Micro Inverter</a>
+            <br><a href="http://amzn.to/2g0LHNG" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">MC4 Cable</a>
+            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">Alligator Clips</a></p>
 
-Also IMPORTANT: I don't know if it's an anomaly or not, but the Harbor Freight charge controller I bought has the polarity backwards on a couple of the connections. Make sure the LEDs light when you connect your batteries and solar panels to ensure proper polarity.
+ </div>
+ <br>
+<a class="btn btn-amazon"
+style="background-color: orange"
+target="_blank"
+onclick="ga('send', 'event', 'Buy Button', 'clicked', 'Cart');"
+href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B00L6LZRXM&Quantity.1=1&ASIN.2=B015DJ4QX4&Quantity.2=1&ASIN.3=B06ZY6ZPWQ&Quantity.3=1&ASIN.4=B01NAUV18K&Quantity.4=1&ASIN.5=B017PI2OUS&Quantity.5=1&ASIN.6=B000ND0WB6&Quantity.6=1"><b>Add parts to cart</b></a>
+<br><br>
+</div>
 
-UPDATE: I added an inline fuse between the charge controller LOAD (+) lead and the phone line just in case somebody plugs in too heavy a load.
 
-UPDATE: Due to lots of helpful suggestions (and a few outright warnings) regarding my choice of a 110 volt plug for the power outlet, I decided to add some optional 12 volt outlets to the project. Please see Steps 1 & 3 for details.
 
-<b>Step 5: Testing It Out</b>
 
-The outside flood light works great in day or night conditions as you can see from the first two photos. I ordered a higher wattage bulb to use there, but you can see even the little 3 watt bulb puts out a decent amount of light.
+I’m using bargain-basement parts intended for RV, marine & car usage which keeps my system cheap and mobile. The main components as found on Amazon are above.
 
-The next photo shows my standard table lamp plugged into the 110 volt outlet with a 13 watt CFL bulb. In the last photo, I replaced the bulb with the 12 volt 3 watt LED bulb and plugged the lamp into the 12 volt solar outlet. As you can see, it works great!
 
-![](/img/mike/mike1.jpg) | ![](/img/mike/mike18.jpg)
+![](/img/BOXES.jpg)   |  ![](/img/COMPONENTS.jpg)
+:-------------------------:|:-------------------------:
+						   |
+
+I ordered the system on July 2nd, and with ground shipping the PV panel arrived July 11th from Canada, and the battery, wiring, controller and inverter arrived July 15th from Amazon USA.
+
+
+<br><br><br>
+
+<b>Assembly</b><a name="assembly"></a>
+
+Hopefully you can adapt my system to your spatial situation pretty easily:
+
+![](/img/ASSEMBLY1.jpg) | ![](/img/ASSEMBLY2.jpg)
+:---------------------------:|:-------------------------:
+							 |
+
+
+![](/img/ASSEMBLY3.jpg)
+
+<b>Step 1</b> Cut and lay bare the end of the battery & inverter wires (battery disconnected, please). The panel’s wires are already bare on one end. Do a dry run connecting battery, inverter and panel to the controller — it should look like above.
+
+![](/img/ASSEMBLY4.jpg)
+
+
+![](/img/ASSEMBLY4-1.jpg) | ![](/img/ASSEMBLY4-2.jpg)
 :-----------------------------:|:-------------------------:
 							   |
 
-![](/img/mike/mike5.jpg) | ![](/img/mike/mike6.jpg)
+<b>Step 2 (AFTER THE HURRICANE PASSES THROUGH)</b> Detach the panel wires again and place the panel on the rooftop or wherever you get the most sunlight (…garden …balcony …). Attach the panel to something in case any final gusts of wind pass through: I zip-tied the back of the panel to a cable which I fastened on both ends around sturdy roof pipes...
+
+![](/img/ASSEMBLY5.jpg) | ![](/img/ASSEMBLY6.jpg)
 :-----------------------------:|:-------------------------:
 							   |
 
-CAUTION: If you build this, please remember to always remove the 12 volt bulb before you plug the lamp back into 110 volts. I almost forgot to do it while taking these photos. That would have been a big mistake!
 
-UPDATE: I added an inline fuse between the charge controller LOAD (+) lead and the phone line just in case somebody plugs in too heavy a load.
+...and run the power lines back to your apartment (drop down the facade and into the window in my case).
 
-UPDATE: Due to lots of helpful suggestions (and a few outright warnings) regarding my choice of a 110 volt plug for the power outlet, I decided to add some optional 12 volt outlets to the project. Please see Steps 1 & 3 for details.
+![](/img/INSIDE.jpg)
 
-So there's my project. Like most people on the Gulf Coast, I hope we have another mild hurricane season this year. But if we do have a power outage, I'll be more prepared than most!
+<b>Step 3</b> Assemble the solar controller, inverter and battery into a tighter package. Re-clamp the wire from the panel to the solar controller and close the window. It should look as above. The charge begins!
 
-Plus, since I have this system up and running anyway, I might as well use it now and save a little bit of fossil fuel. So tonight, I'm turning my solar lamps ON and my grid-powered lamps OFF!
+![](/img/SELF-SUFFICIENCY.jpg)
+
+In the evening, turn on the inverter. My lamp, computer, tablet & phone are all being powered simultaneously here on the day’s solar charge. This is a good backup until the power gets back up.
 
 
-Note: reposted with the author's permission from <a href="http://www.instructables.com/id/Solar-Hurricane-Lighting-and-more/" target="_blank">here</a>
+
+
+
+<br><br><br>
+
+<b>One month of off-grid living in my room</b><a name="experiment"></a>
+
+
+
+In San Francisco we get 4.26 hours of usable sunshine a day (or 1156 hours a year) according to Google Sunroof. My battery holds 420Wh (12V x 35Ah), and should be filled once a day without any shading. Actual production is an average 350Wh/day on the rooftop with real-world shading and loss.
+
+	Daily Power Production:
+	Theoretical: 4.26 sun hours/d * 100W solar = 426Wh/day
+	Actual: 350Wh/day
+
+	Daily Power Needs:
+	54Wh Macbook Air 13-Inch (one charge a day)
+	8Wh iPhone battery (one charge a day)
+	20Wh Light (4W LED x 5h)
+	300Wh Space Heater (150W x 2h – our SF house has no heating)
+	___________
+
+	Total: 82Wh energy need per day in room (up to 382Wh)`
+
+This should be easily met by the solar system. I turn the inverter on when I get home to use AC lights and charge the Macbook through the power brick, and turn it off before I go to bed to avoid energy drain. My phone’s USB (which is direct current) can charge all night straight through the solar controller itself (which has USB ports) and doesn’t require the inverter. My laptop is a DC device and could be charged straight off the 12V battery, but I found it easier to just charge it with the AC power brick through the inverter. More info on what you can run off the system in the follow-up article<a href="/2017/09/17/what-will-it-run.html">here</a>.
+
+![](/img/GENERATION.jpg) | ![](/img/GENERATION2.jpg)
+:-----------------------------:|:-------------------------:
+							   |
+
+My traditional AC lamp is a non-optimized part of the system— I could get DC lights that run off USB to avoid inverting that energy, but have not done so thus far and prefer to just use the cute little thing. When I go to bed I’ve usually used around 30% of the energy anyway— I wish I could run a water heater, heating or fridge off this system to use the excess 270Wh of the daily energy production.
+
+
+
+
+<br><br><br>
+
+<b>Learnings and Outlook</b><a name="outlook"></a>
+
+
+
+
+This project started with a simple idea: What if energy generation was a consumer electronic you could order off Amazon? I’ve learned that basic electrical knowledge and a little assembly bring us very close to this ideal: Self-contained renewable lighting and charging is achieved with a simple setup off Amazon.
+
+![](/img/FINAL.jpg) | ![](/img/FINAL2.jpg)
+:-----------------------------:|:-------------------------:
+							   |
+
+Unless you live on an RV or a boat it doesn’t make financial sense yet (see epilogue #1). But if prices come down a little more (what a difference the last year made!) or manufacturing gets a bit more resource-efficient the scales could tip and this could be a green and fiscally sensible solution (see epilogue #2). And some time in the next decade this great little DIY system that can function as a back-up system today (see epilogue #3) could become a viable consumer electronic: a cheap personal power plant for urban renters.
+The vision is that everyone in the world could afford a basic system like this, to guarantee their basic power needs themselves. With a most-likely increasing amount of storms in heavily populated areas this will become ever more of a necessity.
+
+<br><br><br>
+
+<b>Outlook</b>
+The vision is that everyone in the world could afford a basic system like this, to guarantee their basic power needs themselves. With a most-likely increasing amount of storms in heavily populated areas this will become ever more of a necessity.
+
+What if autonomous electric generation could be added room by room to a household (like window A/C units)? We could outfit all 7 rooms of my (shared) household for around $1400 with this system today. Because the kitchen and bathrooms have way higher energy usages (fridge, stove, water heater) than the other rooms, a more sophisticated system could mesh the batteries together (wirelessly?) to create a stronger system that sends power to the rooms that need it most.
+
+
+<br><br><br>
+
+<b>Financial Payback & Embodied Energy</b><a name="numbers"></a>
+
+How long until it saves me money? The reason this system is so simple is because it doesn’t tie in to your apartment’s behind-the-meter electrical grid. This means the system is clean, but it also doesn’t feed into electrical heavyweights like your water heater, refrigerator and washer/dryer. It does charge anything you plug into it though. So can the system save me money? Back of the envelope:
+
+	Financial payback period for 100W system
+	System cost : $211 on Amazon at time of writing
+	Yearly energy creation: 365d * 4.26hsun/d * 100W = 155’490Wh/y
+	Yearly value creation: 155kWh/y * 15.34c/kWh = $24/y energy created
+	100W system payback period: $211 / $24 = 8.5 years until payback
+
+The financial payback of the system is 9 years including battery, which is in line with many rooftop systems but doesn’t include servicing. This could be reduced to 6.5 years by adding a second 100W solar panel:
+
+	Payback period for 200W system
+	200W System cost: roughly $300 on Amazon at time of writing
+	Yearly energy creation: 365d * 4.26hsun/d * 100W = 310’980Wh/y
+	Yearly value creation: 311kWh/y * 15c/kWh = $48/y energy created
+	200W system payback period: $300 / $48 = 6.5 years until payback
+
+Note however that after 8 years of daily use the lead-acid deep discharge battery will be spent, which I’m not taking into account here. Either way you cut it, this is not a money saving machine. Energy prices are just too low.
+
+<br><br><br>
+
+<b>How green is it?</b>
+
+Does it have an impact on my CO2 footprint? Back of the envelope:
+
+	Production footprint PV multicristalline:
+	4200kWhee/kW [1] * 0.1kW = 420kWh embodied energy
+
+	Production footprint lead-acid battery:
+	321kWhee/kWh [1] * 0.5kWh = 161kWh embodied energy
+
+	Total Footprint: 581kWh
+
+	Annual energy production system: 155kWh/y
+	Payback period: 581kWh / 155kWh/y = 4+ year footprint payback
+	[1] http://renew.org.au/articles/energy-flows-how-green-is-my-solar/
+
+
+
+An eventual product would use Lithium-Ion batteries once they come down in price, which have a way better energy footprint. Lead-acid batteries are used for now because they’re cheap. So no, we’re not saving any CO2 emissions here until after 4 years — not a green machine.
+
+Energy independence and resilience
+In case of brownouts or blackouts, this would be a helpful way of wirelessly charging communications devices without the grid. A 200W system could even keep a small 60W, 12V refrigerator cool enough to conserve food (14hours of operation/day, cooling down 32 degrees below ambient temp). If energy prices increase (double? triple?) due to unforeseen events in the future, the financial perspective may even make sense with payback periods decreasing to four or even 2.8 years for the 100W system or for the 200W system to 3 years or 2 years, respectively. At under 2 years payback period, we’d be in similar consumer territory to 2-year phone contracts. Let’s hope components continue to get cheaper! (or energy prices increase — but I’d rather not hope for that)
+
+<br><br><br>
+
+<b>Tech Specs</b><a name="specs"></a>
+
+
+	Polychristalline Solar Panel
+		Size: 39.8 x 1.2 x 26.6 inches
+		Weight: 19.6 pounds
+		Voltage: 12V DC
+		Max power rating: 100W
+		Max amperage: 8.3A
+
+
+	Inverter
+		Max power rating: 150W
+
+(turns off if you use more than this, but a 300W version is $6 more)
+
+		Voltage: 12V DC in, 110V AC out
+		Only DC 12V, NOT for DC 24V
+		USB Output: 5V/1+2.1A (5W and 10.5W respectively)
+
+
+	Solar controller
+		Voltage: 12V/24V
+		Ports: 2x USB, 1x DC in, 1x DC out
+		Charge Current: 20A
+		Discharge Current: 20A
+		Max in: 20A * 12V = 240W
+		Max out: 20A * 12V = 240W
+		USB Output: 5V/3A (15W) each
+		Type: PWM
+		Weight: 0.25 pounds
+		Size: 5.9 x 3 x 1.4in
+		Will upgrade to a USB-C version when available
+
+	Marine lead-acid battery (Deep Cycle)
+		Voltage: 12V DC
+		Storage Capacity: 0.42Kwh, 35Ah
+		Size: 6.5 x 7.7 x 5.1 in
+		Weight: 25 pounds
+
+	Cables (aka "Tender" or "B.O.M.")
+		Alligator Clips (for connecting the battery to the solar controller)
+		20Ft Extension Cable
+
+(MC4 12AWG, for connecting the solar panel to the solar controller)
