@@ -27,8 +27,7 @@ The most recent American examples are Puerto Rico, where some customers won't ha
 
 <b>A possible solution for grid resilience</b><a name="solution"></a>
 
-A solar system bought and assembled off Amazon can be low-cost backup kept in the basement the rest of the year and then brought out and put together after the hurricane passes through. This makes the solar buying process more like buying a consumer electronic.
-
+A solar system bought and assembled off Amazon can be low-cost backup kept in the basement the rest of the year and then brought out and put together after the hurricane passes through. 
 
 In this article we'll show you how to build one, where to get the parts, and whether this system makes any meaningful energy and makes financial sense.
 
