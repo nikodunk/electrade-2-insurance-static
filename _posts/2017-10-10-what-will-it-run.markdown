@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Efficient DC devices for a low-power home."
+title:  "For Efficient Home Appliances: Various DC devices"
 date:   2017-10-10 08:00:00 -0700
 image: "/img/devices/cookbefore.jpg"
 ---

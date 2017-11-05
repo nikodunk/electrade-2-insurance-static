@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Solar panel + batteries for Burning Man & Festivals. Price on Amazon: $200"
+title:  "For Burning Man / Off-grid festivals: $200 solar panel + battery kit on Amazon"
 date:   2017-09-06 08:00:00 -0700
 image: "/img/money3.jpg"
 ---
