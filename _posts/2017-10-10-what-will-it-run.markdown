@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "For Efficient Home Appliances: Various DC devices"
+title:  "For Efficient Home Appliances: How to replace your devices with low-power versions with from Amazon"
 date:   2017-10-10 08:00:00 -0700
 image: "/img/devices/cookbefore.jpg"
 ---

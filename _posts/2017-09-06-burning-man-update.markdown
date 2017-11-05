@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "For offgrid festivals (ie. Burning Man): $200 Amazon solar panel + battery kit"
+title:  "For offgrid festivals (ie. Burning Man): How to build a solar panel + battery kit with $200 parts from Amazon"
 date:   2017-09-06 08:00:00 -0700
 image: "/img/money3.jpg"
 ---

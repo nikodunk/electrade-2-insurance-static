@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "For Storm & Hurricane Backup Power: $200 Amazon solar panel + battery kit"
+title:  "For Storm & Hurricane Backup Power: How to build a solar panel + battery kit with $200 parts from Amazon"
 date:   2017-10-09 08:00:00 -0700
 image: "/img/money2.jpg"
 ---

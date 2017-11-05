@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "For rented urban apartments: $200 Amazon solar panel + battery kit"
+title:  "For rented urban apartments: How to build a solar panel + battery kit with $200 parts from Amazon"
 date:   2017-06-20 08:00:00 -0700
 image: "/img/money1.jpg"
 ---
