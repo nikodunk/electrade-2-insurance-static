@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "For Burning Man / Off-grid festivals: $200 solar panel + battery kit on Amazon"
+title:  "For offgrid festivals (ie. Burning Man): $200 Amazon solar panel + battery kit"
 date:   2017-09-06 08:00:00 -0700
 image: "/img/money3.jpg"
 ---

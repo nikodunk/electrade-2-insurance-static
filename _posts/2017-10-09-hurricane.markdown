@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "For Storm Backup Power: $200 solar panel + battery kit on Amazon"
+title:  "For Storm & Hurricane Backup Power: $200 Amazon solar panel + battery kit"
 date:   2017-10-09 08:00:00 -0700
 image: "/img/money2.jpg"
 ---
