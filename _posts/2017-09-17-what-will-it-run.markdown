@@ -188,13 +188,13 @@ LED Light (45Wh – usable 9h/day)<br><br>
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01LFSDZCU&asins=B01LFSDZCU&linkId=1783362acc517ede433c0fec058661c8&show_border=true&link_opens_in_new_window=true"></iframe>
 
           <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
-            <br><a href="http://amzn.to/2xqifTT" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">5W LED USB Lightbulbs (DC)</a>
-            <br><a href="http://amzn.to/2fT4HKl" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">60W Mini-Fridge (DC)</a>
-	        <br><a href="http://amzn.to/2y82JQe" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">144W Stove (DC)</a>
-		    <br><a href="http://amzn.to/2yPs92D" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">150W Ceramic Space Heater (DC)</a>
-			<br><a href="http://amzn.to/2xoQfVD" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">45W Evaporative Cooler (DC, but with AC brick)</a>
-			<br><a href="http://amzn.to/2y87SI8" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">97Wh Electric Skateboard (DC, but with AC brick)</a>
-			<br><a href="http://amzn.to/2y8G32p" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">9W Wifi (DC, but with AC brick)</a></p>
+            <br><a href="http://amzn.to/2xqifTT" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">5W LED USB Lightbulbs (DC)</a>
+            <br><a href="http://amzn.to/2fT4HKl" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">60W Mini-Fridge (DC)</a>
+	        <br><a href="http://amzn.to/2y82JQe" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">144W Stove (DC)</a>
+		    <br><a href="http://amzn.to/2yPs92D" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">150W Ceramic Space Heater (DC)</a>
+			<br><a href="http://amzn.to/2xoQfVD" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">45W Evaporative Cooler (DC, but with AC brick)</a>
+			<br><a href="http://amzn.to/2y87SI8" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">97Wh Electric Skateboard (DC, but with AC brick)</a>
+			<br><a href="http://amzn.to/2y8G32p" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">9W Wifi (DC, but with AC brick)</a></p>
  </div>
 <br><br>
 </div>

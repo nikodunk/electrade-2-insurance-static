@@ -57,12 +57,12 @@ My goal is to take care of the energy needs for me personally in the aftermath o
             <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B000ND0WB6&asins=B000ND0WB6&linkId=713b1b232093ab6c3a67a860227b69d7&show_border=true&link_opens_in_new_window=true"></iframe>
 
             <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
-            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">100W Solar Panel</a>
-            <br><a href="http://amzn.to/2xpB5PR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">420Wh Deep Cycle Battery</a>
-            <br><a href="http://amzn.to/2y8mZld" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">Charge Controller</a>
-            <br><a href="http://amzn.to/2xp6TEK" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">150W Micro Inverter</a>
-            <br><a href="http://amzn.to/2g0LHNG" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">MC4 Cable</a>
-            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">Alligator Clips</a></p>
+            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">100W Solar Panel</a>
+            <br><a href="http://amzn.to/2xpB5PR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">420Wh Deep Cycle Battery</a>
+            <br><a href="http://amzn.to/2y8mZld" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">Charge Controller</a>
+            <br><a href="http://amzn.to/2xp6TEK" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">150W Micro Inverter</a>
+            <br><a href="http://amzn.to/2g0LHNG" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">MC4 Cable</a>
+            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">Alligator Clips</a></p>
 
  </div>
  <br>

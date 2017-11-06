@@ -36,13 +36,13 @@ Here's Sean's system for Burning Man 2017 in Nevada. He used it to run phones, f
             <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B0046QYRTE&asins=B0046QYRTE&linkId=cffa1e6127488de35509b1549b10672b&show_border=true&link_opens_in_new_window=true"></iframe>
 
             <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
-            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">Solar Panel</a>
-            <br><a href="http://amzn.to/2xpB5PR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">Battery</a>
-            <br><a href="http://amzn.to/2y8mZld" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">Charge Controller</a>
-            <br><a href="http://amzn.to/2xp6TEK" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">Micro Inverter</a>
-            <br><a href="http://amzn.to/2g0LHNG" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">MC4 Cable</a>
-            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">Alligator Clips</a>
-            <br><a href="http://amzn.to/2xqECh2" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');">Case / Toolbox</a></p>
+            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">Solar Panel</a>
+            <br><a href="http://amzn.to/2xpB5PR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">Battery</a>
+            <br><a href="http://amzn.to/2y8mZld" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">Charge Controller</a>
+            <br><a href="http://amzn.to/2xp6TEK" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">Micro Inverter</a>
+            <br><a href="http://amzn.to/2g0LHNG" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">MC4 Cable</a>
+            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">Alligator Clips</a>
+            <br><a href="http://amzn.to/2xqECh2" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">Case / Toolbox</a></p>
  </div>
  <br>
 <a class="btn btn-amazon"
