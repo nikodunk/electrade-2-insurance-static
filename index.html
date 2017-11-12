@@ -2,24 +2,32 @@
 layout: default
 title: {{ site.name }}
 ---
-
-
-
+  
+  <div style="padding-top: 4rem; max-width: 800px; margin: 0 auto; text-align: center">
+    <h3>Real-time price for the basic DIY solar panel + battery kit on Amazon:</h3>
+    <h1 class="subtitle"></h1>
     <script>
     $.getJSON( "https://api.apify.com/v1/rG44NsjnfukCkKecE/crawlers/PLb9rTvadeA5S8LXC/lastExec/results?token=JSz7b4BvgwSQKAXJcufZYEeoC", function( data ) {
-      var items = [];
+      var total = 0;
       console.log(data[0].pageFunctionResult)
       $.each( data[0].pageFunctionResult, function( key, val ) {
-        items.push( "<li id='" + key + "'>" + val.price + "</li>" );
+        total += parseFloat(val.price.replace('$', ''));
       });
-     
-      $( "<ul/>", {
+      console.log(total)
+      $( "<p/>", {
         "class": "my-new-list",
-        html: items.join( "" )
-      }).appendTo( "body" );
+        html: "$" + Math.round(total*100)/100 
+      }).appendTo( ".subtitle" );
     });
     </script>
 
+    <p><small>computed daily with <a href="apifier.com" target="_blank">apifier</a></small></p>
+    <br><br><br>
+    <h4>How to assembly guides:</h4>
+  </div>
+
+
+    
 
     <div style="margin: 0 auto; max-width: 800px; display:flex; flex-wrap: wrap; justify-content: center; padding-top: 60px; text-align: center">
       {% for item in site.posts reversed %}
