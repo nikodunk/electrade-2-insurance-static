@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "For a tiny home footprint:<br> How to replace your devices with low-power versions with from Amazon"
+title:  "Low-power devices for a tiny home footprint"
 date:   2017-09-17 08:00:00 -0700
 image: "/img/devices/cookbefore.jpg"
 ---

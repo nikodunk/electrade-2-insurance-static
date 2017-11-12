@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "For urban apartment renters:<br> How to build a DIY solar panel + battery kit with parts from Amazon"
+title:  "Solar for apartments and renters"
 date:   2017-06-20 08:00:00 -0700
 image: "/img/money1.jpg"
 ---
