@@ -5,6 +5,20 @@ title: {{ site.name }}
 
 
 
+    <script>
+    $.getJSON( "https://api.apify.com/v1/rG44NsjnfukCkKecE/crawlers/PLb9rTvadeA5S8LXC/lastExec/results?token=JSz7b4BvgwSQKAXJcufZYEeoC", function( data ) {
+      var items = [];
+      console.log(data[0].pageFunctionResult)
+      $.each( data[0].pageFunctionResult, function( key, val ) {
+        items.push( "<li id='" + key + "'>" + val.price + "</li>" );
+      });
+     
+      $( "<ul/>", {
+        "class": "my-new-list",
+        html: items.join( "" )
+      }).appendTo( "body" );
+    });
+    </script>
 
 
     <div style="margin: 0 auto; max-width: 800px; display:flex; flex-wrap: wrap; justify-content: center; padding-top: 60px; text-align: center">
