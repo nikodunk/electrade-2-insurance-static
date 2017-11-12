@@ -4,32 +4,77 @@ title: {{ site.name }}
 ---
   
   <div style="padding-top: 4rem; max-width: 800px; margin: 0 auto; text-align: center">
-    <h3>Real-time price for the basic DIY solar panel + battery kit on Amazon:</h3>
-    <h1 class="subtitle"></h1>
-    <script>
-    $.getJSON( "https://api.apify.com/v1/rG44NsjnfukCkKecE/crawlers/PLb9rTvadeA5S8LXC/lastExec/results?token=JSz7b4BvgwSQKAXJcufZYEeoC", function( data ) {
-      var total = 0;
-      console.log(data[0].pageFunctionResult)
-      $.each( data[0].pageFunctionResult, function( key, val ) {
-        total += parseFloat(val.price.replace('$', ''));
-      });
-      console.log(total)
-      $( "<p/>", {
-        "class": "my-new-list",
-        html: "$" + Math.round(total*100)/100 
-      }).appendTo( ".subtitle" );
-    });
-    </script>
+    <h1 >Basic DIY Solar kit off Amazon:</h1>
+    <hr style="border-top: 1px solid #efefef; max-width: 600px">
+    <div style="margin: 0 auto; max-width: 600px; display:flex; flex-wrap: wrap; justify-content: center; text-align: center">
+        <div style="width: 100px; margin: 10px;">
+            <img src="/img/iconsolarpanel.png" style="max-height: 100px">
+            <p style="color: #68c20f"><b>solar panel</b></p>
+        </div>
+        <div>
+            <h2 style="color: #68c20f; line-height: 100px"><b>+</b></h2>
+        </div>
+        <div style="width: 100px; margin: 10px;">
+            <img src="/img/iconbattery.png" style="max-height: 100px">
+            <p style="color: #68c20f"><b>battery</b></p>
+        </div>
+        <div>
+            <h2 style="color: #68c20f; line-height: 100px"><b>+</b></h2>
+        </div>
+        <div style="width: 100px; margin: 10px;">
+            <img src="/img/iconcontroller.png" style="max-height: 100px">
+            <p style="color: #68c20f"><b>controller</b></p>
+        </div>
+        <div>
+            <h2 style="color: #68c20f; line-height: 100px"><b>+</b></h2>
+        </div>
+        <div style="width: 100px; margin: 10px;">
+            <img src="/img/iconinverter.png" style="max-height: 100px">
+            <p style="color: #68c20f"><b>inverter</b></p>
+        </div>
 
-    <p><small>computed daily with <a href="apifier.com" target="_blank">apifier</a></small></p>
-    <br><br><br>
-    <h4>How to assembly guides:</h4>
+    </div>
+    <hr style="border-top: 1px solid #efefef; max-width: 600px">
+    <div style="display: flex; max-width: 500px; margin: 0 auto; padding-top: 2rem">
+      <div class="subtitle">
+          <p style="padding: 0; margin: 0; color: grey">
+              real-time price with  <a style="color: grey;" href="http://apifier.com" target="_blank">apifier</a>
+          </p>
+      </div>
+      <div style="margin-left: 2rem">
+        <a href="/2017/06/20/200-apartment-solar-system.html#thekit">
+          <button style="cursor: pointer; background-color: #68c20f; padding: 2rem; padding-top: 0rem !important; padding-bottom: 0rem; border: 1px solid lightgreen; border-radius: 5px;">
+            <h1 style="color: white">See the kit</h1>
+          </button>
+        </a>
+      </div>
+    </div>
+    <br>
+    <br>
+    <!-- <hr style="border-top: 1px solid #efefef"> -->
   </div>
 
-
+    <script>
+      $.getJSON( "https://api.apify.com/v1/rG44NsjnfukCkKecE/crawlers/PLb9rTvadeA5S8LXC/lastExec/results?token=JSz7b4BvgwSQKAXJcufZYEeoC", function( data ) {
+        var total = 0;
+        $.each( data[0].pageFunctionResult, function( key, val ) {
+          total += parseFloat(val.price.replace('$', ''));
+        });
+        $( "<h1 />", {
+          "style": "display: inline;",
+          html: "Current Price: <span style='color: #68c20f'>$" + Math.round(total*100)/100 + "</span>"
+        }).prependTo( ".subtitle" );
+      });
+    </script>
     
 
-    <div style="margin: 0 auto; max-width: 800px; display:flex; flex-wrap: wrap; justify-content: center; padding-top: 60px; text-align: center">
+  
+
+
+  <div  style="padding-top: 60px;">
+    <h4 style="text-align: center">How-To Assembly for different uses:</h4>
+    <div style="margin: 0 auto; max-width: 800px; display:flex; flex-wrap: wrap; justify-content: center;  text-align: center">
+
       {% for item in site.posts reversed %}
         <div style="width: 300px; padding: 15px; margin: 10px; border: 1px lightgrey solid; border-radius: 5px">
           <a href="{{ item.url }}">
@@ -43,3 +88,4 @@ title: {{ site.name }}
         </div>
       {% endfor %}
     </div>
+  </div>

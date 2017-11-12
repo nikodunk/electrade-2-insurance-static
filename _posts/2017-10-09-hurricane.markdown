@@ -41,7 +41,7 @@ My goal is to take care of the energy needs for me personally in the aftermath o
 
 <div style="text-align: center">
 <br><br>
-<p style="color: orange;"><b>The kit</b></p>
+<p style="color: orange;" id="thekit"><b>The kit</b></p>
 <div style="border: 5px solid orange; padding: 20px; ">      
 
 			<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B00L6LZRXM&asins=B00L6LZRXM&linkId=4102131e8f327f4c89c0a9ca80015ede&show_border=true&link_opens_in_new_window=true"></iframe>
