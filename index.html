@@ -4,7 +4,9 @@ title: {{ site.name }}
 ---
   
   <div style="padding-top: 4rem; max-width: 800px; margin: 0 auto; text-align: center">
-    <h1 >Basic DIY Solar kit off Amazon:</h1>
+    <h1 class="subtitle">Current price for base <i>DIY solar</i> kit off Amazon:</h1>
+    
+    
     
     <div style="margin: 0 auto; max-width: 600px; display:flex; flex-wrap: wrap; justify-content: center; text-align: center">
         <div style="width: 100px; margin: 10px;">
@@ -35,23 +37,19 @@ title: {{ site.name }}
 
     </div>
     
-    <div style="display: flex; max-width: 500px; margin: 0 auto; padding-top: 2rem">
-      <div class="subtitle">
-          <p style="padding: 0; margin: 0; color: grey">
-              real-time price with  <a style="color: grey;" href="http://apifier.com" target="_blank">apifier</a>
-          </p>
-      </div>
-      <div style="margin-left: 2rem">
+    <div style="padding-top: 2rem">
+      <div style="text-align: center">
         <a href="/2017/06/20/200-apartment-solar-system.html#thekit">
-          <button style="cursor: pointer; background-color: #68c20f; padding: 2rem; padding-top: 0rem !important; padding-bottom: 0rem; border: 1px solid lightgreen; border-radius: 5px;">
+          <button style="cursor: pointer; background-color: #68c20f; padding: 2rem; padding-top: 0rem !important; padding-bottom: 0rem; border: none; border-radius: 5px;">
             <h1 style="color: white">See the kit</h1>
           </button>
         </a>
+        <p style="font-size: .7rem">* real-time price with  <a style='color: lightgrey;' href='http://apifier.com' target='_blank'>apifier</a></p>
       </div>
     </div>
     <br>
     <br>
-    <!-- <hr style="border-top: 1px solid #efefef"> -->
+    <hr style="border-top: 1px solid #efefef">
   </div>
 
     <script>
@@ -60,10 +58,10 @@ title: {{ site.name }}
         $.each( data[0].pageFunctionResult, function( key, val ) {
           total += parseFloat(val.price.replace('$', ''));
         });
-        $( "<h1 />", {
+        $( "<p />", {
           "style": "display: inline;",
-          html: "Current Price: <span style='color: #68c20f'>$" + Math.round(total*100)/100 + "</span>"
-        }).prependTo( ".subtitle" );
+          html: "<span style='color: #68c20f'> $" + Math.round(total*100)/100 + "*</span>"
+        }).appendTo( ".subtitle" );
       });
     </script>
     
