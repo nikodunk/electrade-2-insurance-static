@@ -3,36 +3,36 @@ layout: default
 title: {{ site.name }}
 ---
   
-  <div style="padding-top: 4rem; max-width: 800px; margin: 0 auto; text-align: center">
-    <h1 class="subtitle">Current price for base <i>DIY solar</i> kit off Amazon:</h1>
+  <div style=" max-width: 800px; margin: 0 auto; text-align: center">
+   
     
     
     
     <div style="margin: 0 auto; max-width: 600px; display:flex; flex-wrap: wrap; justify-content: center; text-align: center">
         <div style="width: 100px; margin: 10px;">
             <img src="/img/iconsolarpanel.png" style="max-height: 100px">
-            <p style="color: #68c20f"><b>solar panel</b></p>
+            <p ><b>solar panel</b></p>
         </div>
         <div>
             <h2 style=" line-height: 100px"><b>+</b></h2>
         </div>
         <div style="width: 100px; margin: 10px;">
             <img src="/img/iconbattery.png" style="max-height: 100px">
-            <p style="color: #68c20f"><b>battery</b></p>
+            <p ><b>battery</b></p>
         </div>
         <div>
             <h2 style=" line-height: 100px"><b>+</b></h2>
         </div>
         <div style="width: 100px; margin: 10px;">
             <img src="/img/iconcontroller.png" style="max-height: 100px">
-            <p style="color: #68c20f"><b>controller</b></p>
+            <p ><b>controller</b></p>
         </div>
         <div>
             <h2 style=" line-height: 100px"><b>+</b></h2>
         </div>
         <div style="width: 100px; margin: 10px;">
             <img src="/img/iconinverter.png" style="max-height: 100px">
-            <p style="color: #68c20f"><b>inverter</b></p>
+            <p ><b>inverter</b></p>
         </div>
 
     </div>
@@ -52,18 +52,7 @@ title: {{ site.name }}
     <hr style="border-top: 1px solid #efefef">
   </div>
 
-    <script>
-      $.getJSON( "https://api.apify.com/v1/rG44NsjnfukCkKecE/crawlers/PLb9rTvadeA5S8LXC/lastExec/results?token=JSz7b4BvgwSQKAXJcufZYEeoC", function( data ) {
-        var total = 0;
-        $.each( data[0].pageFunctionResult, function( key, val ) {
-          total += parseFloat(val.price.replace('$', ''));
-        });
-        $( "<p />", {
-          "style": "display: inline;",
-          html: "<span style='color: #68c20f'> $" + Math.round(total*100)/100 + "*</span>"
-        }).appendTo( ".subtitle" );
-      });
-    </script>
+   
     
 
   
