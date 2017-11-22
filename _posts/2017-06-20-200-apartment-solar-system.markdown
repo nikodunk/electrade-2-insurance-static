@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Solar for apartments and renters"
+title:  "For apartments and rented homes"
 date:   2017-06-20 08:00:00 -0700
 image: "/img/money1.jpg"
 ---

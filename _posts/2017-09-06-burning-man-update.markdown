@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Solar for festivals and Burning Man"
+title:  "For off-grid festivals and Burning Man"
 date:   2017-09-06 08:00:00 -0700
 image: "/img/money3.jpg"
 ---
