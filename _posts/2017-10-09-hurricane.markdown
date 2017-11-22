@@ -22,8 +22,8 @@ My goal is to take care of the energy needs for me personally in the aftermath o
 
 <div style="text-align: center">
 <br><br>
-<p style="color: orange;" id="thekit"><b>The kit</b></p>
-<div style="border: 5px solid orange; padding: 20px; ">      
+<p style="color: #68c20f;" id="thekit"><b>The kit</b></p>
+<div style="border: 5px solid #68c20f; padding: 20px; ">      
 
 			<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B00L6LZRXM&asins=B00L6LZRXM&linkId=4102131e8f327f4c89c0a9ca80015ede&show_border=true&link_opens_in_new_window=true"></iframe>
 
@@ -38,17 +38,17 @@ My goal is to take care of the energy needs for me personally in the aftermath o
             <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B000ND0WB6&asins=B000ND0WB6&linkId=713b1b232093ab6c3a67a860227b69d7&show_border=true&link_opens_in_new_window=true"></iframe>
 
             <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
-            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">100W Solar Panel</a>
-            <br><a href="http://amzn.to/2xpB5PR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">420Wh Deep Cycle Battery</a>
-            <br><a href="http://amzn.to/2y8mZld" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">Charge Controller</a>
-            <br><a href="http://amzn.to/2xp6TEK" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">150W Micro Inverter</a>
-            <br><a href="http://amzn.to/2g0LHNG" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">MC4 Cable</a>
-            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: orange">Alligator Clips</a></p>
+            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">100W Solar Panel</a>
+            <br><a href="http://amzn.to/2xpB5PR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">420Wh Deep Cycle Battery</a>
+            <br><a href="http://amzn.to/2y8mZld" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">Charge Controller</a>
+            <br><a href="http://amzn.to/2xp6TEK" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">150W Micro Inverter</a>
+            <br><a href="http://amzn.to/2g0LHNG" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">MC4 Cable</a>
+            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">Alligator Clips</a></p>
 
  </div>
  <br>
 <a class="btn btn-amazon"
-style="background-color: orange"
+style="background-color: #68c20f"
 target="_blank"
 onclick="ga('send', 'event', 'Buy Button', 'clicked', 'Cart');"
 href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B00L6LZRXM&Quantity.1=1&ASIN.2=B015DJ4QX4&Quantity.2=1&ASIN.3=B06ZY6ZPWQ&Quantity.3=1&ASIN.4=B01NAUV18K&Quantity.4=1&ASIN.5=B017PI2OUS&Quantity.5=1&ASIN.6=B000ND0WB6&Quantity.6=1"><b>Add parts to cart</b></a>

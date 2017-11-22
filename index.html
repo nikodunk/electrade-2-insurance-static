@@ -5,49 +5,18 @@ title: {{ site.name }}
   
   <div style=" max-width: 800px; margin: 0 auto; text-align: center">
    
-    
-    
-    
-    <div style="margin: 0 auto; max-width: 600px; display:flex; flex-wrap: wrap; justify-content: center; text-align: center">
-        <div style="width: 100px; margin: 10px;">
-            <img src="/img/iconsolarpanel.png" style="max-height: 100px">
-            <p ><b>solar panel</b></p>
-        </div>
-        <div>
-            <h2 style=" line-height: 100px"><b>+</b></h2>
-        </div>
-        <div style="width: 100px; margin: 10px;">
-            <img src="/img/iconbattery.png" style="max-height: 100px">
-            <p ><b>battery</b></p>
-        </div>
-        <div>
-            <h2 style=" line-height: 100px"><b>+</b></h2>
-        </div>
-        <div style="width: 100px; margin: 10px;">
-            <img src="/img/iconcontroller.png" style="max-height: 100px">
-            <p ><b>controller</b></p>
-        </div>
-        <div>
-            <h2 style=" line-height: 100px"><b>+</b></h2>
-        </div>
-        <div style="width: 100px; margin: 10px;">
-            <img src="/img/iconinverter.png" style="max-height: 100px">
-            <p ><b>inverter</b></p>
-        </div>
+  
 
-    </div>
-    
     <div style="padding-top: 2rem">
       <div style="text-align: center">
         <a href="/2017/06/20/200-apartment-solar-system.html#thekit">
           <button style="cursor: pointer; background-color: #68c20f; padding: 2rem; padding-top: 0rem !important; padding-bottom: 0rem; border: none; border-radius: 5px;">
-            <h1 style="color: white">See the kit</h1>
+            <h1 style="color: white" class="subtitle">See the kit for</h1>
           </button>
         </a>
         <p style="font-size: .7rem">* real-time price with  <a style='color: lightgrey;' href='http://apifier.com' target='_blank'>apifier</a></p>
       </div>
     </div>
-    <br>
     <br>
     <hr style="border-top: 1px solid #efefef">
   </div>
@@ -55,7 +24,18 @@ title: {{ site.name }}
    
     
 
-  
+  <script>
+      $.getJSON( "https://api.apify.com/v1/rG44NsjnfukCkKecE/crawlers/PLb9rTvadeA5S8LXC/lastExec/results?token=JSz7b4BvgwSQKAXJcufZYEeoC", function( data ) {
+        var total = 0;
+        $.each( data[0].pageFunctionResult, function( key, val ) {
+          total += parseFloat(val.price.replace('$', ''));
+        });
+        $( "<p />", {
+          "style": "display: inline;",
+          html: "<span style='color: white; padding: 5px'> $" + Math.round(total*100)/100 + "*</span>"
+        }).appendTo( ".subtitle" );
+      });
+    </script>
 
 
   <div  style="padding-top: 60px;">
@@ -69,7 +49,7 @@ title: {{ site.name }}
   	        <img src="{{ item.image }}" style="max-height: 200px">
   	    </a>
           <br>
-          <a style="color: orange; font-size: .8rem; margin-top: 0" href="{{item.url}}#disqus_thread" onclick="ga('send', 'event', 'new-discuss', 'clicked', 'one');">
+          <a style="color: #68c20f; font-size: .8rem; margin-top: 0" href="{{item.url}}#disqus_thread" onclick="ga('send', 'event', 'new-discuss', 'clicked', 'one');">
           discuss
           </a>
         </div>
