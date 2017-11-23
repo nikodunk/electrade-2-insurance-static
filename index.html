@@ -3,22 +3,37 @@ layout: default
 title: {{ site.name }}
 ---
   
-  <div style=" max-width: 800px; margin: 0 auto; text-align: center">
-   
-  
+  <div style=" margin: 0 auto; text-align: center">
+    <div style="position: relative; height: 500px;">
+      
+      
 
-    <div style="padding-top: 2rem">
-      <div style="text-align: center">
-        <a href="/2017/06/20/200-apartment-solar-system.html#thekit">
-          <button style="cursor: pointer; background-color: #68c20f; padding: 2rem; padding-top: 0rem !important; padding-bottom: 0rem; border: none; border-radius: 5px;">
-            <h1 style="color: white" class="subtitle">See recommended parts (currently</h1>
-          </button>
-        </a>
-        <p style="font-size: .7rem">* real-time price with  <a style='color: lightgrey;' href='http://apifier.com' target='_blank'>apifier</a></p>
+      <div style="background-image: url(/img/moneyshot2.JPG);  background-position: center; background-size: cover; position: absolute; top: 0; bottom: 0; left: 0; right: 0; border-bottom: 1px solid darkgrey;"></div>
+
+      <div style="top: 10px; position: absolute; padding-left: 1rem;"><h4 style="display: inline;"><b>sunboxlabs</b></h4><p style="display: inline"> | Self-Contained Solar</p></div>
+
+      <div style="margin: 10px;  max-width: 510px; position: absolute; bottom: 0; right: 0; display: flex; ">
+        <!-- <div style="margin-right: 10px;"><h2>150W Personal Power Plant</h2></div> -->
+        <div style="text-align: center; margin-right: 10px;">
+          <a href="mailto:n.dunkel@gmail.com">
+            <button style="height: 100%; cursor: pointer; border: 1px solid darkgrey; background-color: rgba(255,255,255,10%); color: #606c71; padding: 1.5rem; padding-top: 0rem !important; padding-bottom: 0rem; border-radius: 5px;">
+              <h1>Order Pre-Assembled<br>($500)</h1>
+            </button>
+          </a>
+        </div>
+        <div style="text-align: center;">
+          <a href="/2017/06/20/200-apartment-solar-system.html#thekit">
+            <button style="height: 100%; cursor: pointer; padding: 1.5rem; background-color: #68c20f; padding-top: 0rem !important; padding-bottom: 0rem; border-radius: 5px; border: none">
+              <h1 style="color: white" class="subtitle">Build Yourself<br>(Amazon parts </h1>
+            </button>
+
+          </a>
+          
+        </div>
       </div>
+    
+    
     </div>
-    <br>
-    <hr style="border-top: 1px solid #efefef">
   </div>
 
    
@@ -32,18 +47,76 @@ title: {{ site.name }}
         });
         $( "<p />", {
           "style": "display: inline;",
-          html: "<span style='color: white; padding: 5px'> $" + Math.round(total*100)/100 + "*)</span>"
+          html: "<span style='color: white;'>$" + Math.round(total*100)/100 + ")</span>"
         }).appendTo( ".subtitle" );
       });
     </script>
 
 
-  <div  style="padding-top: 60px;">
-    <h4 style="text-align: center">How-To Guides for different use cases:</h4>
-    <div style="margin: 0 auto; max-width: 800px; display:flex; flex-wrap: wrap; justify-content: center;  text-align: center">
+
+    
+
+
+
+
+
+
+  <div  style="">
+
+    <br>
+    <h3 style="text-align: center">How it works</h3>
+
+    <div style="margin: 0 auto; max-width: 1000px; display:flex; flex-wrap: wrap; justify-content: center; text-align: center">
+        <div style="width: 100px; margin: 10px;">
+            <img src="/img/iconsolarpanel.png" style="max-height: 100px">
+            <p ><b>solar panel</b></p>
+        </div>
+        <div>
+            <h2 style=" line-height: 100px"><b>+</b></h2>
+        </div>
+        <div style="width: 100px; margin: 10px;">
+            <img src="/img/iconcontroller.png" style="max-height: 100px">
+            <p ><b>controller</b></p>
+        </div>
+        <div>
+            <h2 style=" line-height: 100px"><b>+</b></h2>
+        </div>
+        
+        <div style="width: 100px; margin: 10px;">
+            <img src="/img/iconbattery.png" style="max-height: 100px">
+            <p ><b>battery</b></p>
+        </div>
+        <div>
+            <h2 style=" line-height: 100px"><b>+</b></h2>
+        </div>
+        <div style="width: 100px; margin: 10px;">
+            <img src="/img/iconinverter.png" style="max-height: 100px">
+            <p ><b>inverter</b></p>
+        </div>
+        <div>
+            <h2 style=" line-height: 100px"><b>+</b></h2>
+        </div>
+        <div style="width: 112px; margin: 10px; ">
+            <img src="/img/magic.gif" style="max-height: 112px; border: 1px solid white; overflow: hidden; border-radius: 100px;">
+            <p ><b>magic</b></p>
+        </div>
+        <div>
+            <h2 style=" line-height: 100px"><b>=</b></h2>
+        </div>
+        <div style="width: 100px; margin: 10px;">
+            <img src="/img/iconenergy.png" style="max-height: 100px">
+            <h4 ><b>DIY Solar Energy</b></h4>
+        </div>
+    </div>
+
+    <hr style="border-top: 1px solid #efefef">
+    <br>
+    <h3 style="text-align: center">Use it for</h3>
+
+    <div style="margin: 0 auto; display:flex; flex-wrap: wrap; justify-content: center;  text-align: center">
 
       {% for item in site.posts reversed %}
-        <div style="width: 300px; padding: 15px; margin: 10px; border: 1px lightgrey solid; border-radius: 5px">
+        <div style="width: 300px; padding: 15px; margin: 10px; ">
           <a href="{{ item.url }}">
           	<p style="min-height: 3.4rem">{{ item.title }}</p>
   	        <img src="{{ item.image }}" style="max-height: 200px">
@@ -55,4 +128,5 @@ title: {{ site.name }}
         </div>
       {% endfor %}
     </div>
+    <hr style="border-top: 1px solid #efefef">
   </div>

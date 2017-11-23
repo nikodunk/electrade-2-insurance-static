@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "For backup generation after storms and hurricanes"
+title:  "For backup generation after storms and hurricanes (assembly guide)"
 date:   2017-10-09 08:00:00 -0700
-image: "/img/money4.jpg"
+image: "/img/money2.jpg"
 ---
 
 
