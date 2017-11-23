@@ -2,6 +2,15 @@
 layout: default
 title: {{ site.name }}
 ---
+  <style>
+    input{
+      padding: 10px;
+      margin: 4px;
+      border-radius: 3px;
+      border: 1px solid lightgrey;
+    }
+  </style>
+
   
   <div style=" margin: 0 auto; text-align: center">
     <div style="position: relative; height: 500px;">
@@ -15,8 +24,10 @@ title: {{ site.name }}
       <div style="margin: 10px;  max-width: 510px; position: absolute; bottom: 0; right: 0; display: flex; ">
         <!-- <div style="margin-right: 10px;"><h2>150W Personal Power Plant</h2></div> -->
         <div style="text-align: center; margin-right: 10px;">
-          <a href="mailto:n.dunkel@gmail.com">
-            <button style="height: 100%; cursor: pointer; border: 1px solid darkgrey; background-color: rgba(255,255,255,10%); color: #606c71; padding: 1.5rem; padding-top: 0rem !important; padding-bottom: 0rem; border-radius: 5px;">
+          <a href="/shop.html">
+            <button style="height: 100%; cursor: pointer; border: 1px solid darkgrey; background-color: rgba(255,255,255,10%); color: #606c71; padding: 1.5rem; padding-top: 0rem !important; padding-bottom: 0rem; border-radius: 5px;"
+              onclick="ga('send', 'event', 'button', 'clicked', 'Buy for $500');"
+              >
               <h1>Order Pre-Assembled<br>($500)</h1>
             </button>
           </a>
@@ -24,7 +35,9 @@ title: {{ site.name }}
         <div style="text-align: center;">
           <a href="/2017/06/20/200-apartment-solar-system.html#thekit">
             <button style="height: 100%; cursor: pointer; padding: 1.5rem; background-color: #68c20f; padding-top: 0rem !important; padding-bottom: 0rem; border-radius: 5px; border: none">
-              <h1 style="color: white" class="subtitle">Build Yourself<br>(Amazon parts </h1>
+              <h1 style="color: white" class="subtitle"
+              onclick="ga('send', 'event', 'button', 'clicked', 'Do it yourself');"
+              >Build Yourself<br>(Amazon parts </h1>
             </button>
 
           </a>
