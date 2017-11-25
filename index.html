@@ -3,19 +3,36 @@ layout: default
 title: {{ site.name }}
 ---
   <style>
+      hr{
+        border-top: 1px solid #efefef
+      }
 
+      h3{
+        text-align: center;
+      }
+
+      .flexbox{
+        margin: 0 auto; 
+        display:flex; 
+        flex-wrap: wrap; 
+        justify-content: center; 
+        text-align: center
+      }
   </style>
 
 
   <div style=" margin: 0 auto; text-align: center">
     <div style="position: relative; height: 500px;">
       
-      
 
+      <!-- Header Image -->
       <div style="background-image: url(/img/moneyshot.jpg);  background-position: center; background-size: cover; position: absolute; top: 0; bottom: 0; left: 0; right: 0; border-bottom: 1px solid darkgrey;"></div>
 
+      <!--       Title -->
       <div style="top: 10px; position: absolute; padding-left: 1rem;"><h4 style="display: inline;"><b>sunboxlabs</b></h4><p style="display: inline"> | Self-Contained Solar</p></div>
 
+
+      <!-- Call To Action Buttons -->
       <div style="margin: 10px;  max-width: 510px; position: absolute; bottom: 0; right: 0; display: flex; ">
         <!-- <div style="margin-right: 10px;"><h2>150W Personal Power Plant</h2></div> -->
         <div style="text-align: center; margin-right: 10px;">
@@ -46,8 +63,8 @@ title: {{ site.name }}
 
    
     
-
-  <script>
+    <!-- Jquery to fetch price automatically -->
+    <script>
       $.getJSON( "https://api.apify.com/v1/rG44NsjnfukCkKecE/crawlers/PLb9rTvadeA5S8LXC/lastExec/results?token=JSz7b4BvgwSQKAXJcufZYEeoC", function( data ) {
         var total = 0;
         $.each( data[0].pageFunctionResult, function( key, val ) {
@@ -68,13 +85,13 @@ title: {{ site.name }}
 
 
 
-
-  <div  style="">
+  <!-- HOW IT WORKS -->
+  <div >
 
     <br>
-    <h3 style="text-align: center">How it works</h3>
+    <h3 >How it works</h3>
 
-    <div style="margin: 0 auto; max-width: 1000px; display:flex; flex-wrap: wrap; justify-content: center; text-align: center">
+    <div class="flexbox">
         <div style="width: 100px; margin: 10px;">
             <img src="/img/iconsolarpanel.png" style="max-height: 100px">
             <p ><b>solar panel</b></p>
@@ -117,11 +134,13 @@ title: {{ site.name }}
         </div>
     </div>
 
-    <hr style="border-top: 1px solid #efefef">
+    <hr>
     <br>
-    <h3 style="text-align: center">Use it for</h3>
 
-    <div style="margin: 0 auto; display:flex; flex-wrap: wrap; justify-content: center;  text-align: center">
+    <!-- USE IT FOR -->
+    <h3 >Use it for</h3>
+
+    <div class="flexbox">
 
       {% for item in site.posts reversed %}
         <div style="width: 300px; padding: 15px; margin: 10px; ">
@@ -136,5 +155,29 @@ title: {{ site.name }}
         </div>
       {% endfor %}
     </div>
-    <hr style="border-top: 1px solid #efefef">
+
+
+    <hr>
+    <br>
+
+
+
+    <!-- PRESS COVERAGE -->
+    <div>
+        <h3>Press coverage</h3>
+        <div class="flexbox">
+            <div style="padding: 10px">
+              <a style="color: inherit" href="https://news.ycombinator.com/item?id=14821478" target="_blank"><img src="/img/press1.jpg" style="max-height: 100px"></a>
+            </div>
+            <div style="padding: 10px">
+              <a style="color: inherit" href="https://hackernoon.com/200-for-a-green-diy-self-sufficient-bedroom-that-your-landlord-wont-hate-b3b4cdcfb4f4" target="_blank"><img src="/img/press2.png" style="max-height: 100px"></a>
+            </div>
+            <div style="padding: 10px">
+              <a style="color: inherit" href="https://www.reddit.com/r/geek/comments/6ov9oc/200_solar_selfsufficiency_without_your_landlord/" target="_blank"><img src="/img/press3.png" style="max-height: 100px"></a>
+            </div>
+        </div>
+    </div>
+    
+    <hr >
+   
   </div>
