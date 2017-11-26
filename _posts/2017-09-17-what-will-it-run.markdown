@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Low-power devices for a tiny home footprint (assembly guide)"
+title:  "Low-Power Home"
 date:   2017-09-17 08:00:00 -0700
 image: "/img/devices/cookbefore.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "For off-grid festivals and Burning Man (assembly guide)"
+title:  "Festivals (DIY assembly guide)"
 date:   2017-09-06 08:00:00 -0700
 image: "/img/money3.jpg"
 ---
