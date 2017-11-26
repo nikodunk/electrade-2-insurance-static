@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apartments (DIY assembly guide)"
+title:  "Apartments<br>(DIY solar assembly guide)"
 date:   2017-06-20 08:00:00 -0700
 image: "/img/money1.jpg"
 ---
@@ -139,18 +139,17 @@ In the evening, turn on the inverter. My lamp, computer, tablet & phone are all 
 
 In San Francisco we get 4.26 hours of usable sunshine a day (or 1156 hours a year) according to Google Sunroof. My battery holds 420Wh (12V x 35Ah), and should be filled once a day without any shading. Actual production is an average 350Wh/day on the rooftop with real-world shading and loss.
 
-	Daily Power Production:
-	Theoretical: 4.26 sun hours/d * 100W solar = 426Wh/day
-	Actual: 350Wh/day
+Daily Power Production:<br>
+Theoretical: 4.26 sun hours/d * 100W solar = 426Wh/day<br>
+Actual: 350Wh/day<br>
 
-	Daily Power Needs:
-	54Wh Macbook Air 13-Inch (one charge a day)
-	8Wh iPhone battery (one charge a day)
-	20Wh Light (4W LED x 5h)
-	300Wh Space Heater (150W x 2h – our SF house has no heating)
-	___________
+Daily Power Needs:<br>
+54Wh Macbook Air 13-Inch (one charge a day)<br>
+8Wh iPhone battery (one charge a day)<br>
+300Wh Space Heater (150W x 2h – our SF house has no heating)<br>
+___________<br>
 
-	Total: 82Wh energy need per day in room (up to 382Wh)`
+Total: 82Wh energy need per day in room (up to 382Wh)<br>
 
 This should be easily met by the solar system. I turn the inverter on when I get home to use AC lights and charge the Macbook through the power brick, and turn it off before I go to bed to avoid energy drain. My phone’s USB (which is direct current) can charge all night straight through the solar controller itself (which has USB ports) and doesn’t require the inverter. My laptop is a DC device and could be charged straight off the 12V battery, but I found it easier to just charge it with the AC power brick through the inverter. More info on what you can run off the system in the follow-up article<a href="/2017/09/17/what-will-it-run.html">here</a>.
 
@@ -196,19 +195,19 @@ Solar as a modular consumer electronic — like air conditioning and satelli
 
 How long until it saves me money? The reason this system is so simple is because it doesn’t tie in to your apartment’s behind-the-meter electrical grid. This means the system is clean, but it also doesn’t feed into electrical heavyweights like your water heater, refrigerator and washer/dryer. It does charge anything you plug into it though. So can the system save me money? Back of the envelope:
 
-	Financial payback period for 100W system
-	System cost : $211 on Amazon at time of writing
-	Yearly energy creation: 365d * 4.26hsun/d * 100W = 155’490Wh/y
-	Yearly value creation: 155kWh/y * 15.34c/kWh = $24/y energy created
-	100W system payback period: $211 / $24 = 8.5 years until payback
+Financial payback period for 100W system<br>
+System cost : $211 on Amazon at time of writing<br>
+Yearly energy creation: 365d * 4.26hsun/d * 100W = 155’490Wh/y<br>
+Yearly value creation: 155kWh/y * 15.34c/kWh = $24/y energy created<br>
+100W system payback period: $211 / $24 = 8.5 years until payback<br>
 
 The financial payback of the system is 9 years including battery, which is in line with many rooftop systems but doesn’t include servicing. This could be reduced to 6.5 years by adding a second 100W solar panel:
 
-	Payback period for 200W system
-	200W System cost: roughly $300 on Amazon at time of writing
-	Yearly energy creation: 365d * 4.26hsun/d * 100W = 310’980Wh/y
-	Yearly value creation: 311kWh/y * 15c/kWh = $48/y energy created
-	200W system payback period: $300 / $48 = 6.5 years until payback
+Payback period for 200W system<br>
+200W System cost: roughly $300 on Amazon at time of writing<br>
+Yearly energy creation: 365d * 4.26hsun/d * 100W = 310’980Wh/y<br>
+Yearly value creation: 311kWh/y * 15c/kWh = $48/y energy created<br>
+200W system payback period: $300 / $48 = 6.5 years until payback<br>
 
 Note however that after 8 years of daily use the lead-acid deep discharge battery will be spent, which I’m not taking into account here. Either way you cut it, this is not a money saving machine. Energy prices are just too low.
 
@@ -218,17 +217,17 @@ Note however that after 8 years of daily use the lead-acid deep discharge batter
 
 Does it have an impact on my CO2 footprint? Back of the envelope:
 
-	Production footprint PV multicristalline:
-	4200kWhee/kW [1] * 0.1kW = 420kWh embodied energy
+Production footprint PV multicristalline:<br>
+4200kWhee/kW [1] * 0.1kW = 420kWh embodied energy<br>
+<br><br>
+Production footprint lead-acid battery:<br>
+321kWhee/kWh [1] * 0.5kWh = 161kWh embodied energy<br>
+<br>
+Total Footprint: 581kWh<br>
 
-	Production footprint lead-acid battery:
-	321kWhee/kWh [1] * 0.5kWh = 161kWh embodied energy
-
-	Total Footprint: 581kWh
-
-	Annual energy production system: 155kWh/y
-	Payback period: 581kWh / 155kWh/y = 4+ year footprint payback
-	[1] http://renew.org.au/articles/energy-flows-how-green-is-my-solar/
+Annual energy production system: 155kWh/y<br>
+Payback period: 581kWh / 155kWh/y = 4+ year footprint payback<br>
+[1] http://renew.org.au/articles/energy-flows-how-green-is-my-solar/<br>
 
 
 
@@ -239,48 +238,54 @@ In case of brownouts or blackouts, this would be a helpful way of wirelessly cha
 
 <br><br><br>
 
-<b>Tech Specs</b><a name="specs"></a>
+<b>Tech Specs</b>
+    
+  <ul>
+    <li>Delivery Date: Every time 10 orders are received, we ship.</li>
+    <li>Shipping costs depend on location within US.</li>
+  </ul>
 
+<hr>
 
-	Polychristalline Solar Panel
-		Size: 39.8 x 1.2 x 26.6 inches
-		Weight: 19.6 pounds
-		Voltage: 12V DC
-		Max power rating: 100W
-		Max amperage: 8.3A
+<h3>Tech Specs</h3>
+<b>Polychristalline Solar Panel</b><br>
+  Size: 39.8 x 1.2 x 26.6 inches<br>
+  Weight: 19.6 pounds<br>
+  Voltage: 12V DC<br>
+  Max power rating: 100W<br>
+  Max amperage: 8.3A<br>
+<br><br>
 
+<b>Inverter</b><br>
+  Max power rating: 150W<br>
+  (turns off if you use more than this, but a 300W version is $6 more)<br>
+  Voltage: 12V DC in, 110V AC out<br>
+  Only DC 12V, NOT for DC 24V<br>
+  USB Output: 5V/1+2.1A (5W and 10.5W respectively)<br>
+<br><br>
 
-	Inverter
-		Max power rating: 150W
+<b>Solar controller</b><br>
+  Voltage: 12V/24V<br>
+  Ports: 2x USB, 1x DC in, 1x DC out<br>
+  Charge Current: 20A<br>
+  Discharge Current: 20A<br>
+  Max in: 20A * 12V = 240W<br>
+  Max out: 20A * 12V = 240W<br>
+  USB Output: 5V/3A (15W) each<br>
+  Type: PWM<br>
+  Weight: 0.25 pounds<br>
+  Size: 5.9 x 3 x 1.4in<br>
+  Will upgrade to a USB-C version when available<br>
+<br><br>
 
-(turns off if you use more than this, but a 300W version is $6 more)
+<b>Marine lead-acid battery (Deep Cycle)</b><br>
+  Voltage: 12V DC<br>
+  Storage Capacity: 0.42Kwh, 35Ah<br>
+  Size: 6.5 x 7.7 x 5.1 in<br>
+  Weight: 25 pounds<br>
+<br><br>
 
-		Voltage: 12V DC in, 110V AC out
-		Only DC 12V, NOT for DC 24V
-		USB Output: 5V/1+2.1A (5W and 10.5W respectively)
+<b>Cables (aka "Tender" or "B.O.M.")</b><br>
+  Alligator Clips (for connecting the battery to the solar controller)<br>
+  20Ft Extension Cable<br>
 
-
-	Solar controller
-		Voltage: 12V/24V
-		Ports: 2x USB, 1x DC in, 1x DC out
-		Charge Current: 20A
-		Discharge Current: 20A
-		Max in: 20A * 12V = 240W
-		Max out: 20A * 12V = 240W
-		USB Output: 5V/3A (15W) each
-		Type: PWM
-		Weight: 0.25 pounds
-		Size: 5.9 x 3 x 1.4in
-		Will upgrade to a USB-C version when available
-
-	Marine lead-acid battery (Deep Cycle)
-		Voltage: 12V DC
-		Storage Capacity: 0.42Kwh, 35Ah
-		Size: 6.5 x 7.7 x 5.1 in
-		Weight: 25 pounds
-
-	Cables (aka "Tender" or "B.O.M.")
-		Alligator Clips (for connecting the battery to the solar controller)
-		20Ft Extension Cable
-
-(MC4 12AWG, for connecting the solar panel to the solar controller)

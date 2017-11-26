@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Low-Power Home"
+title:  "Low-Power Homes"
 date:   2017-09-17 08:00:00 -0700
 image: "/img/devices/cookbefore.jpg"
 ---

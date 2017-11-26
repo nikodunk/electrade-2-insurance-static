@@ -1,28 +1,54 @@
-<div style="text-align: left; margin: 0 auto;">
-    <!-- <p style="text-align: left"> -->
-      <!-- <a href="/" style=" cursor: pointer; text-decoration: none; color: grey">
-        <b>{{ site.title }}</b> | {{ site.tagline }}
-      </a> -->
-  <!--       <form action="https://formspree.io/n.dunkel@gmail.com"
-      method="POST">
-          Submit new:
-          <input type="text" placeholder="link or story" name="name">
-          <input type="email" placeholder="your email" name="_replyto">
-          <input type="submit" value="Submit">
-      </form> -->
-    <!-- </p> -->
-  <!--     <hr style="height: 1px; border: 0; border-top: 1px solid #ccc;" > -->
+<div style=" margin: 0 auto; text-align: center">
+    <div style="position: relative; height: 500px;">
+      
+
+      <!-- Header Image -->
+      <div style="background-image: url(/img/moneyshot.jpg);  background-position: center; background-size: cover; position: absolute; top: 0; bottom: 0; left: 0; right: 0; border-bottom: 1px solid darkgrey;"></div>
+
+      <!--       Title -->
+      <div style="top: 10px; position: absolute; padding-left: 1rem;"><h4 style="display: inline;"><b>sunboxlabs</b></h4><p style="display: inline"> | Self-Contained Solar</p></div>
 
 
+      <!-- Call To Action Buttons -->
+      <div style="margin: 10px;  max-width: 510px; position: absolute; bottom: 0; right: 0; display: flex; ">
+        <!-- <div style="margin-right: 10px;"><h2>150W Personal Power Plant</h2></div> -->
+        <div style="text-align: center; margin-right: 10px;">
+          <a href="/shop.html">
+            <button style="height: 100%; cursor: pointer; border: 1px solid darkgrey; background-color: rgba(255,255,255,10%); color: #606c71; padding: 1.5rem; padding-top: 0rem !important; padding-bottom: 0rem; border-radius: 5px;"
+              onclick="ga('send', 'event', 'button', 'clicked', 'Buy for $500');"
+              >
+              <h2>Order Pre-Assembled<br>($500)</h2>
+            </button>
+          </a>
+        </div>
+        <div style="text-align: center;">
+          <a href="/2017/06/20/200-apartment-solar-system.html#thekit">
+            <button style="height: 100%; cursor: pointer; padding: 1.5rem; background-color: #68c20f; padding-top: 0rem !important; padding-bottom: 0rem; border-radius: 5px; border: none">
+              <h2 style="color: white" class="subtitle"
+              onclick="ga('send', 'event', 'button', 'clicked', 'Do it yourself');"
+              >Build Yourself<br>(Amazon parts </h2>
+            </button>
 
-  
-
-  
+          </a>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+<div id="title"></div>
+   
     
-    
-    
-    
-</div>
-
-
+    <!-- Jquery to fetch price automatically -->
+    <script>
+      $.getJSON( "https://api.apify.com/v1/rG44NsjnfukCkKecE/crawlers/PLb9rTvadeA5S8LXC/lastExec/results?token=JSz7b4BvgwSQKAXJcufZYEeoC", function( data ) {
+        var total = 0;
+        $.each( data[0].pageFunctionResult, function( key, val ) {
+          total += parseFloat(val.price.replace('$', ''));
+        });
+        $( "<p />", {
+          "style": "display: inline;",
+          html: "<span style='color: white;'>$" + Math.round(total*100)/100 + ")</span>"
+        }).appendTo( ".subtitle" );
+      });
+    </script>
    
