@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Festivals<br>(DIY solar assembly guide)"
+title:  "Solar Festival How-To"
 date:   2017-09-06 08:00:00 -0700
 image: "/img/money3.jpg"
 ---

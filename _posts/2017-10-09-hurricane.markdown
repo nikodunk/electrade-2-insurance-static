@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Backup Power<br>(DIY solar assembly guide)"
+title:  "DIY Backup Power How-To"
 date:   2017-10-09 08:00:00 -0700
 image: "/img/money2.jpg"
 ---

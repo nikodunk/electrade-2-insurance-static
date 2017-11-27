@@ -84,16 +84,16 @@ title: {{ site.name }}
     <br>
 
     <!-- USE IT FOR -->
-    <h3 >Use it for</h3>
+    <h3 >Guides / How to use it</h3>
 
     <div class="flexbox">
 
       {% for item in site.posts reversed %}
-        <div style="width: 300px; padding: 15px; margin: 10px; ">
+        <div style="width: 300px; padding: 15px; margin: 10px; border: 1px lightgrey solid; border-radius: 5px">
           <a href="{{ item.url }}#title">
-          	<h4 style="min-height: 3.4rem">{{ item.title }}</h4>
+          	<h4 style="">{{ item.title }}</h4>
   	        <img src="{{ item.image }}" style="max-height: 200px">
-  	    </a>
+  	       </a>
           <br>
           <a style="color: #68c20f; font-size: .8rem; margin-top: 0" href="{{item.url}}#disqus_thread" onclick="ga('send', 'event', 'new-discuss', 'clicked', 'one');">
           discuss
@@ -101,8 +101,8 @@ title: {{ site.name }}
         </div>
       {% endfor %}
     </div>
-
-
+    
+    <br><br>
     <hr>
     <br>
 

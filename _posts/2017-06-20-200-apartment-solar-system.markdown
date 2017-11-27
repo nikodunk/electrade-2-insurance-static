@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apartments<br>(DIY solar assembly guide)"
+title:  "Off-Grid Apartment How-To"
 date:   2017-06-20 08:00:00 -0700
 image: "/img/money1.jpg"
 ---
