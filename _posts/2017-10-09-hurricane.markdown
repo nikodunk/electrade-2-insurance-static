@@ -22,27 +22,27 @@ My goal is to take care of the energy needs for me personally in the aftermath o
 <div style="text-align: center">
 <br><br>
 <p style="color: #68c20f;" id="thekit"><b>The kit</b></p>
-<div style="border: 5px solid #68c20f; padding: 20px; ">      
+<div style="border: 5px solid #68c20f; padding: 20px;" >      
 
-			<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B00L6LZRXM&asins=B00L6LZRXM&linkId=4102131e8f327f4c89c0a9ca80015ede&show_border=true&link_opens_in_new_window=true"></iframe>
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01DAQSF34&asins=B01DAQSF34&linkId=a35697db0c78c741b9ef607d391da878&show_border=true&link_opens_in_new_window=true"></iframe>
 
-            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B015DJ4QX4&asins=B015DJ4QX4&linkId=4780763d2a9824fa01d399045b16ce90&show_border=true&link_opens_in_new_window=true"></iframe>
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B017PI2OUS&asins=B017PI2OUS&linkId=f672cd4f263b2b804df13586b58c41b6&show_border=true&link_opens_in_new_window=true"></iframe>
 
-            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B06ZY6ZPWQ&asins=B06ZY6ZPWQ&linkId=1b430adfffdbfd9e93b94b37235d9c13&show_border=true&link_opens_in_new_window=true"></iframe>
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B06ZY6ZPWQ&asins=B06ZY6ZPWQ&linkId=ae3733e8999a5ccc29bfa6856da50170&show_border=true&link_opens_in_new_window=true"></iframe>
 
-            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01NAUV18K&asins=B01NAUV18K&linkId=f4946c85009d9b874e9af4d4f698c879&show_border=true&link_opens_in_new_window=true"></iframe>
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B000ND0WB6&asins=B000ND0WB6&linkId=a76138839d8f9c44162d77f53fbc3aa9&show_border=true&link_opens_in_new_window=true"></iframe>
 
-            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B017PI2OUS&asins=B017PI2OUS&linkId=f62bfc2931ce07df9de6f89fba444006&show_border=true&link_opens_in_new_window=true"></iframe>
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B00K8E0WAG&asins=B00K8E0WAG&linkId=9c612421db9e7c2713c9c163ffcc21fe&show_border=true&link_opens_in_new_window=true"></iframe>
 
-            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B000ND0WB6&asins=B000ND0WB6&linkId=713b1b232093ab6c3a67a860227b69d7&show_border=true&link_opens_in_new_window=true"></iframe>
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01NAUV18K&asins=B01NAUV18K&linkId=00ab1ce73d4b56b6734b12e98fc21729&show_border=true&link_opens_in_new_window=true"></iframe>
 
             <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
-            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">100W Solar Panel</a>
-            <br><a href="http://amzn.to/2xpB5PR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">420Wh Deep Cycle Battery</a>
-            <br><a href="http://amzn.to/2y8mZld" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">Charge Controller</a>
-            <br><a href="http://amzn.to/2xp6TEK" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">150W Micro Inverter</a>
-            <br><a href="http://amzn.to/2g0LHNG" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">MC4 Cable</a>
-            <br><a href="http://amzn.to/2z60eMR" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">Alligator Clips</a></p>
+            <br><a href="http://amzn.to/2ju8X4m" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">100W Solar Panel</a>
+            <br><a href="http://amzn.to/2Bx07Li" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">MC4 Cable</a>
+            <br><a href="http://amzn.to/2Bwe3Fl" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">Charge Controller</a>
+            <br><a href="http://amzn.to/2Ae9yRD" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">Alligator Clips</a>
+            <br><a href="http://amzn.to/2AhP5M8" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">420Wh Deep Cycle Battery</a>
+            <br><a href="http://amzn.to/2iexcXK" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">150W Micro Inverter</a></p>
 
  </div>
  <br>
@@ -50,7 +50,7 @@ My goal is to take care of the energy needs for me personally in the aftermath o
 style="background-color: #68c20f"
 target="_blank"
 onclick="ga('send', 'event', 'Buy Button', 'clicked', 'Cart');"
-href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B00L6LZRXM&Quantity.1=1&ASIN.2=B015DJ4QX4&Quantity.2=1&ASIN.3=B06ZY6ZPWQ&Quantity.3=1&ASIN.4=B01NAUV18K&Quantity.4=1&ASIN.5=B017PI2OUS&Quantity.5=1&ASIN.6=B000ND0WB6&Quantity.6=1"><b>Add parts to cart</b></a>
+href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B01DAQSF34&Quantity.1=1&ASIN.2=B017PI2OUS&Quantity.2=1&ASIN.3=B06ZY6ZPWQ&Quantity.3=1&ASIN.4=B000ND0WB6&Quantity.4=1&ASIN.5=B00K8E0WAG&Quantity.5=1&ASIN.6=B01NAUV18K&Quantity.6=1"><b>Add parts to cart</b></a>
 <br><br>
 </div>
 
