@@ -1,3 +1,17 @@
+<style>
+      .calltoaction:hover{
+        -webkit-transition: all 200ms ease-in;
+        -webkit-transform: scale(1.5);
+        -ms-transition: all 200ms ease-in;
+        -ms-transform: scale(1.5);   
+        -moz-transition: all 200ms ease-in;
+        -moz-transform: scale(1.5);
+        transition: all 200ms ease-in;
+        transform: scale(1.03);
+      }
+  </style>
+
+
 <div style=" margin: 0 auto; text-align: center">
     <div style="position: relative; height: 500px;">
       
@@ -14,19 +28,19 @@
         <!-- <div style="margin-right: 10px;"><h2>150W Personal Power Plant</h2></div> -->
         <div style="text-align: center; margin-right: 10px;">
           <a href="/shop.html">
-            <button style="height: 100%; cursor: pointer; border: 1px solid darkgrey; padding: 1.5rem; background-color: #1592CE; padding-top: 0rem !important; padding-bottom: 0rem; border-radius: 5px;"
+            <button class="calltoaction" style="height: 100%; cursor: pointer; border: 1px solid darkgrey; padding: 1.5rem; background-color: #1592CE; padding-top: 0rem !important; padding-bottom: 0rem; border-radius: 5px;"
               onclick="ga('send', 'event', 'button', 'clicked', 'Pay in ETH');"
               >
-              <h2 style="color: white">Get parts from us >><br> (.71eth)</h2>
+              <h2 style="color: white"><span style="font-size: 1.5rem">Get parts&nbsp;>></span><br>sunboxlabs .71eth</h2>
             </button>
           </a>
         </div>
         <div style="text-align: center;">
           <a href="/2017/06/20/200-apartment-solar-system.html#thekit">
-            <button style="height: 100%; cursor: pointer; border: 1px solid darkgrey; padding: 1.5rem; background-color: #68c20f; padding-top: 0rem !important; padding-bottom: 0rem; border-radius: 5px;">
+            <button class="calltoaction" style="height: 100%; cursor: pointer; border: 1px solid darkgrey; padding: 1.5rem; background-color: #68c20f; padding-top: 0rem !important; padding-bottom: 0rem; border-radius: 5px;">
               <h2 style="color: white" class="subtitle"
               onclick="ga('send', 'event', 'button', 'clicked', 'Do it yourself');"
-              >Get parts from Amazon >><br> (</h2>
+              ><span style="font-size: 1.5rem">Get parts&nbsp;>></span><br>Amazon </h2>
             </button>
 
           </a>
@@ -47,7 +61,7 @@
         });
         $( "<p />", {
           "style": "display: inline;",
-          html: "<span style='color: white;'>$" + Math.round(total*100)/100 + ")</span>"
+          html: "<span style='color: white;'>$" + Math.round(total*100)/100 + "</span>"
         }).appendTo( ".subtitle" );
       });
     </script>
