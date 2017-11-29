@@ -48,7 +48,7 @@ Here's Sean's system for Burning Man 2017 in Nevada. He used it to run phones, f
 style="background-color: #68c20f"
 target="_blank"
 onclick="ga('send', 'event', 'Buy Button', 'clicked', 'Cart');"
-href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B01DAQSF34&Quantity.1=1&ASIN.2=B017PI2OUS&Quantity.2=1&ASIN.3=B06ZY6ZPWQ&Quantity.3=1&ASIN.4=B000ND0WB6&Quantity.4=1&ASIN.5=B00K8E0WAG&Quantity.5=1&ASIN.6=B01NAUV18K&Quantity.6=1"><h3 class="subtitle" style="color: white">Add parts to cart for </h3></a>
+href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B01DAQSF34&Quantity.1=1&ASIN.2=B017PI2OUS&Quantity.2=1&ASIN.3=B06ZY6ZPWQ&Quantity.3=1&ASIN.4=B000ND0WB6&Quantity.4=1&ASIN.5=B00K8E0WAG&Quantity.5=1&ASIN.6=B01NAUV18K&Quantity.6=1"><h3 class="subtitle" style="color: white">Add parts to cart (for </h3></a>
 <br><br>
 </div>
 
