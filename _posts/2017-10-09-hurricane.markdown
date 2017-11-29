@@ -54,19 +54,6 @@ href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&AS
 <br><br>
 </div>
 
-<!-- Jquery to fetch price automatically -->
-<script>
-  $.getJSON( "https://api.apify.com/v1/rG44NsjnfukCkKecE/crawlers/PLb9rTvadeA5S8LXC/lastExec/results?token=JSz7b4BvgwSQKAXJcufZYEeoC", function( data ) {
-    var total = 0;
-    $.each( data[0].pageFunctionResult, function( key, val ) {
-      total += parseFloat(val.price.replace('$', ''));
-    });
-    $( "<p />", {
-      "style": "display: inline;",
-      html: "<span style='color: white;'>$" + Math.round(total*100)/100 + ")</span>"
-    }).appendTo( ".subtitle" );
-  });
-</script>
 
 
 
