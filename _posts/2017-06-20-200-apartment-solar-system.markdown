@@ -71,7 +71,7 @@ My goal is to take care of the energy needs for just my bedroom. 4 main componen
 style="background-color: #68c20f"
 target="_blank"
 onclick="ga('send', 'event', 'Buy Button', 'clicked', 'Cart');"
-href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B01DAQSF34&Quantity.1=1&ASIN.2=B017PI2OUS&Quantity.2=1&ASIN.3=B06ZY6ZPWQ&Quantity.3=1&ASIN.4=B000ND0WB6&Quantity.4=1&ASIN.5=B00K8E0WAG&Quantity.5=1&ASIN.6=B01NAUV18K&Quantity.6=1" class="subtitle"><b>Add parts to cart for </b></a>
+href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B01DAQSF34&Quantity.1=1&ASIN.2=B017PI2OUS&Quantity.2=1&ASIN.3=B06ZY6ZPWQ&Quantity.3=1&ASIN.4=B000ND0WB6&Quantity.4=1&ASIN.5=B00K8E0WAG&Quantity.5=1&ASIN.6=B01NAUV18K&Quantity.6=1"><h2 class="subtitle" style="color: white">Add parts to cart for </h2></a>
 <br><br>
 </div>
 
