@@ -43,28 +43,28 @@ Here's Sean's system for Burning Man 2017 in Nevada. He used it to run phones, f
             <br><a href="http://amzn.to/2iexcXK" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">150W Micro Inverter</a></p>
 
 </div>
- <br>
+<br>
 <a class="btn btn-amazon"
 style="background-color: #68c20f"
 target="_blank"
 onclick="ga('send', 'event', 'Buy Button', 'clicked', 'Cart');"
-href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B01DAQSF34&Quantity.1=1&ASIN.2=B017PI2OUS&Quantity.2=1&ASIN.3=B06ZY6ZPWQ&Quantity.3=1&ASIN.4=B000ND0WB6&Quantity.4=1&ASIN.5=B00K8E0WAG&Quantity.5=1&ASIN.6=B01NAUV18K&Quantity.6=1"><h2 class="subtitle" style="color: white">Add parts to cart for </h2></a>
+href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B01DAQSF34&Quantity.1=1&ASIN.2=B017PI2OUS&Quantity.2=1&ASIN.3=B06ZY6ZPWQ&Quantity.3=1&ASIN.4=B000ND0WB6&Quantity.4=1&ASIN.5=B00K8E0WAG&Quantity.5=1&ASIN.6=B01NAUV18K&Quantity.6=1"><h3 class="subtitle" style="color: white">Add parts to cart for </h3></a>
 <br><br>
 </div>
 
 <!-- Jquery to fetch price automatically -->
-    <script>
-      $.getJSON( "https://api.apify.com/v1/rG44NsjnfukCkKecE/crawlers/PLb9rTvadeA5S8LXC/lastExec/results?token=JSz7b4BvgwSQKAXJcufZYEeoC", function( data ) {
-        var total = 0;
-        $.each( data[0].pageFunctionResult, function( key, val ) {
-          total += parseFloat(val.price.replace('$', ''));
-        });
-        $( "<p />", {
-          "style": "display: inline;",
-          html: "<span style='color: white;'>$" + Math.round(total*100)/100 + ")</span>"
-        }).appendTo( ".subtitle" );
-      });
-    </script>
+<script>
+  $.getJSON( "https://api.apify.com/v1/rG44NsjnfukCkKecE/crawlers/PLb9rTvadeA5S8LXC/lastExec/results?token=JSz7b4BvgwSQKAXJcufZYEeoC", function( data ) {
+    var total = 0;
+    $.each( data[0].pageFunctionResult, function( key, val ) {
+      total += parseFloat(val.price.replace('$', ''));
+    });
+    $( "<p />", {
+      "style": "display: inline;",
+      html: "<span style='color: white;'>$" + Math.round(total*100)/100 + ")</span>"
+    }).appendTo( ".subtitle" );
+  });
+</script>
 
 <b>How-To Guide</b><a name="how-to"></a>
 
