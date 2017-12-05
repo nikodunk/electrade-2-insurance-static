@@ -30,104 +30,163 @@ title: {{ site.name }}
 
 
 
+<div >
+
+  <br>
+
+  <!-- PRESS COVERAGE -->
+  <div>
+      <h3>As seen on</h3>
+      <div class="flexbox">
+          <div style="padding: 10px">
+            <a style="color: inherit" href="https://news.ycombinator.com/item?id=14821478" target="_blank"><img src="/img/press1.jpg" style="max-height: 39px"></a>
+          </div>
+          <div style="padding: 10px">
+            <a style="color: inherit" href="https://hackernoon.com/200-for-a-green-diy-self-sufficient-bedroom-that-your-landlord-wont-hate-b3b4cdcfb4f4" target="_blank"><img src="/img/press3.png" style="max-height: 39px"></a>
+          </div>
+          <div style="padding: 10px">
+            <a style="color: inherit" href="https://www.reddit.com/r/geek/comments/6ov9oc/200_solar_selfsufficiency_without_your_landlord/" target="_blank"><img src="/img/press2.png" style="max-height: 39px"></a>
+          </div>
+          <div style="padding: 10px">
+            <a style="color: inherit" href="/img/bilanz.jpg" target="_blank"><img src="/img/press4.png" style="max-height: 39px"></a>
+          </div>
+      </div>
+  </div>
+  <br>
+  <hr >
 
 
   <!-- HOW IT WORKS -->
-  <div >
-
-    <br>
-    <h3 >How it works</h3>
-
-    <div class="flexbox">
-        <div style="width: 100px; margin: 10px;">
-            <img src="/img/iconsolarpanel.png" style="max-height: 100px">
-            <p ><b>solar panel</b></p>
-        </div>
-        <div>
-            <h2 style=" line-height: 100px"><b>+</b></h2>
-        </div>
-        <div style="width: 100px; margin: 10px;">
-            <img src="/img/iconcontroller.png" style="max-height: 100px">
-            <p ><b>controller</b></p>
-        </div>
-        <div>
-            <h2 style=" line-height: 100px"><b>+</b></h2>
-        </div>
-        
-        <div style="width: 100px; margin: 10px;">
-            <img src="/img/iconbattery.png" style="max-height: 100px">
-            <p ><b>battery</b></p>
-        </div>
-        <div>
-            <h2 style=" line-height: 100px"><b>+</b></h2>
-        </div>
-        <div style="width: 100px; margin: 10px;">
-            <img src="/img/iconinverter.png" style="max-height: 100px">
-            <p ><b>inverter</b></p>
-        </div>
-        <div>
-            <h2 style=" line-height: 100px"><b>+</b></h2>
-        </div>
-        <div style="width: 112px; margin: 10px; ">
-            <img src="/img/magic.gif" style="max-height: 112px; border: 1px solid white; overflow: hidden; border-radius: 100px;">
-            <p ><b>magic</b></p>
-        </div>
-        <div>
-            <h2 style=" line-height: 100px"><b>=</b></h2>
-        </div>
-        <div style="width: 100px; margin: 10px;">
-            <img src="/img/iconenergy.png" style="max-height: 100px">
-            <h4 ><b>DIY Solar Energy</b></h4>
-        </div>
-    </div>
-
-    <hr>
-    <br>
-
-    <!-- USE IT FOR -->
-    <h3 id="guides">How to use it / Guides</h3>
-
-    <div class="flexbox" >
-
-      {% for item in site.posts reversed %}
-        <div style="width: 300px; padding: 15px; margin: 10px; border: 1px lightgrey solid; border-radius: 5px">
-          <a href="{{ item.url }}#title">
-          	<h4 style="">{{ item.title }}</h4>
-  	        <img src="{{ item.image }}" style="max-height: 200px">
-  	       </a>
-          <br>
-          <a style="color: #68c20f; font-size: .8rem; margin-top: 0" href="{{item.url}}#disqus_thread" onclick="ga('send', 'event', 'new-discuss', 'clicked', 'discuss');">
-          discuss
-          </a>
-        </div>
-      {% endfor %}
-    </div>
-    
-    <br><br>
-    <hr>
-    <br>
 
 
+  <br>
+  <h3 id="parts">How it works</h3>
 
-    <!-- PRESS COVERAGE -->
-    <div>
-        <h3>As seen on</h3>
-        <div class="flexbox">
-            <div style="padding: 10px">
-              <a style="color: inherit" href="https://news.ycombinator.com/item?id=14821478" target="_blank"><img src="/img/press1.jpg" style="max-height: 39px"></a>
-            </div>
-            <div style="padding: 10px">
-              <a style="color: inherit" href="https://hackernoon.com/200-for-a-green-diy-self-sufficient-bedroom-that-your-landlord-wont-hate-b3b4cdcfb4f4" target="_blank"><img src="/img/press3.png" style="max-height: 39px"></a>
-            </div>
-            <div style="padding: 10px">
-              <a style="color: inherit" href="https://www.reddit.com/r/geek/comments/6ov9oc/200_solar_selfsufficiency_without_your_landlord/" target="_blank"><img src="/img/press2.png" style="max-height: 39px"></a>
-            </div>
-            <div style="padding: 10px">
-              <a style="color: inherit" href="/img/bilanz.jpg" target="_blank"><img src="/img/press4.png" style="max-height: 39px"></a>
-            </div>
-        </div>
-    </div>
-    <br>
-    <hr >
-   
+<!--   <div class="flexbox">
+      <div style="width: 100px; margin: 10px;">
+          <img src="/img/iconsolarpanel.png" style="max-height: 100px">
+          <p ><b>solar panel</b></p>
+      </div>
+      <div>
+          <h2 style=" line-height: 100px"><b>+</b></h2>
+      </div>
+      <div style="width: 100px; margin: 10px;">
+          <img src="/img/iconcontroller.png" style="max-height: 100px">
+          <p ><b>controller</b></p>
+      </div>
+      <div>
+          <h2 style=" line-height: 100px"><b>+</b></h2>
+      </div>
+      
+      <div style="width: 100px; margin: 10px;">
+          <img src="/img/iconbattery.png" style="max-height: 100px">
+          <p ><b>battery</b></p>
+      </div>
+      <div>
+          <h2 style=" line-height: 100px"><b>+</b></h2>
+      </div>
+      <div style="width: 100px; margin: 10px;">
+          <img src="/img/iconinverter.png" style="max-height: 100px">
+          <p ><b>inverter</b></p>
+      </div>
+      <div>
+          <h2 style=" line-height: 100px"><b>+</b></h2>
+      </div>
+      <div style="width: 112px; margin: 10px; ">
+          <img src="/img/magic.gif" style="max-height: 112px; border: 1px solid white; overflow: hidden; border-radius: 100px;">
+          <p ><b>magic</b></p>
+      </div>
+      <div>
+          <h2 style=" line-height: 100px"><b>=</b></h2>
+      </div>
+      <div style="width: 100px; margin: 10px;">
+          <img src="/img/iconenergy.png" style="max-height: 100px">
+          <h4 ><b>DIY Solar Energy</b></h4>
+      </div>
+  </div> -->
+
+  <div class="flexbox">
+      <div style="width: 120px; margin: 10px;">
+          <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01DAQSF34&asins=B01DAQSF34&linkId=a35697db0c78c741b9ef607d391da878&show_border=true&link_opens_in_new_window=true"></iframe>
+          <br><a href="http://amzn.to/2ju8X4m" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');"><b>solar panel</b></a>
+      </div>
+      <div>
+          <h2 style=" line-height: 240px"><b>+</b></h2>
+      </div>
+      <div style="width: 120px; margin: 10px;">
+          <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B017PI2OUS&asins=B017PI2OUS&linkId=f672cd4f263b2b804df13586b58c41b6&show_border=true&link_opens_in_new_window=true"></iframe>
+          <br><a href="http://amzn.to/2Bx07Li" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');"><b>cable #1</b></a>
+      </div>
+      <div>
+          <h2 style=" line-height: 240px"><b>+</b></h2>
+      </div>
+      
+      <div style="width: 120px; margin: 10px;">
+          <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B06ZY6ZPWQ&asins=B06ZY6ZPWQ&linkId=ae3733e8999a5ccc29bfa6856da50170&show_border=true&link_opens_in_new_window=true"></iframe>
+          <br><a href="http://amzn.to/2Bwe3Fl" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" ><b>controller</b></a>
+      </div>
+      <div>
+          <h2 style=" line-height: 240px"><b>+</b></h2>
+      </div>
+      <div style="width: 120px; margin: 10px;">
+          <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B000ND0WB6&asins=B000ND0WB6&linkId=a76138839d8f9c44162d77f53fbc3aa9&show_border=true&link_opens_in_new_window=true"></iframe>
+          <br><a href="http://amzn.to/2Ae9yRD" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" ><b>cable #2</b></a>
+      </div>
+      <div>
+          <h2 style=" line-height: 240px"><b>+</b></h2>
+      </div>
+      <div style="width: 120px; margin: 10px;">
+          <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B00K8E0WAG&asins=B00K8E0WAG&linkId=9c612421db9e7c2713c9c163ffcc21fe&show_border=true&link_opens_in_new_window=true"></iframe>
+          <br><a href="http://amzn.to/2AhP5M8" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" ><b>battery</b></a>
+      </div>
+      <div>
+          <h2 style=" line-height: 240px"><b>+</b></h2>
+      </div>
+      <div style="width: 120px; margin: 10px;">
+          <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01NAUV18K&asins=B01NAUV18K&linkId=00ab1ce73d4b56b6734b12e98fc21729&show_border=true&link_opens_in_new_window=true"></iframe>
+          <br><a href="http://amzn.to/2iexcXK" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" ><b>inverter</b></a>
+      </div>
+      <div>
+          <h2 style=" line-height: 240px"><b>+</b></h2>
+      </div>
+      
+      <div style="width: 112px; height: 240px; margin: 10px; ">
+          <img src="/img/magic.gif" style="margin-top: 60%; max-height: 112px; border: 1px solid white; overflow: hidden; border-radius: 100px;">
+          <p ><b>magic</b></p>
+      </div>
+      <div>
+          <h2 style=" line-height: 240px"><b>=</b></h2>
+      </div>
+      <div style="width: 112px; height: 240px; margin: 10px; ">
+          <img src="/img/iconenergy.png" style="margin-top: 60%; max-height: 112px; border: 1px solid white; overflow: hidden; border-radius: 100px;">
+          <h4 ><b>DIY Solar Energy</b></h4>
+      </div>
+
   </div>
+
+  <p style="text-align: center"><i>Note: Ad-blockers will block the images above</i></p>
+  <hr>
+  <br>
+
+  <!-- USE IT FOR -->
+  <h3 id="guides">How to use it / Guides</h3>
+
+  <div class="flexbox" >
+
+    {% for item in site.posts reversed %}
+      <div style="width: 300px; padding: 15px; margin: 10px; border: 1px lightgrey solid; border-radius: 5px">
+        <a href="{{ item.url }}#title">
+        	<h4 style="">{{ item.title }}</h4>
+	        <img src="{{ item.image }}" style="max-height: 200px">
+	       </a>
+        <br>
+        <a style="color: #68c20f; font-size: .8rem; margin-top: 0" href="{{item.url}}#disqus_thread" onclick="ga('send', 'event', 'new-discuss', 'clicked', 'discuss');">
+        discuss
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+  
+  <br><br>
+  <hr>
+</div>

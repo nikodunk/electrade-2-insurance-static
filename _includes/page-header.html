@@ -20,12 +20,12 @@
       <div style="background-image: url(/img/moneyshot.jpg);  background-position: center; background-size: cover; position: absolute; top: 0; bottom: 0; left: 0; right: 0; border-bottom: 1px solid darkgrey;"></div>
 
       <!--  TITLE   -->
-      <div style="top: 10px; position: absolute; padding-left: 1rem;"><h4 style="display: inline;"><b>sunboxlabs</b></h4><p style="display: inline"> | a microgrid in a box, delivered to your doorstep.</p></div>
+      <div style="top: 10px; position: absolute; padding-left: 1rem;"><h4 style="display: inline;"><b>sunboxlabs</b></h4><p style="display: inline"> | delivers DIY personal power plants</p></div>
 
 
       <!-- BUTTONS -->
       <div style="margin: 10px;  max-width: 510px; position: absolute; bottom: 0; right: 0; display: flex; ">
-        <div style="margin-right: 10px;"><p>DIY Personal Power Plant<br>(Off-Grid, 150W)</p></div>
+        <!-- <div style="margin-right: 10px;"><p><br>(Off-Grid, 150W)</p></div> -->
 <!--         <div style="text-align: center; margin-right: 10px;">
           <a href="/shop.html">
             <button class="calltoaction" style="height: 100%; cursor: pointer; border: 1px solid darkgrey; padding: 1.5rem; background-color: #1592CE; padding-top: 0rem !important; padding-bottom: 0rem; border-radius: 5px;"
@@ -35,12 +35,23 @@
             </button>
           </a>
         </div> -->
+        <div style="text-align: center; margin-right: 10px">
+          <a href="#guides">
+            <button class="calltoaction" style="height: 100%; cursor: pointer; border: 1px solid #606c71; padding: 1rem; background-color: transparent; padding-top: 0rem !important; padding-bottom: 0rem; border-radius: 5px;">
+              <h2 style="color: #606c71" 
+              onclick="ga('send', 'event', 'button', 'clicked', 'Instructions');" 
+              onclick="fbq('track', 'ViewContent');"
+              ><span style="font-size: 1.5rem">See Instructions >></h2>
+            </button>
+          </a>
+        </div>
+
         <div style="text-align: center;">
-          <a href="/2017/06/20/200-apartment-solar-system.html#thekit">
-            <button class="calltoaction" style="height: 100%; cursor: pointer; border: 1px solid darkgrey; padding: 1.5rem; background-color: #68c20f; padding-top: 0rem !important; padding-bottom: 0rem; border-radius: 5px;">
+          <a href="#parts">
+            <button class="calltoaction" style="height: 100%; cursor: pointer; border: 1px solid darkgrey; padding: 1rem; background-color: #68c20f; padding-top: 0rem !important; padding-bottom: 0rem; border-radius: 5px;">
               <h2 style="color: white" class="subtitle"
               onclick="ga('send', 'event', 'button', 'clicked', 'Do it yourself');" onclick="fbq('track', 'ViewContent');"
-              ><span style="font-size: 1.5rem">Get parts&nbsp;>></span><br>Amazon </h2>
+              ><span style="font-size: 1.5rem">Order parts&nbsp;>> </span><br></h2>
             </button>
 
           </a>
@@ -61,7 +72,7 @@
         });
         $( "<p />", {
           "style": "display: inline;",
-          html: "<span style='color: white;'>$" + Math.round(total*100)/100 + "</span>"
+          html: "<span style='color: white;'>Amazon $" + Math.round(total*100)/100 + "</span>"
         }).appendTo( ".subtitle" );
       });
     </script>
