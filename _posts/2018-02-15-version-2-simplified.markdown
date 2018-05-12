@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PREVIEW: The Updated Version 1.1 Kit How-To"
+title:  "PREVIEW: Lithium-Polymer V1.1 Update"
 date:   2018-02-15 08:00:00 -0700
 image: "/img/version2.png"
 ---
