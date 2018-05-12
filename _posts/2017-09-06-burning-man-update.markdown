@@ -17,40 +17,86 @@ Efforts are abundant to green up Burning Man, and now that solar components are 
 Here's Sean's system for Burning Man 2017 in Nevada. He used it to run phones, fans, swamp coolers and lights.
 
 
-<div style="text-align: center">
-<br><br>
-<p style="color: #68c20f;" id="thekit"><b>The kit</b></p>
-<div style="border: 5px solid #68c20f; padding: 20px;" >      
+<hr id="parts">
+  <br>
+  <h2>How it works</h2>
+  <br>
+  <br>
+  <div class="flexbox">
+      <div style="width: 120px; margin: 5px;">
+          <a href="https://amzn.to/2Ibym27" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');"><b>solar panel</b></a><br>
+          <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B00L6LZRXM&asins=B00L6LZRXM&linkId=7ae8aae38e2e6affc679a3977db0cfa1&show_border=true&link_opens_in_new_window=true"></iframe>
+          
+      </div>
+      <div>
+          <h2 style="line-height: 240px"><b>+</b></h2>
+      </div>
+      <div style="width: 120px; margin: 5px;">
+          <a href="http://amzn.to/2Bx07Li" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');"><b>cable #1</b></a><br>
+          <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B017PI2OUS&asins=B017PI2OUS&linkId=f672cd4f263b2b804df13586b58c41b6&show_border=true&link_opens_in_new_window=true"></iframe>
+          
+      </div>
+      <div>
+          <h2 style=" line-height: 240px"><b>+</b></h2>
+      </div>
+      
+      <div style="width: 120px; margin: 5px;">
+          <a href="https://amzn.to/2rBAYMg" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" ><b>controller</b></a><br>
+          <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B073WQC558&asins=B073WQC558&linkId=1d82bb8dc0629514f31527348383baa6&show_border=true&link_opens_in_new_window=true"></iframe>
+          
+      </div>
+      <div>
+          <h2 style=" line-height: 240px"><b>+</b></h2>
+      </div>
+      <div style="width: 120px; margin: 5px;">
+          <a href="http://amzn.to/2Ae9yRD" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" ><b>cable #2</b></a><br>
+          <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B000ND0WB6&asins=B000ND0WB6&linkId=a76138839d8f9c44162d77f53fbc3aa9&show_border=true&link_opens_in_new_window=true"></iframe>
+          
+      </div>
+      <div>
+          <h2 style=" line-height: 240px"><b>+</b></h2>
+      </div>
+      <div style="width: 120px; margin: 5px;">
+          <a href="http://amzn.to/2AhP5M8" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" ><b>battery</b></a><br>
+          <iframe style="width:120px;height:240px;" alt="affiliate link here" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B00K8E0WAG&asins=B00K8E0WAG&linkId=9c612421db9e7c2713c9c163ffcc21fe&show_border=true&link_opens_in_new_window=true"></iframe>
+          
+      </div>
+      <div>
+          <h2 style=" line-height: 240px"><b>+</b></h2>
+      </div>
+      <div style="width: 120px; margin: 5px;">
+          <a href="http://amzn.to/2iexcXK" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" ><b>inverter</b></a><br>
+          <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01NAUV18K&asins=B01NAUV18K&linkId=00ab1ce73d4b56b6734b12e98fc21729&show_border=true&link_opens_in_new_window=true"></iframe>
+          
+      </div>
+      <div>
+          <h2 style=" line-height: 240px"><b>+</b></h2>
+      </div>
+      
+      <div style="width: 112px; height: 240px; margin: 5px; ">
+          <!-- <p ><b>magic</b></p> -->
+          <img src="/img/magic.gif" style="margin-top: 75%; max-height: 112px; border: 1px solid white; overflow: hidden; border-radius: 100px;">
+      </div>
+      <div>
+          <h2 style=" line-height: 240px"><b>=</b></h2>
+      </div>
+      <div style="width: 112px; height: 240px; margin: 5px; ">
+          <p style="margin-top: 15%"><b>DIY Solar Energy</b></p>
+          <img src="/img/iconenergy.png" style="max-height: 112px; border: 1px solid white; overflow: hidden; border-radius: 100px;">
+      </div>
 
-    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01HHDC6NQ&asins=B01HHDC6NQ&linkId=7f48e286cf6778b72c78cddbe16178dc&show_border=true&link_opens_in_new_window=true"></iframe>
+  </div>
+  <br>
+  <p style="text-align: center; color: lightgrey"><i>Note: Turn off ad-blockers to see the images above or use the links instead</i></p>
+  
+  <br>
 
-            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B017PI2OUS&asins=B017PI2OUS&linkId=f672cd4f263b2b804df13586b58c41b6&show_border=true&link_opens_in_new_window=true"></iframe>
 
-            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B06ZY6ZPWQ&asins=B06ZY6ZPWQ&linkId=ae3733e8999a5ccc29bfa6856da50170&show_border=true&link_opens_in_new_window=true"></iframe>
 
-            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B000ND0WB6&asins=B000ND0WB6&linkId=a76138839d8f9c44162d77f53fbc3aa9&show_border=true&link_opens_in_new_window=true"></iframe>
 
-            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B00K8E0WAG&asins=B00K8E0WAG&linkId=9c612421db9e7c2713c9c163ffcc21fe&show_border=true&link_opens_in_new_window=true"></iframe>
 
-            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01NAUV18K&asins=B01NAUV18K&linkId=00ab1ce73d4b56b6734b12e98fc21729&show_border=true&link_opens_in_new_window=true"></iframe>
-
-            <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
-            <br><a href="http://amzn.to/2ju8X4m" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">100W Solar Panel</a>
-            <br><a href="http://amzn.to/2Bx07Li" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">MC4 Cable</a>
-            <br><a href="http://amzn.to/2Bwe3Fl" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">Charge Controller</a>
-            <br><a href="http://amzn.to/2Ae9yRD" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">Alligator Clips</a>
-            <br><a href="http://amzn.to/2AhP5M8" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">420Wh Deep Cycle Battery</a>
-            <br><a href="http://amzn.to/2iexcXK" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">150W Micro Inverter</a></p>
-
-</div>
-<br>
-<a class="btn btn-amazon"
-style="background-color: #68c20f"
-target="_blank"
-onclick="ga('send', 'event', 'Buy Button', 'clicked', 'Cart');"
-href="http://www.amazon.com/gp/aws/cart/add.html?AssociateTag=gridlesskits-20&ASIN.1=B01DAQSF34&Quantity.1=1&ASIN.2=B017PI2OUS&Quantity.2=1&ASIN.3=B06ZY6ZPWQ&Quantity.3=1&ASIN.4=B000ND0WB6&Quantity.4=1&ASIN.5=B00K8E0WAG&Quantity.5=1&ASIN.6=B01NAUV18K&Quantity.6=1"><h3 class="subtitle" style="color: white">Add parts to cart<br>total </h3></a>
-<br><br>
-</div>
+  <!-- VERSION 2 -->
+  <hr>
 
 
 
