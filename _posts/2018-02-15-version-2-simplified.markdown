@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "COMING SOON: The Simple Version How-To"
+title:  "PREVIEW: The Updated Version 1.1 Kit How-To"
 date:   2018-02-15 08:00:00 -0700
 image: "/img/version2.png"
 ---
@@ -90,3 +90,26 @@ See below for the updated system – photos and review coming soon.
 
   <!-- USE IT FOR -->
   <hr id="guides">
+
+
+
+
+
+
+   <style>
+      hr{
+        border-top: 1px solid #efefef
+      }
+
+      h2{
+        text-align: center;
+      }
+
+      .flexbox{
+        margin: 0 auto; 
+        display:flex; 
+        flex-wrap: wrap; 
+        justify-content: center; 
+        text-align: center
+      }
+  </style>

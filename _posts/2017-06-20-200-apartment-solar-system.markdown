@@ -337,3 +337,23 @@ In case of brownouts or blackouts, this would be a helpful way of wirelessly cha
   Alligator Clips (for connecting the battery to the solar controller)<br>
   20Ft Extension Cable<br>
 
+
+
+
+ <style>
+      hr{
+        border-top: 1px solid #efefef
+      }
+
+      h2{
+        text-align: center;
+      }
+
+      .flexbox{
+        margin: 0 auto; 
+        display:flex; 
+        flex-wrap: wrap; 
+        justify-content: center; 
+        text-align: center
+      }
+  </style>

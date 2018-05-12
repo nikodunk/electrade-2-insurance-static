@@ -222,3 +222,23 @@ We're going to add a box to the recommended kit, to give it a more rugged and fi
   Alligator Clips (for connecting the battery to the solar controller)<br>
   20Ft Extension Cable<br>
 
+
+
+
+ <style>
+      hr{
+        border-top: 1px solid #efefef
+      }
+
+      h2{
+        text-align: center;
+      }
+
+      .flexbox{
+        margin: 0 auto; 
+        display:flex; 
+        flex-wrap: wrap; 
+        justify-content: center; 
+        text-align: center
+      }
+  </style>

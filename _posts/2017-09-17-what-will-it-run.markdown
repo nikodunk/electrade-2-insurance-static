@@ -198,3 +198,23 @@ LED Light (45Wh – usable 9h/day)<br><br>
  </div>
 <br><br>
 </div>
+
+
+
+ <style>
+      hr{
+        border-top: 1px solid #efefef
+      }
+
+      h2{
+        text-align: center;
+      }
+
+      .flexbox{
+        margin: 0 auto; 
+        display:flex; 
+        flex-wrap: wrap; 
+        justify-content: center; 
+        text-align: center
+      }
+  </style>
