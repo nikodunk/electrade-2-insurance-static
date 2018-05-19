@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PREVIEW: Lithium-Polymer V1.1 Update"
+title:  "UPDATE: Lithium-Polymer Version 1.1"
 date:   2018-02-15 08:00:00 -0700
 image: "/img/v2/version2.png"
 ---
@@ -16,7 +16,7 @@ The original article combining DIY deep cycle-lead acid batteries with solar to 
 
 
 
-![](/img/IMG_3336.JPG) | ![](/img/IMG_3338.jpg)
+![](/img/v2/IMG_3336.JPG) | ![](/img/v2/IMG_3338.jpg)
 :-----------------------------:|:-------------------------:
                  |
 
