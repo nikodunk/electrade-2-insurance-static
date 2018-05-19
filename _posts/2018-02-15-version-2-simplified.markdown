@@ -13,12 +13,12 @@ A few weeks ago, a reader of this article sent me a suggestion: They'd found an 
 
 This new kit detracts from the DIY nature of the project, and has 150Wh instead of 420Wh initially, but offers an integrated, compacter form factor and 500 cycles as advertised which should keep capacity better than the lead-acid, because the continuous deep discharging of Lead-Acid dropped the capacity form 420Wh to zero pretty quickly. All in, I'm hoping to get  almost 2 years of lifetime from this new system vs. 0.6 years from the previous, but give up the initial capacity and the DIY coolness.
 
+As prices come further down for Li-Po and Li-Ion systems in the next few yeras, I'm hoping to beef up my system even further with more capacity for less money (150Wh does occasionally run out on my in the evenings, and I have to switch back to grid). But as to battery technology – I've now arrived in Tesla Powerwall territory :)
+
 <b>Lead-Acid Version 1 vs. Lithium-Polymer Version 1.1 comparison:</b>
 ![](/img/v2/IMG_3316.JPG)
 
 It's also pretty affordable at $130 (or $100 on the flash-sale I received it on) and should scale down nicely as Lithium Ion batteries become cheaper over the next few years with EVs, grid storage etc. capacity coming online. How do the payback periods compare, and is this a nice room-sized, affordable powerwall? Can everyone install this with a solar panel as easily as a satellite dish? Can us city-dwellers (54% of the world, 80% of the US) use this in the city to bring our apartments off-grid, without having to ask our landlord for permission as we would have to with an actual power wall?
-
-
 
 
 ![](/img/FINAL.jpg)
