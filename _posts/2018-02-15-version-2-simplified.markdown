@@ -2,7 +2,7 @@
 layout: post
 title:  "PREVIEW: Lithium-Polymer V1.1 Update"
 date:   2018-02-15 08:00:00 -0700
-image: "/img/version2.png"
+image: "/img/v2/version2.png"
 ---
 
 
@@ -13,6 +13,12 @@ COMING SOON – Testing Now
 UPDATE
 -----------------------------------
 The original article combining DIY deep cycle-lead acid batteries with solar to bring your room off-grid was a huge hit. Now, after 8 months living full-time with the system in my room in San Francisco – the battery finally died. Technically, it was 7 months, and leaving it unplugged from the solar system over Christmas brought the capacity down to virtually zero. This was around 200 cycles, exactly as people on Hackernews predicted (along with fires, death and general gloom however).
+
+
+
+![](/img/IMG_3336.JPG) | ![](/img/IMG_3338.jpg)
+:-----------------------------:|:-------------------------:
+                 |
 
 
 
