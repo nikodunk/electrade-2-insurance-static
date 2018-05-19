@@ -6,11 +6,12 @@ image: "/img/v2/version2.png"
 ---
 
 
-The original article combining DIY deep cycle-lead acid batteries with solar to bring your room off-grid was a huge hit. Now, after 8 months living full-time with the system in my room in San Francisco – the battery finally died. Technically, it was 7 months, and leaving it unplugged from the solar system over Christmas brought the capacity down to virtually zero. This was around 200 cycles, exactly as people on Hackernews predicted (along with fires, death and general gloom however).
+The original article combining DIY deep cycle-lead acid batteries with solar to bring your room off-grid was a huge hit. Now, after 8 months living full-time with the system in my room in San Francisco – the battery finally died. Technically, it was 7 months, and leaving it unplugged from the solar system over Christmas brought the capacity down to virtually zero. This was around 200 cycles, exactly as people on Hackernews predicted (the rest of the predictions in the comments – fires, death and shocks, where greatly exaggerated however).
 
 
+A few weeks ago, a reader of this article sent me a suggestion: They'd found an off-the-shelf, more integrated, _Lithium Ion_ version of this system. I'd looked at various such systems as an upgrade to my existing one a few months again, but hardware in this area is moving fast. I'd also considered replacing just the battery in my existing system, but as Li-Ion batteries are mostly lower voltage, I'd have to get into serious electronics to bring it up to 12V from the panel and charger – more than I was willing to risk in my room.
 
-A few weeks ago, a reader of this article bought the _Lithium Ion_ version of this system. I'd looked at various such systems as an upgrade to my existing system, but he bought it all off-the-shelf. This detracts from the DIY nature of the project, and _technically_ has 150Wh instead of 420Wh, but in exchange the integrated, compacter form and the advertised 500 cycles (ie. almost 2 years vs. 0.6 years). 
+This new kit detracts from the DIY nature of the project, and has 150Wh instead of 420Wh initially, but offers an integrated, compacter form factor and 500 cycles as advertised which should keep capacity better than the lead-acid, because the continuous deep discharging of Lead-Acid dropped the capacity form 420Wh to zero pretty quickly. All in, I'm hoping to get  almost 2 years of lifetime from this new system vs. 0.6 years from the previous, but give up the initial capacity and the DIY coolness.
 
 <b>Lead-Acid Version 1 vs. Lithium-Polymer Version 1.1 comparison:</b>
 ![](/img/v2/IMG_3316.JPG)
