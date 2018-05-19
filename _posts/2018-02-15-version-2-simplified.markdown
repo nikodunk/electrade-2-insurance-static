@@ -16,13 +16,19 @@ The original article combining DIY deep cycle-lead acid batteries with solar to 
 
 
 
+A few weeks ago, a reader of this article bought the _Lithium Ion_ version of this system. I'd looked at various such systems as an upgrade to my existing system, but he bought it all off-the-shelf. This detracts from the DIY nature of the project, and _technically_ has 150Wh instead of 420Wh, but in exchange the integrated, compacter form and the advertised 500 cycles (ie. almost 2 years vs. 0.6 years). 
+
+![](/img/v2/IMG_3316.JPG)
+
+It's also pretty affordable at $130 (or $100 on the flash-sale I received it on) and should scale down nicely as Lithium Ion batteries become cheaper over the next few years with EVs, grid storage etc. capacity coming online. How do the payback periods compare, and is this a nice room-sized, affordable powerwall? Can everyone install this with a solar panel as easily as a satellite dish? Can us city-dwellers (54% of the world, 80% of the US) use this in the city to bring our apartments off-grid, without having to ask our landlord for permission as we would have to with an actual power wall?
+
+
+
+
 ![](/img/FINAL.jpg) | ![](/img/v2/IMG_3329.jpg)
 :-----------------------------:|:-------------------------:
                  |
 
-
-
-A few weeks ago, a reader of this article bought the _Lithium Ion_ version of this system. I'd looked at various such systems as an upgrade to my existing system, but he bought it all off-the-shelf. This detracts from the DIY nature of the project, and _technically_ has 150Wh instead of 420Wh, but in exchange the integrated, compacter form and the advertised 500 cycles (ie. almost 2 years vs. 0.6 years). It's also pretty affordable at $130 (or $100 on the flash-sale I received it on) and should scale down nicely as Lithium Ion batteries become cheaper over the next few years with EVs, grid storage etc. capacity coming online. How do the payback periods compare, and is this a nice room-sized, affordable powerwall? Can everyone install this with a solar panel as easily as a satellite dish? Can us city-dwellers (54% of the world, 80% of the US) use this in the city to bring our apartments off-grid, without having to ask our landlord for permission as we would have to with an actual power wall?
 
 
 
@@ -32,7 +38,7 @@ A few weeks ago, a reader of this article bought the _Lithium Ion_ version of th
                  |
 
 
-See below for the updated system.
+Get the updated system here:
 
 
 
@@ -95,12 +101,6 @@ See below for the updated system.
   
   <br>
 
-
-
-
-Version 1 comparison:
-
-![](/img/v2/IMG_3316.JPG)
 
 
 
