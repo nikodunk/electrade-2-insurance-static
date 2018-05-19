@@ -16,7 +16,7 @@ The original article combining DIY deep cycle-lead acid batteries with solar to 
 
 
 
-![](/img/v2/IMG_3336.JPG) | ![](/img/v2/IMG_3338.jpg)
+![](/img/FINAL.jpg) | ![](/img/v2/IMG_3329.jpg)
 :-----------------------------:|:-------------------------:
                  |
 
@@ -27,7 +27,12 @@ A few weeks ago, a reader of this article read my article but bought the _Lithiu
 
 
 
-See below for the updated system – photos and review coming soon.
+![](/img/v2/IMG_3336.JPG) | ![](/img/v2/IMG_3338.jpg)
+:-----------------------------:|:-------------------------:
+                 |
+
+
+See below for the updated system.
 
 
 
@@ -90,6 +95,12 @@ See below for the updated system – photos and review coming soon.
   
   <br>
 
+
+
+
+Version 1 comparison:
+
+![](/img/v2/IMG_3316.JPG)
 
 
 
