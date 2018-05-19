@@ -6,6 +6,27 @@ image: "/img/v2/version2.png"
 ---
 
 
+
+   <style>
+      hr{
+        border-top: 1px solid #efefef
+      }
+
+      h2{
+        text-align: center;
+      }
+
+      .flexbox{
+        margin: 0 auto; 
+        display:flex; 
+        flex-wrap: wrap; 
+        justify-content: center; 
+        text-align: center
+      }
+  </style>
+
+
+
 The original article combining DIY deep cycle-lead acid batteries with solar to bring your room off-grid was a huge hit. Now, after 8 months living full-time with the system in my room in San Francisco – the battery finally died. Technically, it was 7 months, and leaving it unplugged from the solar system over Christmas brought the capacity down to virtually zero. This was around 200 cycles, exactly as people on Hackernews predicted (the rest of the predictions in the comments – fires, death and shocks, where greatly exaggerated however).
 
 
@@ -101,31 +122,12 @@ Get the updated system here:
   <br>
 
 
-
-
-
-  <!-- USE IT FOR -->
   <hr id="guides">
 
 
 
 
 
+Full assembly steps for updated system:
 
-   <style>
-      hr{
-        border-top: 1px solid #efefef
-      }
 
-      h2{
-        text-align: center;
-      }
-
-      .flexbox{
-        margin: 0 auto; 
-        display:flex; 
-        flex-wrap: wrap; 
-        justify-content: center; 
-        text-align: center
-      }
-  </style>
