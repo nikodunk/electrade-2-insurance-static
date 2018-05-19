@@ -45,7 +45,7 @@ It's also pretty affordable at $130 (or $100 on the flash-sale I received it on)
 ![](/img/FINAL.jpg)
 100W Rooftop panel
 
-![](/img/v2/IMG_3329.jpg)
+![](/img/v2/IMG_3329.JPG)
 System in the room
 
 
