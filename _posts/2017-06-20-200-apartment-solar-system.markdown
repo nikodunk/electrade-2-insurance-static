@@ -149,7 +149,7 @@ Hopefully you can adapt my system to your spatial situation pretty easily:
 
 ![](/img/ASSEMBLY3.jpg)
 
-<b>Step 1</b> Cut and lay bare the end of the battery & inverter wires (battery disconnected, please). The panel’s wires are already bare on one end. Do a dry run connecting battery, inverter and panel to the controller — it should look like above.
+<b>Step 1</b> Cut and lay bare the end of the battery & inverter wires (battery disconnected, please). The panel’s wires are already bare on one end. Do a dry run connecting battery, inverter and panel to the controller — it should look like above. The striped wire of the inverter cable is the positive, the unmarked is negative FYI.
 
 ![](/img/ASSEMBLY4.jpg)
 
