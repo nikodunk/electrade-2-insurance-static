@@ -2,7 +2,7 @@
 layout: post
 title:  "UPDATE: Lithium-Polymer Version 1.1"
 date:   2018-02-15 08:00:00 -0700
-image: "/img/v2/version2.png"
+image: "/img/v2/IMG_3338.jpg"
 ---
 
 
