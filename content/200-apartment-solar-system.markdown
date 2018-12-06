@@ -3,6 +3,7 @@ layout: post
 title:  "$200 Solar Self-Sufficiency"
 date:   2017-06-20 08:00:00 -0700
 image: "/img/money1.jpg"
+cost: "$217.09"
 ---
 
 <b>The problem</b><a name="problem"></a>
@@ -40,8 +41,11 @@ My goal is to take care of the energy needs for just my bedroom. 4 main componen
 
 ---------
 
+
 The Kit
-=======
+======= 
+
+<h4 style="color: #00ab6b">Parts Cost on Amazon: $217.09</h4>
 
 ### Solar Panel
 

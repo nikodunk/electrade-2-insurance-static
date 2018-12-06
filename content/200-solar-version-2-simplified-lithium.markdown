@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "UPDATE: $220 Simplified Lithium kit"
+title:  "UPDATE: Simplified Solar + Li-Ion Storage kit"
 date:   2018-02-15 08:00:00 -0700
 image: "/img/v2/icon_lithium.jpg"
+cost: "$246.96"
 ---
 
 
@@ -27,7 +28,10 @@ As prices come further down for Li-Po and Li-Ion systems in the next few yeras, 
 The Kit
 -------
 
-### Solar
+<h4 style="color: lightgreen">Parts Cost on Amazon: $246.96</h4>
+
+### Solar Panel
+
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "gridlesskits-20";
@@ -36,9 +40,9 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B00L6LZRXM";
+amzn_assoc_asins = "B07DNP14JY";
 amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "e40103a63881f95d74eb29cad72153d5";
+amzn_assoc_linkid = "bd4d228bf695e23c932e01bdc28684dd";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
@@ -58,7 +62,7 @@ amzn_assoc_linkid = "d5f66b5f39615f3335176b73c90374dd";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-### Converter
+### Connector
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "gridlesskits-20";
@@ -67,9 +71,9 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B00Z56EIWA";
+amzn_assoc_asins = "B00Z56ZR3E";
 amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "77905086f9d08e76f2e274dcfc4725f6";
+amzn_assoc_linkid = "33d80f500910e3eb8d58bb0bbbeb3d67";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 

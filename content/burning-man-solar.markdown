@@ -3,6 +3,7 @@ layout: post
 title:  "Burning Man Solar How-To"
 date:   2017-09-06 08:00:00 -0700
 image: "/img/money3.jpg"
+cost: "$217.09"
 ---
 
 
@@ -19,8 +20,11 @@ Here's Sean's system for Burning Man 2017 in Nevada. He used it to run phones, f
 
 ---------
 
+
 The Kit
-=======
+======= 
+
+<h4 style="color: lightgreen">Parts Cost on Amazon: $217.09</h4>
 
 ### Solar Panel
 

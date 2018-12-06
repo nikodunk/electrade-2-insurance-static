@@ -3,6 +3,7 @@ layout: post
 title:  "What household devices will DIY Solar run"
 date:   2017-09-17 08:00:00 -0700
 image: "/img/devices/transportafter.jpg"
+cost: "$12 - $999"
 ---
 
 
@@ -153,10 +154,7 @@ High-power devices in my household that have no low-power replacement yet:
 
 
 
-<div style="text-align: center">
-<br><br>
 <p style="color: #68c20f;"><b>The kit</b></p>
-<div style="border: 5px solid #68c20f; padding: 20px">      
 
 
 LED Light (45Wh – usable 9h/day)<br><br>
@@ -177,27 +175,37 @@ LED Light (45Wh – usable 9h/day)<br><br>
 
 
 <br><br>Air conditioning replacement (45W – usable 9h/day)<br><br>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B007SNQ4FM&asins=B007SNQ4FM&linkId=27d62ccbbbffd7fc82b74c49a8a9decd&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B007SNQ4FM&asins=B007SNQ4FM&linkId=27d62ccbbbffd7fc82b74c49a8a9decd&show_border=true&link_opens_in_new_window=true"></iframe><br>
 
 
-<br><br>Transport replacement (97Wh – get 4 charges/day)<br><br>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01M0LI1CX&asins=B01M0LI1CX&linkId=06c13f012874ba7551caa030952afd19&show_border=true&link_opens_in_new_window=true"></iframe>
+### Transport replacement (97Wh – get 4 charges/day)
+
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B07D9XKGK6";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "93ecc5ccc727bcff0db59c50b8fa77c3";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 
 <br><br>Communication (9W – usable 46h/day)<br><br>
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gridlesskits-20&marketplace=amazon&region=US&placement=B01LFSDZCU&asins=B01LFSDZCU&linkId=1783362acc517ede433c0fec058661c8&show_border=true&link_opens_in_new_window=true"></iframe>
 
-          <p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
-            <br><a href="http://amzn.to/2xqifTT" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">5W LED USB Lightbulbs (DC)</a>
-            <br><a href="http://amzn.to/2fT4HKl" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">60W Mini-Fridge (DC)</a>
-	        <br><a href="http://amzn.to/2y82JQe" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">144W Stove (DC)</a>
-		    <br><a href="http://amzn.to/2yPs92D" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">150W Ceramic Space Heater (DC)</a>
-			<br><a href="http://amzn.to/2xoQfVD" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">45W Evaporative Cooler (DC, but with AC brick)</a>
-			<br><a href="http://amzn.to/2y87SI8" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">97Wh Electric Skateboard (DC, but with AC brick)</a>
-			<br><a href="http://amzn.to/2y8G32p" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">9W Wifi (DC, but with AC brick)</a></p>
- </div>
-<br><br>
-</div>
+<p style="text-align: center"><i>Note: Ad-blockers will block the Amazon links above, so here's the plain text links:</i>
+<br><a href="http://amzn.to/2xqifTT" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">5W LED USB Lightbulbs (DC)</a>
+<br><a href="http://amzn.to/2fT4HKl" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">60W Mini-Fridge (DC)</a>
+<br><a href="http://amzn.to/2y82JQe" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">144W Stove (DC)</a>
+<br><a href="http://amzn.to/2yPs92D" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">150W Ceramic Space Heater (DC)</a>
+<br><a href="http://amzn.to/2xoQfVD" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">45W Evaporative Cooler (DC, but with AC brick)</a>
+<br><a href="http://amzn.to/2y87SI8" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">97Wh Electric Skateboard (DC, but with AC brick)</a>
+<br><a href="http://amzn.to/2y8G32p" target="_blank" onclick="ga('send', 'event', 'Afflink', 'clicked', 'textlinks');" style="color: #68c20f">9W Wifi (DC, but with AC brick)</a></p>
+
 
 
 

@@ -3,6 +3,7 @@ layout: post
 title:  "DIY Solar + Storage For Hurricane Backup How-To"
 date:   2017-10-09 08:00:00 -0700
 image: "/img/money2.jpg"
+cost: "$217.09"
 ---
 
 A solar system bought and assembled off Amazon can be low-cost backup kept in the basement the rest of the year and then brought out and put together after the hurricane passes through. 
@@ -22,8 +23,11 @@ My goal is to take care of the energy needs for me personally in the aftermath o
 
 ---------
 
+
 The Kit
-=======
+======= 
+
+<h4 style="color: lightgreen">Parts Cost on Amazon: $217.09</h4>
 
 ### Solar Panel
 

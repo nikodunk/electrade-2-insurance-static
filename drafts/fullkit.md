@@ -2,7 +2,9 @@
 
 
 The Kit
-=======
+======= 
+
+<h4 style="color: #00ab6b">Parts Cost on Amazon: $217.09</h4>
 
 ### Solar Panel
 
