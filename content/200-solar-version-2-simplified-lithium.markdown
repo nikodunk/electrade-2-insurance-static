@@ -27,7 +27,7 @@ As prices come further down for Li-Po and Li-Ion systems in the next few yeras, 
 The Kit
 -------
 
-###Solar
+### Solar
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "gridlesskits-20";
@@ -43,7 +43,7 @@ amzn_assoc_linkid = "e40103a63881f95d74eb29cad72153d5";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 
-###Cable
+### Cable
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "gridlesskits-20";
@@ -73,7 +73,7 @@ amzn_assoc_linkid = "77905086f9d08e76f2e274dcfc4725f6";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-###Battery + Inverter
+### Battery + Inverter
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "gridlesskits-20";
