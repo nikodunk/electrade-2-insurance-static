@@ -1,6 +1,7 @@
-baseURL = "https://sunboxlabs.com/"
+baseURL = "http://sunboxlabs.com/"
 languageCode = "en-us"
 Title = "sunboxlabs"
+Subtitle = "sunboxlabs"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
 copyright = "sunboxlabs.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Big Set Software, LLC - All rights reserved"
@@ -12,7 +13,7 @@ publishDir = "docs"
 [params]
   logo = "/sarah_spinning_sun.gif"
   title = "sunboxlabs"
-  description ="the clean blog!"
+  description ="DIY solar + storage kits"
   #mailchimp = "you can provide a mailchimp-link here"
 
 
