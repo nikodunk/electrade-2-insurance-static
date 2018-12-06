@@ -1,0 +1,117 @@
+---
+layout: post
+title:  "UPDATE: $220 Simplified Lithium kit"
+date:   2018-02-15 08:00:00 -0700
+image: "/img/v2/icon_lithium.jpg"
+---
+
+
+
+
+The original article combining DIY deep cycle-lead acid batteries with solar to bring your room off-grid was a huge hit. Now, after 8 months living full-time with the system in my room in San Francisco – the battery finally died. Technically, it was 7 months, and leaving it unplugged from the solar system over Christmas brought the capacity down to virtually zero. This was around 200 cycles, exactly as people on Hackernews predicted (the rest of the predictions in the comments – fires, death and shocks, where greatly exaggerated however).
+
+<b>Lead-Acid Version 1 vs. Lithium-Polymer Version 1.1 comparison:</b>
+
+![](/img/v2/IMG_3316.JPG)
+
+
+
+
+
+A few weeks ago, a reader of this article sent me a suggestion: They'd found an off-the-shelf, more integrated, _Lithium Ion_ version of this system. I'd looked at various such systems as an upgrade to my existing one a few months again, but hardware in this area is moving fast. I'd also considered replacing just the battery in my existing system, but as Li-Ion batteries are mostly lower voltage, I'd have to get into serious electronics to bring it up to 12V from the panel and charger – more than I was willing to risk in my room.
+
+This new kit detracts from the DIY nature of the project, and has 150Wh instead of 420Wh initially, but offers an integrated, compacter form factor and 500 cycles as advertised which should keep capacity better than the lead-acid, because the continuous deep discharging of Lead-Acid dropped the capacity form 420Wh to zero pretty quickly. All in, I'm hoping to get  almost 2 years of lifetime from this new system vs. 0.6 years from the previous, but give up the initial capacity and the DIY coolness.
+
+As prices come further down for Li-Po and Li-Ion systems in the next few yeras, I'm hoping to beef up my system even further with more capacity for less money (150Wh does occasionally run out on my in the evenings, and I have to switch back to grid). But as to battery technology – I've now arrived in Tesla Powerwall territory :)
+
+The Kit
+-------
+
+###Solar
+
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B00L6LZRXM";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "e40103a63881f95d74eb29cad72153d5";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+
+###Cable
+
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B017PI2OUS";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "d5f66b5f39615f3335176b73c90374dd";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+### Converter
+
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B00Z56EIWA";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "77905086f9d08e76f2e274dcfc4725f6";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+###Battery + Inverter
+
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B076PR4TBZ";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "923f8046c32e1e59ed90fe66436c691a";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+Note: Turn off ad-blockers to see the images above or use the links instead
+
+--------
+
+
+
+It's also pretty affordable at $130 (or $100 on the flash-sale I received it on) and should scale down nicely as Lithium Ion batteries become cheaper over the next few years with EVs, grid storage etc. capacity coming online. How do the payback periods compare, and is this a nice room-sized, affordable powerwall? Can everyone install this with a solar panel as easily as a satellite dish? Can us city-dwellers (54% of the world, 80% of the US) use this in the city to bring our apartments off-grid, without having to ask our landlord for permission as we would have to with an actual power wall?
+
+
+![](/img/FINAL.jpg)
+100W Rooftop panel
+
+![](/img/v2/IMG_3338.jpg)
+Daytime Charging
+
+
+Running my whole room after sundown (DC or AC up to 150 Watts)
+
+
+
+![](/img/v2/IMG_3329.JPG)  | ![](/img/v2/IMG_3336.JPG)
+:---------------------------:|:-------------------------:
+                              | 
+
+
+
+This has definitely increased my enjoyment of the system – it's now way more off-the-shelf and reliable. The max-capacity of 150Wh is a bit of a bummer – I wish it were a little higher. I'm waiting for larger capacities to come down in price – currently I do regularly drain the battery completely on a normal day of usage.

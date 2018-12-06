@@ -1,10 +1,10 @@
-# Project Sunbox
+# Sunboxlabs
 
-This is a [Jekyll][1] site offering DIY hacks for solar power systems.
+This is a Hugo-generated site offering DIY hacks for solar power systems.
+
+Theme a heavily customized [Mediumish Jekyll-Theme](//github.com/wowthemesnet/mediumish-theme-jekyll) 
+
 
 ![](img/preview.png)
 
 Follow the project on http://sunboxlabs.com
-
-[1]: http://jekyllrb.com/
-[4]: https://github.com/jasonlong/cayman-theme
