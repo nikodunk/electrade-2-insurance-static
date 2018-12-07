@@ -1,6 +1,6 @@
 baseURL = "https://sunboxlabs.com/"
 languageCode = "en-us"
-Title = "sunboxlabs"
+Title = "How to DIY Solar + Storage in your home"
 Subtitle = "How to DIY Solar + Storage in your home"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25

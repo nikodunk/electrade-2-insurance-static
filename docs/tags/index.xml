@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on sunboxlabs</title>
+    <title>Tags on How to DIY Solar &#43; Storage in your home</title>
     <link>https://sunboxlabs.com/tags/</link>
-    <description>Recent content in Tags on sunboxlabs</description>
+    <description>Recent content in Tags on How to DIY Solar &#43; Storage in your home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>sunboxlabs.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Big Set Software, LLC - All rights reserved</copyright>
-    <lastBuildDate>Thu, 15 Feb 2018 08:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 08:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://sunboxlabs.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Apartment</title>
       <link>https://sunboxlabs.com/tags/apartment/</link>
-      <pubDate>Thu, 15 Feb 2018 08:00:00 -0700</pubDate>
+      <pubDate>Sat, 01 Dec 2018 08:00:00 -0700</pubDate>
       
       <guid>https://sunboxlabs.com/tags/apartment/</guid>
       <description></description>
@@ -51,9 +51,18 @@
     <item>
       <title>Solar</title>
       <link>https://sunboxlabs.com/tags/solar/</link>
-      <pubDate>Thu, 15 Feb 2018 08:00:00 -0700</pubDate>
+      <pubDate>Sat, 01 Dec 2018 08:00:00 -0700</pubDate>
       
       <guid>https://sunboxlabs.com/tags/solar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xantrex</title>
+      <link>https://sunboxlabs.com/tags/xantrex/</link>
+      <pubDate>Sat, 01 Dec 2018 08:00:00 -0700</pubDate>
+      
+      <guid>https://sunboxlabs.com/tags/xantrex/</guid>
       <description></description>
     </item>
     
