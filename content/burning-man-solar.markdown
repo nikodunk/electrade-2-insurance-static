@@ -4,6 +4,9 @@ title:  "Burning Man Solar How-To"
 date:   2017-09-06 08:00:00 -0700
 image: "/img/money3.jpg"
 cost: "$217.09"
+tags: ["solar", "festival"]
+type: "post"
+comments: true
 ---
 
 

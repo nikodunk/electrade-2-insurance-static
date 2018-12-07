@@ -4,6 +4,9 @@ title:  "What household devices will DIY Solar run"
 date:   2017-09-17 08:00:00 -0700
 image: "/img/devices/transportafter.jpg"
 cost: "$12 - $999"
+tags: ["solar", "guide"]
+type: "post"
+comments: true
 ---
 
 
