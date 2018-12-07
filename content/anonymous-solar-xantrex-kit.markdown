@@ -14,9 +14,9 @@ comments: true
 As promised, some shots of my solar (self-made) installation. Feel free to publish but without any reference to my name or location (my neighbors would freak out, lacking permits)
 
 
-![Here’s the converter and batteries](http://www.xantrex.com/power-products/backup-power/xpower-powerhub-1800.aspx)
+[Here’s the converter and batteries](http://www.xantrex.com/power-products/backup-power/xpower-powerhub-1800.aspx)
 
-Running 4 -5 years straight powering  full home office and TV, vacuum cleaning.
+Running 4 - 5 years straight powering  full home office and TV, vacuum cleaning.
 
 
 ![](/anonymous/Solar_Panel_Balcony.jpg)
