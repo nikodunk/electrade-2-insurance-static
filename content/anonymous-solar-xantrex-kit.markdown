@@ -11,8 +11,7 @@ comments: true
 
 
 
-As promised, some shots of my solar (self-made) installation. Feel free to publish but without any reference to my name or location (my neighbors would freak out, lacking permits)
-
+As promised, some shots of my solar (self-made) installation.
 
 [Here’s the converter and batteries](http://www.xantrex.com/power-products/backup-power/xpower-powerhub-1800.aspx)
 
