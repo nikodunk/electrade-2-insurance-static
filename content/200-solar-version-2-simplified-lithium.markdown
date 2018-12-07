@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "UPDATE: Simplified Solar + Li-Ion Storage kit"
 date:   2018-02-15 08:00:00 -0700
 image: "/img/v2/icon_lithium.jpg"

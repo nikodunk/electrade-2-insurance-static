@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "$200 Solar Self-Sufficiency – without your landlord noticing"
+title:  "Frank Vial's System"
 date:   2017-06-20 08:00:00 -0700
 image: "/img/money1.jpg"
 cost: "$217.09"

@@ -8,7 +8,7 @@ copyright = "sunboxlabs.com is a participant in the Amazon Services LLC Associat
 enableEmoji = true
 publishDir = "docs"
 #disqusShortname = "gridlesskits"
-#googleAnalytics = "UA-1XXXXXXX1-1"
+#googleAnalytics = "UA-103591436-1"
 
 [params]
   logo = "/sarah_spinning_sun.gif"
