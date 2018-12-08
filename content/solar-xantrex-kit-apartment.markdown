@@ -3,7 +3,7 @@ layout: post
 title:  "Apartment Solar + Battery Microgrid that can power a fridge"
 date:   2018-12-01 08:00:00 -0700
 image: "/anonymous/xantrex_powerhub_1800_in_apartment.jpg"
-cost: "$1,284"
+cost: "$2,064"
 tags: ["solar", "xantrex", "apartment"]
 type: "post"
 comments: true
@@ -45,7 +45,7 @@ This is a very heavy-duty system which can serve much bigger wattages than anyth
 
 Also note that submitter has a very smart solution for getting his cable through his window and bridging the cold gap: making a hole in transparent plexiglass!
 
-Finally, luckily the price has massively declined in the past few years: While 4 years ago the installer paid $4,386.38, it is now available for $1284.04. See below for newly researched links.
+Finally, luckily the price has massively declined in the past few years: While 4 years ago the installer paid $4,386, it is now available for $2,064. See below for newly researched links.
 
 
 -------
@@ -55,7 +55,7 @@ Finally, luckily the price has massively declined in the past few years: While 4
 The kit
 =======
 
-<h4 style="color: lightgreen">Parts Cost on Amazon: $1284.04</h4>
+<h4 style="color: lightgreen">Parts Cost on Amazon: $2,064.02</h4>
 
 ### 2x Solar Panel
 
@@ -89,9 +89,21 @@ amzn_assoc_linkid = "5f6d444601895263b862079d7dc2d8ca";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
+### 2 x AGM Battery
+<script type="text/javascript">
+amzn_assoc_tracking_id = "gridlesskits-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B075RGX1WR";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "e82ef65ea92549f31c71ff07d1721b8d";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-
-### Controller, Battery, Inverter
+### Controller, Inverter
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "gridlesskits-20";
@@ -106,7 +118,27 @@ amzn_assoc_linkid = "2bf3a6df9a80450baf4425155cd1050c";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
+------
 
+### Financial Payback & Embodied Energy
+
+How long until it saves me money? The reason this system is so simple is because it doesn’t tie in to your apartment’s behind-the-meter electrical grid. This means the system is clean and easy to install yourself, but it also doesn’t automatically feed into electrical heavyweights like your water heater, refrigerator and washer/dryer. This system is so powerful though that you can plug in these heavyweights (at least refrigerator) into it! A typical, non-energy saving fridge uses around 1kWh / day [like this one](https://www.searsoutlet.com/d/product_details.jsp?pid=136160&uid=41032085&storeZip=98188&sid=IDx20110411x000008&scid=scplp41032085&sc_intid=41032085&gclid=EAIaIQobChMIqOqbr4OR3wIVTR-tBh2qTwStEAQYASABEgKRSvD_BwE), and all of this could be offloaded onto the system. That's savings of $56 per year. You'd need to add more loads like washing machine and TV to it to fully utilize this system.
+
+    Financial payback period for balcony 360W system
+    System cost : $2064 on Amazon at time of writing
+    Yearly energy creation: 365d * 4.26hsun/d * 360W = 542’894Wh/y
+    Yearly value creation: 543kWh/y * 15.34c/kWh = $81/y energy created
+    System payback period: $2064 / $81 = 25 years until payback
+
+The financial payback of the system is 25 years including battery, due to the relatively small solar panel system. The battery  battery system is not the cheapest either, and energy in general is super cheap at currently 15.34c/kWh.
+
+If the panels were on the rooftop, the math would be different:
+
+    Financial payback period for rooftop 360W system
+    System cost : $2064 on Amazon at time of writing
+    Yearly energy creation: 365d * 6.66hsun/d * 360W = 875,124Wh/y
+    Yearly value creation: 875kWh/y * 15.34c/kWh = $134/y energy created
+    System payback period: $2064 / $134 = 15.4 years until payback
 
 
 -------
