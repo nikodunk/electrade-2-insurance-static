@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apartment Solar + Battery Microgrid that can a fridge"
+title:  "Apartment Solar + Battery Microgrid that can power a fridge"
 date:   2018-12-01 08:00:00 -0700
 image: "/anonymous/xantrex_powerhub_1800_in_apartment.jpg"
 cost: "$1,284"
