@@ -41,7 +41,7 @@ Anonymous
 Sunboxlabs's take
 ==================
 
-This is a very heavy-duty system which can serve much bigger wattages than anything else on this site: It can make 3.6x as much energy with it's panels, store 5.7x as much energy in its' batteries, and give off the energy at 18x the rate than my little room kit. Impressive!
+This is a very heavy-duty system which can serve much bigger wattages than anything else on this site: It can make 3.6x as much energy with it's panels, store 5.7x as much energy in it's batteries, and give off the energy at 18x the rate than my little room kit. Impressive!
 
 Also note that submitter has a very smart solution for getting his cable through his window and bridging the cold gap: making a hole in transparent plexiglass!
 

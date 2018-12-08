@@ -19,13 +19,19 @@ googleAnalytics = "UA-103591436-1"
 
 ## Main Menu
 [[menu.main]]
-    name = "Other Projects"
-    identifier = "projects"
+    name = "Guides"
+    identifier = "guides"
     weight = 200
-    url = "/projects"
+    url = "/"
 
 [[menu.main]]
     name = "About"
     identifier = "about"
     weight = 200
     url = "/about"
+
+[[menu.main]]
+    name = "Submit Your System"
+    identifier = "submit"
+    weight = 500
+    url = "mailto:hello@sunboxlabs.com"
