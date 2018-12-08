@@ -3,7 +3,7 @@ layout: post
 title:  "$200 Solar Self-Sufficiency – without your landlord noticing"
 date:   2017-06-20 08:00:00 -0700
 image: "/img/money1.jpg"
-cost: "$217.09"
+cost: "$217"
 tags: ["solar", "apartment"]
 type: "post"
 comments: true
