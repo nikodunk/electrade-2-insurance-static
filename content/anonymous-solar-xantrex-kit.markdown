@@ -19,10 +19,13 @@ Running 4 - 5 years straight powering  full home office and TV, vacuum cleaning.
 
 
 ![](/anonymous/Solar_Panel_Balcony.jpg)
+360W of solar panels
 
 ![](/anonymous/Solar_Cable_Through_Window.jpg)
+Drilling a hole in plexiglass: A method for getting the cable from the outside to the inside without the draft. The (american-style vertical sliding) window then closes on the plexiglass.
 
 ![](/anonymous/xantrex_powerhub_1800_in_apartment.jpg)
+Battery, controller and inverter in action.
 
 
 
@@ -36,23 +39,23 @@ The kit
 
 ### Tech Specs
 
-Total cost for kit – $4,386.38
+<h4 style="color: lightgreen">Parts cost: $4,386.38</h4>
 
 
 	Solar Panels:
 		2 x 180 watt solar panels
 		= 360W total chargin power 
 
-	Inverter:
-		1 x 1800 watt inverter with battery case 
+	Charge controller:
+		1 x Charge Controller
 
 	Battery:
 		2 x 6V 200 aH AGM Batteries
 		= 2400 Wh of storage
 		= 6.6 hours until fully charged (2400Wh / 360 W from panels)
 
-	Controller:
-		1 x Charge Controller
+	Inverter:
+		1 x 1800 watt inverter with battery case 
 
 	Tender:
 		1 - 80' Solar Connecting Cable; 
@@ -61,6 +64,9 @@ Total cost for kit – $4,386.38
 
 -------
 
-Sunboxlabs's take:
+Sunboxlabs's take
+==================
 
-Submitter has a very smart solution for getting his cable through his window: making a hole in transparent plexiglass! This is a very heavy-duty system which can serve much bigger wattages than anything else on this site: It can make 3.6x as much energy with it's panels, store 5.7x as much energy in its' batteries, and give off the energy at 18x the rate than my little room kit. Impressive!
+This is a very heavy-duty system which can serve much bigger wattages than anything else on this site: It can make 3.6x as much energy with it's panels, store 5.7x as much energy in its' batteries, and give off the energy at 18x the rate than my little room kit. Impressive!
+
+Also note that submitter has a very smart solution for getting his cable through his window and bridging the cold gap: making a hole in transparent plexiglass!
