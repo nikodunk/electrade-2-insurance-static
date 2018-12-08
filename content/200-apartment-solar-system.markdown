@@ -9,7 +9,12 @@ type: "post"
 comments: true
 ---
 
-<b>The problem</b><a name="problem"></a>
+
+#### Building a solar micro-grid in my bedroom with parts from Amazon
+
+-----
+
+### The problem
 
 Apartment renters need the landlord’s permission to install anything on their rooftops. This makes installing solar difficult for people who rent. Because most of the world lives in urbanized areas where renting is common, I think this is a problem standing in the way of solar adoption.
 
@@ -21,12 +26,12 @@ In the following I attempt to bypass both these problems by building a standalon
 
 
 
-<br><br><br>
 
 
 
 
-<b>A possible solution</b><a name="solution"></a>
+
+### A possible solution
 
 A windowsill solar system bought off Amazon solves both problems at once: Renters don’t need permission from their landlords to place things on their windowsill and rooftops if it’s not altering the building, and it’s a one-click Amazon purchase with no regulation as long as it’s not tied to the grid (which mine is designed not to be). Two birds with one stone. This makes the solar buying process more like buying a consumer electronic.
 
@@ -35,9 +40,9 @@ A windowsill solar system bought off Amazon solves both problems at once: Renter
 Questions remain. Can this system make any meaningful energy? Does it make financial sense?
 
 
-<br><br><br>
 
-<b>How-To Guide</b><a name="how-to"></a>
+
+### How-To Guide
 
 My goal is to take care of the energy needs for just my bedroom. 4 main components are all we need to achieve this: A solar panel to collect, a battery to store, an inverter to convert the direct current to alternating current, and a “charge controller” to balance the three other components.
 
@@ -160,9 +165,9 @@ I’m using bargain-basement parts intended for RV, marine & car usage which kee
 I ordered the system on July 2nd, and with ground shipping the PV panel arrived July 11th from Canada, and the battery, wiring, controller and inverter arrived July 15th from Amazon USA.
 
 
-<br><br><br>
 
-<b>Assembly</b><a name="assembly"></a>
+
+### Assembly
 
 Hopefully you can adapt my system to your spatial situation pretty easily:
 
@@ -201,29 +206,25 @@ In the evening, turn on the inverter. My lamp, computer, tablet & phone are all 
 
 
 
-
-
-<br><br><br>
-
-<b>One month of off-grid living in my room</b><a name="experiment"></a>
+### One month of off-grid living in my room
 
 
 
 In San Francisco we get 4.26 hours of usable sunshine a day (or 1156 hours a year) according to Google Sunroof. My battery holds 420Wh (12V x 35Ah), and should be filled once a day without any shading. Actual production is an average 350Wh/day on the rooftop with real-world shading and loss.
 
-Daily Power Production:<br>
-Theoretical: 4.26 sun hours/d * 100W solar = 426Wh/day<br>
-Actual: 350Wh/day<br>
+    Daily Power Production:
+    Theoretical: 4.26 sun hours/d * 100W solar = 426Wh/day
+    Actual: 350Wh/day
 
-Daily Power Needs:<br>
-54Wh Macbook Air 13-Inch (one charge a day)<br>
-8Wh iPhone battery (one charge a day)<br>
-300Wh Space Heater (150W x 2h – our SF house has no heating)<br>
-___________<br>
+    Daily Power Needs:
+    54Wh Macbook Air 13-Inch (one charge a day)
+    8Wh iPhone battery (one charge a day)
+    300Wh Space Heater (150W x 2h – our SF house has no heating)
+    ___________
 
-Total: 82Wh energy need per day in room (up to 382Wh)<br>
+    Total: 82Wh energy need per day in room (up to 382Wh)
 
-This should be easily met by the solar system. I turn the inverter on when I get home to use AC lights and charge the Macbook through the power brick, and turn it off before I go to bed to avoid energy drain. My phone’s USB (which is direct current) can charge all night straight through the solar controller itself (which has USB ports) and doesn’t require the inverter. My laptop is a DC device and could be charged straight off the 12V battery, but I found it easier to just charge it with the AC power brick through the inverter. More info on what you can run off the system in the follow-up article<a href="/2017/09/17/what-will-it-run.html">here</a>.
+This should be easily met by the solar system. I turn the inverter on when I get home to use AC lights and charge the Macbook through the power brick, and turn it off before I go to bed to avoid energy drain. My phone’s USB (which is direct current) can charge all night straight through the solar controller itself (which has USB ports) and doesn’t require the inverter. My laptop is a DC device and could be charged straight off the 12V battery, but I found it easier to just charge it with the AC power brick through the inverter. More info on what you can run off the system in the follow-up article [here](/what-will-solar-run)
 
 ![](/img/GENERATION.jpg) | ![](/img/GENERATION2.jpg)
 :-----------------------------:|:-------------------------:
@@ -234,9 +235,9 @@ My traditional AC lamp is a non-optimized part of the system— I could get DC l
 
 
 
-<br><br><br>
 
-<b>Learnings and Outlook</b><a name="outlook"></a>
+
+### Learnings and Outlook
 
 
 
@@ -249,9 +250,9 @@ This project started with a simple idea: What if energy generation was a consume
 
 Unless you live on an RV or a boat it doesn’t make financial sense yet (see epilogue #1). But if prices come down a little more (what a difference the last year made!) or manufacturing gets a bit more resource-efficient the scales could tip and this could be a green and fiscally sensible solution (see epilogue #2). And some time in the next decade this great little DIY system that can function as a back-up system today (see epilogue #3) could become a viable consumer electronic: a cheap personal power plant for urban renters.
 
-<br><br><br>
 
-<b>Outlook</b>
+
+### Outlook
 
 What if autonomous electric generation could be added room by room to a household (like window A/C units)? We could outfit all 7 rooms of my (shared) household for around $1400 with this system today. Because the kitchen and bathrooms have way higher energy usages (fridge, stove, water heater) than the other rooms, a more sophisticated system could mesh the batteries together (wirelessly?) to create a stronger system that sends power to the rooms that need it most. This system could also discharge the batteries systematically as the price of grid power changes and the sun moves around the house.
 
@@ -261,45 +262,46 @@ What if autonomous electric generation could be added room by room to a househol
 
 Solar as a modular consumer electronic — like air conditioning and satellite dishes? If we look to the car, the smartphone, the window A/C unit — these devices spread like wildfire across the globe because they were off-the-shelf products that required no configuration but great benefits. Identical appliances were churned out at an industrial scale for a global audience. They were “plug n play”. Plug n play solar has been around for a while, but has never taken off (probably because behind-the-meter power is still sketchy and poorly understood). The potential for plug n play solar is huge — it could mean cheap, zero-configuration solar energy spreading to consumers at the pace of the smartphone, the car or air-conditioning. This could be a cool Kickstarter project in the future… or a just fun DIY project today.
 
-<br><br><br>
 
-<b>Financial Payback & Embodied Energy</b><a name="numbers"></a>
+
+### Financial Payback & Embodied Energy
 
 How long until it saves me money? The reason this system is so simple is because it doesn’t tie in to your apartment’s behind-the-meter electrical grid. This means the system is clean, but it also doesn’t feed into electrical heavyweights like your water heater, refrigerator and washer/dryer. It does charge anything you plug into it though. So can the system save me money? Back of the envelope:
 
-Financial payback period for 100W system<br>
-System cost : $211 on Amazon at time of writing<br>
-Yearly energy creation: 365d * 4.26hsun/d * 100W = 155’490Wh/y<br>
-Yearly value creation: 155kWh/y * 15.34c/kWh = $24/y energy created<br>
-100W system payback period: $211 / $24 = 8.5 years until payback<br>
+    Financial payback period for 100W system
+    System cost : $211 on Amazon at time of writing
+    Yearly energy creation: 365d * 4.26hsun/d * 100W = 155’490Wh/y
+    Yearly value creation: 155kWh/y * 15.34c/kWh = $24/y energy created
+    100W system payback period: $211 / $24 = 8.5 years until payback
 
 The financial payback of the system is 9 years including battery, which is in line with many rooftop systems but doesn’t include servicing. This could be reduced to 6.5 years by adding a second 100W solar panel:
 
-Payback period for 200W system<br>
-200W System cost: roughly $300 on Amazon at time of writing<br>
-Yearly energy creation: 365d * 4.26hsun/d * 100W = 310’980Wh/y<br>
-Yearly value creation: 311kWh/y * 15c/kWh = $48/y energy created<br>
-200W system payback period: $300 / $48 = 6.5 years until payback<br>
+    Payback period for 200W system
+    200W System cost: roughly $300 on Amazon at time of writing
+    Yearly energy creation: 365d * 4.26hsun/d * 100W = 310’980Wh/y
+    Yearly value creation: 311kWh/y * 15c/kWh = $48/y energy created
+    200W system payback period: $300 / $48 = 6.5 years until payback
 
 Note however that after 8 years of daily use the lead-acid deep discharge battery will be spent, which I’m not taking into account here. Either way you cut it, this is not a money saving machine. Energy prices are just too low.
 
-<br><br><br>
 
-<b>How green is it?</b>
+
+### How green is it?
 
 Does it have an impact on my CO2 footprint? Back of the envelope:
 
-Production footprint PV multicristalline:<br>
-4200kWhee/kW [1] * 0.1kW = 420kWh embodied energy<br>
-<br><br>
-Production footprint lead-acid battery:<br>
-321kWhee/kWh [1] * 0.5kWh = 161kWh embodied energy<br>
-<br>
-Total Footprint: 581kWh<br>
+    Production footprint PV multicristalline:
+    4200kWhee/kW [1] * 0.1kW = 420kWh embodied energy
 
-Annual energy production system: 155kWh/y<br>
-Payback period: 581kWh / 155kWh/y = 4+ year footprint payback<br>
-[1] http://renew.org.au/articles/energy-flows-how-green-is-my-solar/<br>
+    Production footprint lead-acid battery:
+    321kWhee/kWh [1] * 0.5kWh = 161kWh embodied energy
+
+    Total Footprint: 581kWh
+
+    Annual energy production system: 155kWh/y
+    Payback period: 581kWh / 155kWh/y = 4+ year footprint payback
+
+[Source]( http://renew.org.au/articles/energy-flows-how-green-is-my-solar/)
 
 
 
@@ -308,9 +310,9 @@ An eventual product would use Lithium-Ion batteries once they come down in price
 Energy independence and resilience
 In case of brownouts or blackouts, this would be a helpful way of wirelessly charging communications devices without the grid. A 200W system could even keep a small 60W, 12V refrigerator cool enough to conserve food (14hours of operation/day, cooling down 32 degrees below ambient temp). If energy prices increase (double? triple?) due to unforeseen events in the future, the financial perspective may even make sense with payback periods decreasing to four or even 2.8 years for the 100W system or for the 200W system to 3 years or 2 years, respectively. At under 2 years payback period, we’d be in similar consumer territory to 2-year phone contracts. Let’s hope components continue to get cheaper! (or energy prices increase — but I’d rather not hope for that)
 
-<br><br><br>
 
-<h3>Tech Specs</h3>
+
+### Tech Specs
 
     Polychristalline Solar Panel
     Size: 39.8 x 1.2 x 26.6 inches
@@ -351,21 +353,3 @@ In case of brownouts or blackouts, this would be a helpful way of wirelessly cha
     20Ft Extension Cable
 
 
-
- <style>
-      hr{
-        border-top: 1px solid #efefef
-      }
-
-      h2{
-        text-align: center;
-      }
-
-      .flexbox{
-        margin: 0 auto; 
-        display:flex; 
-        flex-wrap: wrap; 
-        justify-content: center; 
-        text-align: center
-      }
-  </style>

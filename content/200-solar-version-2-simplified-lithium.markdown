@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UPDATE: Simplified Solar + Li-Ion Storage kit"
+title:  "Simplified Micro Solar + Li-Ion Storage kit"
 date:   2018-02-15 08:00:00 -0700
 image: "/img/v2/icon_lithium.jpg"
 cost: "$246"
@@ -103,13 +103,32 @@ Note: Turn off ad-blockers to see the images above or use the links instead
 
 It's also pretty affordable at $130 (or $100 on the flash-sale I received it on) and should scale down nicely as Lithium Ion batteries become cheaper over the next few years with EVs, grid storage etc. capacity coming online. How do the payback periods compare, and is this a nice room-sized, affordable powerwall? Can everyone install this with a solar panel as easily as a satellite dish? Can us city-dwellers (54% of the world, 80% of the US) use this in the city to bring our apartments off-grid, without having to ask our landlord for permission as we would have to with an actual power wall?
 
+### Assembly
 
-![](/img/FINAL.jpg)
-100W Rooftop panel
+
+![](/img/ASSEMBLY4.jpg)
+
+
+![](/img/ASSEMBLY4-1.jpg) | ![](/img/ASSEMBLY4-2.jpg)
+:-----------------------------:|:-------------------------:
+							   |
+
+<b>Step 1</b> Place the panel on the rooftop or wherever you get the most sunlight (…garden …balcony …). Attach the panel to something: I zip-tied the back of the panel to a cable which I fastened on both ends around sturdy roof pipes...
+
+![](/img/ASSEMBLY5.jpg) | ![](/img/ASSEMBLY6.jpg)
+:-----------------------------:|:-------------------------:
+							   |
+
+
+...and run the power lines back to your apartment (drop down the facade and into the window in my case).
+
+
 
 ![](/img/v2/IMG_3338.jpg)
-Daytime Charging
+...and attach to the combined controller/ lithium battery / inverter on the floor.
 
+
+### Results 
 
 Running my whole room after sundown (DC or AC up to 150 Watts)
 
