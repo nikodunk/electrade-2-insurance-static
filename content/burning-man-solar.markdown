@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Burning Man Solar How-To"
+title:  "100W Burning Man Solar How-To"
 date:   2017-09-06 08:00:00 -0700
 image: "/img/money3.jpg"
 cost: "$217"
