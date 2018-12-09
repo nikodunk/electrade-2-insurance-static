@@ -307,7 +307,8 @@ Does it have an impact on my CO2 footprint? Back of the envelope:
 
 An eventual product would use Lithium-Ion batteries once they come down in price, which have a way better energy footprint. Lead-acid batteries are used for now because they’re cheap. So no, we’re not saving any CO2 emissions here until after 4 years — not a green machine.
 
-Energy independence and resilience
+### Energy independence and resilience
+
 In case of brownouts or blackouts, this would be a helpful way of wirelessly charging communications devices without the grid. A 200W system could even keep a small 60W, 12V refrigerator cool enough to conserve food (14hours of operation/day, cooling down 32 degrees below ambient temp). If energy prices increase (double? triple?) due to unforeseen events in the future, the financial perspective may even make sense with payback periods decreasing to four or even 2.8 years for the 100W system or for the 200W system to 3 years or 2 years, respectively. At under 2 years payback period, we’d be in similar consumer territory to 2-year phone contracts. Let’s hope components continue to get cheaper! (or energy prices increase — but I’d rather not hope for that)
 
 
