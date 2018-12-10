@@ -2,7 +2,7 @@
 layout: post
 title:  "1800W Apartment Solar + Battery Microgrid that can power a fridge"
 date:   2018-12-01 08:00:00 -0700
-image: "/anonymous/xantrex_powerhub_1800_in_apartment.jpg"
+image: "/anonymous/Solar_Panel_Balcony.jpg"
 cost: "$2,064"
 tags: ["solar", "xantrex", "apartment"]
 type: "post"
