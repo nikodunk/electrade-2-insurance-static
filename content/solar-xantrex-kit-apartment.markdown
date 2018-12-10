@@ -2,7 +2,7 @@
 layout: post
 title:  "1800W Apartment Solar + Battery Microgrid that can power a fridge"
 date:   2018-12-01 08:00:00 -0700
-image: "/anonymous/Solar_Panel_Balcony.jpg"
+image: "/anonymous/solar_panel_balcony.jpg"
 cost: "$2,064"
 tags: ["solar", "xantrex", "apartment"]
 type: "post"
@@ -16,7 +16,7 @@ As promised, some shots of my solar (self-made) installation.
 Running 4 - 5 years straight powering full home office and TV, vacuum cleaning.
 
 
-![](/anonymous/Solar_Panel_Balcony.jpg)
+![](/anonymous/solar_panel_balcony.jpg)
 2 x 180W solar panels = 360W system (0.36kW)
 
 
