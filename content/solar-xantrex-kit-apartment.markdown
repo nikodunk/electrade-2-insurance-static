@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1800W Apartment Solar + Battery Microgrid that can power a fridge"
+title:  "1800W Apartment Balcony Solar + Battery Microgrid that can power fridge"
 date:   2018-12-01 08:00:00 -0700
 image: "/anonymous/solar_panel_balcony.jpg"
 cost: "$2,064"
