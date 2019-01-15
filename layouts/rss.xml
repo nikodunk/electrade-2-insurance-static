@@ -20,9 +20,9 @@
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <image>
-          <url>{{ .Site.BaseURL }}{{ .Params.image }}</url>
-          <title>asdf</title>
-          <link>{{ .Permalink }}</link>
+        <url>https://www.w3schools.com/images/logo.gif</url>
+        <title>W3Schools.com</title>
+        <link>https://www.w3schools.com</link>
       </image>
       <description>{{ .Summary | html }}</description>
     </item>
