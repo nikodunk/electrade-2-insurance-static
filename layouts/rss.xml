@@ -22,9 +22,9 @@
       <description>
         {{ .Summary | html }}
         <image>
-          <url>{{ Params.image }}</url>
+          <url>{{ .Params.image }}</url>
           <title>{{ .Title }}</title>
-          <link>{{ Params.image }}</link>
+          <link>{{ .Params.image }}</link>
         </image>
       </description>
     </item>
