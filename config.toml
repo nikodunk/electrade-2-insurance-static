@@ -1,6 +1,6 @@
 baseURL = "https://sunboxlabs.com/"
 languageCode = "en-us"
-Title = "DIY Solar Price Tracker"
+Title = "A platform for sharing DIY solar projects & tracking prices"
 Subtitle = ""
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
