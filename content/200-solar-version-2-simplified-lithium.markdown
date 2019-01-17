@@ -3,7 +3,7 @@ layout: post
 title:  "Simplified 100W Micro Solar + Li-Ion Storage kit"
 date:   2018-02-15 08:00:00 -0700
 image: "/img/v2/icon_lithium.jpg"
-cost: "$246"
+cost: "$242"
 tags: ["solar", "apartment"]
 type: "post"
 comments: true
