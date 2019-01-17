@@ -42,10 +42,6 @@
   </url>
   
   <url>
-    <loc>https://sunboxlabs.com/projects/</loc>
-  </url>
-  
-  <url>
     <loc>https://sunboxlabs.com/tags/apartment/</loc>
     <lastmod>2018-12-01T08:00:00-07:00</lastmod>
     <priority>0</priority>
@@ -53,6 +49,12 @@
   
   <url>
     <loc>https://sunboxlabs.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunboxlabs.com/</loc>
+    <lastmod>2018-12-08T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -71,12 +73,6 @@
   <url>
     <loc>https://sunboxlabs.com/tags/guide/</loc>
     <lastmod>2017-09-17T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sunboxlabs.com/</loc>
-    <lastmod>2018-12-08T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
