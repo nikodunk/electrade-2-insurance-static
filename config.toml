@@ -1,6 +1,6 @@
 baseURL = "https://sunboxlabs.com/"
 languageCode = "en-us"
-Title = "A platform for sharing DIY solar projects & tracking prices"
+Title = "Solar Price Tracker & Platform for DIY solar"
 Subtitle = ""
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
@@ -13,7 +13,7 @@ googleAnalytics = "UA-103591436-1"
 [params]
   logo = "/sarah_spinning_sun.gif"
   title = "sunboxlabs"
-  description ="DIY solar + storage kits"
+  description ="Solar Price Tracker & Platform for DIY solar"
   #mailchimp = "you can provide a mailchimp-link here"
 
 
