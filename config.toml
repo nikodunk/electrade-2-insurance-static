@@ -33,5 +33,4 @@ googleAnalytics = "UA-103591436-1"
 [[menu.main]]
     name = "Submit Your System"
     identifier = "submit"
-    weight = 500
     url = "mailto:hello@sunboxlabs.com"
