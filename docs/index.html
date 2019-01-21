@@ -15,6 +15,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
 	<link href="/css/medium.css" rel="stylesheet">
 	<link href="/css/additional.css" rel="stylesheet">
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
@@ -84,7 +85,7 @@
             <h2 class="card-title">
                 <a class="text-dark" href="/200-apartment-solar-system/">
                     $200 Solar Self-Sufficiency – without your landlord noticing
-                    <p style="color: #00ab6b">  Parts Cost: $214</p>
+                    <p style="color: #00ab6b">  Parts Cost: $ </p>
                 </a>
             </h2>
             <h4 class="card-text">Building a solar micro-grid in my bedroom with parts from Amazon The problem Apartment renters need the landlord’s permission to install anything on their rooftops.</h4>
@@ -116,7 +117,7 @@
             <h2 class="card-title">
                 <a class="text-dark" href="/burning-man-solar/">
                     100W Burning Man Solar How-To
-                    <p style="color: #00ab6b">  Parts Cost: $214</p>
+                    <p style="color: #00ab6b">  Parts Cost: $ </p>
                 </a>
             </h2>
             <h4 class="card-text">Burning Man is a crazy desert art festival and party in northern Nevada. It takes place on federal public lands and attracts about 60,000 people each year.</h4>
@@ -180,7 +181,7 @@
             <h2 class="card-title">
                 <a class="text-dark" href="/diy-solar-for-hurricane/">
                     100W DIY Solar &#43; Storage For Hurricane Backup How-To
-                    <p style="color: #00ab6b">  Parts Cost: $214</p>
+                    <p style="color: #00ab6b">  Parts Cost: $ </p>
                 </a>
             </h2>
             <h4 class="card-text">A solar system bought and assembled off Amazon can be low-cost backup kept in the basement the rest of the year and then brought out and put together after the hurricane passes through.</h4>
@@ -303,8 +304,23 @@ Running 4 - 5 years straight powering full home office and TV, vacuum cleaning.
     
   </span>
 </div></div>
+
     
+
     
+    <script>
+      $.getJSON( "https://api.apify.com/v1/rG44NsjnfukCkKecE/crawlers/PLb9rTvadeA5S8LXC/lastExec/results?token=JSz7b4BvgwSQKAXJcufZYEeoC", function( data ) {
+        var total = 0;
+        $.each( data[0].pageFunctionResult, function( key, val ) {
+          total += parseFloat(val.price.replace('$', ''));
+        });
+        $( "<p />", {
+          "style": "display: inline;",
+          html: "<span style=''>" + Math.round(total*100)/100 + "</span>"
+        }).appendTo( "p:contains('$ ')" );
+      });
+    </script>
+
     
     <div>
         <h2>As seen on</h3>

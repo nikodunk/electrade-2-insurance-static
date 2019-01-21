@@ -3,7 +3,7 @@ layout: post
 title:  "100W DIY Solar + Storage For Hurricane Backup How-To"
 date:   2017-10-09 08:00:00 -0700
 image: "/img/money2.jpg"
-cost: "$214"
+cost: "$ "
 tags: ["solar", "emergency"]
 type: "post"
 comments: true
