@@ -213,7 +213,7 @@
             <h2 class="card-title">
                 <a class="text-dark" href="/200-solar-version-2-simplified-lithium/">
                     Simplified 100W Micro Solar &#43; Li-Ion Storage kit
-                    <p style="color: #00ab6b">  Parts Cost: $242</p>
+                    <p style="color: #00ab6b">  Parts Cost: lithiumPrice</p>
                 </a>
             </h2>
             <h4 class="card-text">The original article combining DIY deep cycle-lead acid batteries with solar to bring your room off-grid was a huge hit. Now, after 8 months living full-time with the system in my room in San Francisco – the battery finally died.</h4>
@@ -245,7 +245,7 @@
             <h2 class="card-title">
                 <a class="text-dark" href="/solar-xantrex-kit-apartment/">
                     1800W Apartment Balcony Solar &#43; Battery Microgrid that can power fridge
-                    <p style="color: #00ab6b">  Parts Cost: $2,064</p>
+                    <p style="color: #00ab6b">  Parts Cost: $2,064.57</p>
                 </a>
             </h2>
             <h4 class="card-text">As promised, some shots of my solar (self-made) installation.
@@ -314,12 +314,34 @@ Running 4 - 5 years straight powering full home office and TV, vacuum cleaning.
         $.each( data[0].pageFunctionResult, function( key, val ) {
           total += parseFloat(val.price.replace('$', ''));
         });
+        var result = $( "<p />", {
+          "style": "display: inline;",
+          html: "<span>" + Math.round(total*100)/100 + "</span>"
+        }).appendTo( "p:contains('$ ')" );
+      })
+    </script>
+
+    <script>
+        
+    </script>
+
+
+    
+    <script>
+      $.getJSON( "https://api.apify.com/v1/rG44NsjnfukCkKecE/crawlers/sfk76ivoWR69x6XiE/lastExec/results?token=x5aE4Yv8NFsv8PXg3xb7Snicn", function( data ) {
+        var total = 0;
+        $.each( data[0].pageFunctionResult, function( key, val ) {
+          total += parseFloat(val.price.replace('$', ''));
+        });
         $( "<p />", {
           "style": "display: inline;",
-          html: "<span style=''>" + Math.round(total*100)/100 + "</span>"
-        }).appendTo( "p:contains('$ ')" );
+          html: "<span>$" + Math.round(total*100)/100 + "</span>"
+        }).appendTo( "p:contains('lithiumPrice')" );
+        $("p:contains('lithiumPrice')").text( $("p:contains('lithiumPrice')").text().replace('lithiumPrice', '') );
       });
     </script>
+
+
 
     
     <div>
