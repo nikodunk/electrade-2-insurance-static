@@ -31,7 +31,7 @@ As prices come further down for Li-Po and Li-Ion systems in the next few yeras, 
 The Kit
 -------
 
-<h4 style="color: lightgreen">Parts Cost on Amazon: $246.96</h4>
+<h4 style="color: lightgreen">Parts Cost on Amazon: $213.57</h4>
 
 ### Solar Panel
 
