@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simplified 100W Micro Solar + Li-Ion Storage kit"
+title:  "Simplified 100W Micro Solar + 150Wh Li-Po Storage kit"
 date:   2018-02-15 08:00:00 -0700
 image: "/img/v2/icon_lithium.jpg"
 cost: "lithiumPrice"
@@ -141,3 +141,26 @@ Running my whole room after sundown (DC or AC up to 150 Watts)
 
 
 This has definitely increased my enjoyment of the system – it's now way more off-the-shelf and reliable. The max-capacity of 150Wh is a bit of a bummer – I wish it were a little higher. I'm waiting for larger capacities to come down in price – currently I do regularly drain the battery completely on a normal day of usage.
+
+
+
+
+### Tech Specs
+
+	Solar Panels:
+		1 x 100 watt solar panels
+		= 100W total charging power 
+
+	Battery:
+		1 x 3.7V 40.5Ah Li-Po Battery
+		= 150 Wh of storage
+		= 1.5 hours until fully charged at peak output (150Wh / 100W from panels)
+
+	Tender:
+		1 - 20' Solar Connecting Cable; 
+
+	Charge controller:
+		1 x 100W MPPT charge controller included in battery
+
+	Inverter:
+		1 x 100W inverter included in battery
