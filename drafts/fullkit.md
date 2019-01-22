@@ -98,6 +98,9 @@ amzn_assoc_linkid = "8a2af36e20a65da19e8735d27af0de10";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
+
+### Magic
+
 ![](/img/magic.gif)
 
 Note: Turn off ad-blockers to see the images above or use the links instead

@@ -80,7 +80,7 @@ amzn_assoc_linkid = "33d80f500910e3eb8d58bb0bbbeb3d67";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-### Battery + Inverter
+### Battery + Controller + Inverter
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "gridlesskits-20";
@@ -89,11 +89,16 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B076PR4TBZ";
+amzn_assoc_asins = "B07GQWGQLB";
 amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "923f8046c32e1e59ed90fe66436c691a";
+amzn_assoc_linkid = "b25dd89b725bbafab22d3e902a26f6c1";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+
+### Magic
+
+![](/img/magic.gif)
 
 Note: Turn off ad-blockers to see the images above or use the links instead
 
