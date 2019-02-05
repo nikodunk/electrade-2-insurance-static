@@ -4,7 +4,12 @@
   
   <url>
     <loc>https://sunboxlabs.com/shortest_payback/</loc>
-    <lastmod>2018-12-08T08:00:00-07:00</lastmod>
+    <lastmod>2019-02-05T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sunboxlabs.com/prepper-offgrid-home-kit/</loc>
+    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -15,11 +20,6 @@
   <url>
     <loc>https://sunboxlabs.com/200-solar-lithium-update/</loc>
     <lastmod>2018-02-15T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sunboxlabs.com/diy-solar-for-hurricane/</loc>
-    <lastmod>2017-10-09T08:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -48,13 +48,19 @@
   </url>
   
   <url>
+    <loc>https://sunboxlabs.com/tags/california/</loc>
+    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sunboxlabs.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sunboxlabs.com/tags/emergency/</loc>
-    <lastmod>2017-10-09T08:00:00-07:00</lastmod>
+    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,20 +71,38 @@
   </url>
   
   <url>
+    <loc>https://sunboxlabs.com/tags/florida/</loc>
+    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sunboxlabs.com/tags/guide/</loc>
     <lastmod>2017-09-17T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://sunboxlabs.com/tags/hurricane/</loc>
+    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sunboxlabs.com/tags/prepper/</loc>
+    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sunboxlabs.com/tags/solar/</loc>
-    <lastmod>2018-12-01T08:00:00-07:00</lastmod>
+    <lastmod>2019-02-04T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sunboxlabs.com/</loc>
-    <lastmod>2018-12-08T08:00:00-07:00</lastmod>
+    <lastmod>2019-02-05T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Draft 1200W solar + 3600Wh battery system: Shortest Possible Payback Period"
-date:   2018-12-08 08:00:00 -0700
+date:   2019-02-05 08:00:00 -0700
 image: ""
 cost: "$905.92"
 ---
