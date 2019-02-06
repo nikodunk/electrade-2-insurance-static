@@ -89,9 +89,9 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B07GQWGQLB";
+amzn_assoc_asins = "B07FXK89TR";
 amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "b25dd89b725bbafab22d3e902a26f6c1";
+amzn_assoc_linkid = "b0a714ddf5ac202be3be84c51a2f3a43";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
