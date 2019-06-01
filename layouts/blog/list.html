@@ -1,6 +1,35 @@
 
 {{ partial "header" . }}
 
-{{ .Content }}
+
+    <div class="containerBox">
+      <h1>Electrade Blog</h1>
+      <hr />
+
+      {{ $paginator := .Paginate (where .Pages "Params.hidden" "ne" true) }}
+      {{ range sort .Paginator.Pages }}
+      <article class="element">
+        <div class="subtitle tags is-6 is-pulled-right">
+          {{ if .Params.tags }}
+          {{ end }}
+        </div>
+        
+        <h1 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} ::Draft{{ end }}</h1>
+        <p class="subtitle is-6">{{ .Date.Format "January 2, 2006" }}</p>
+        <div class="content">
+          {{ .Summary | plainify | safeHTML }}
+          {{ if .Truncated }}
+          <p>
+            <a class="button is-link" href="{{ .Permalink }}" style="height:28px">
+              Read more
+            </a>
+          </p>
+          {{ end }}
+          <hr />
+        </div>
+      </article>
+      {{ end }}
+    </div>
+
 
 {{ partial "footer.html" . }}

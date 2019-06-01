@@ -8,7 +8,29 @@ input {
 
 .electrade-form{
     margin: 20px auto;
+    margin-top: 0px;
     width: 100%;
-    max-width: 400px;
     padding: 10px;
+    padding-top: 0px;
+}
+
+.element {
+    margin: 20px auto;
+    width: 100%;
+    max-width: 800px;
+    padding: 10px;
+}
+
+
+.containerBox {
+    max-width: 800px;
+    margin: 50px auto !important;
+}
+
+.containerBox img {
+    max-width: 100%;
+}
+
+.containerBox p, h1, h2 {
+    padding: 10px
 }

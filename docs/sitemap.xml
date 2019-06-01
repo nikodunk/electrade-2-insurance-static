@@ -3,15 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://electrade.app/</loc>
-  </url>
-  
-  <url>
-    <loc>https://electrade.app/blog/</loc>
-  </url>
-  
-  <url>
     <loc>https://electrade.app/blog/therain/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://electrade.app/blog/therain-copy/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://electrade.app/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -27,7 +30,21 @@
   </url>
   
   <url>
+    <loc>https://electrade.app/terms/</loc>
+  </url>
+  
+  <url>
     <loc>https://electrade.app/thanks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://electrade.app/why-electrade/</loc>
+  </url>
+  
+  <url>
+    <loc>https://electrade.app/blog/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -36,7 +53,32 @@
   </url>
   
   <url>
+    <loc>https://electrade.app/tags/go/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://electrade.app/tags/golang/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://electrade.app/tags/hugo/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://electrade.app/tags/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://electrade.app/tags/themes/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,17 +6,36 @@
     <description>Recent content on Electrade | Electric Vehicle Insurance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://electrade.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>Why EV insurance should cost less than normal insurance</title>
       <link>https://electrade.app/blog/therain/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://electrade.app/blog/therain/</guid>
-      <description>Why electric vehicles are actually cheaper to insure The rain in spain</description>
+      <description>Introduction Lorem Ipsum Est Lorem Ipsum Est Lorem Ipsum EstLorem Ipsum EstLorem Ipsum EstLorem Ipsum Est</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum Est</title>
+      <link>https://electrade.app/blog/therain-copy/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://electrade.app/blog/therain-copy/</guid>
+      <description>Introduction Lorem Ipsum Est Lorem Ipsum Est Lorem Ipsum EstLorem Ipsum EstLorem Ipsum EstLorem Ipsum Est</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://electrade.app/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://electrade.app/terms/</guid>
+      <description>TERMS OF USELast updated October 29, 2018&amp;nbsp;&amp;nbsp;&amp;nbsp;AGREEMENT TO TERMS&amp;nbsp;These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Big Set Software, LLC (&#34;</description>
     </item>
     
   </channel>

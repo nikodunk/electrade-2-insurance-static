@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on Electrade | Electric Vehicle Insurance</title>
+    <link>https://electrade.app/tags/go/</link>
+    <description>Recent content in Go on Electrade | Electric Vehicle Insurance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://electrade.app/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why EV insurance should cost less than normal insurance</title>
+      <link>https://electrade.app/blog/therain/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://electrade.app/blog/therain/</guid>
+      <description>Introduction Lorem Ipsum Est Lorem Ipsum Est Lorem Ipsum EstLorem Ipsum EstLorem Ipsum EstLorem Ipsum Est</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum Est</title>
+      <link>https://electrade.app/blog/therain-copy/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://electrade.app/blog/therain-copy/</guid>
+      <description>Introduction Lorem Ipsum Est Lorem Ipsum Est Lorem Ipsum EstLorem Ipsum EstLorem Ipsum EstLorem Ipsum Est</description>
+    </item>
+    
+  </channel>
+</rss>
