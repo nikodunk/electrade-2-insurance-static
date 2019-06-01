@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Solar Price Tracker &amp; Platform for DIY solar</title>
-    <link>https://sunboxlabs.com/quote/</link>
-    <description>Recent content on Solar Price Tracker &amp; Platform for DIY solar</description>
+    <title>Electrade | Electric Vehicle Insurance</title>
+    <link>https://electrade.app/quote/</link>
+    <description>Recent content on Electrade | Electric Vehicle Insurance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>sunboxlabs.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Big Set Software, LLC - All rights reserved</copyright>
     
-	<atom:link href="https://sunboxlabs.com/quote/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://electrade.app/quote/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

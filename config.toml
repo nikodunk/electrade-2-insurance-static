@@ -1,17 +1,7 @@
-baseURL = "https://sunboxlabs.com/"
+baseURL = "https://electrade.app"
 languageCode = "en-us"
-Title = "Solar Price Tracker & Platform for DIY solar"
-Subtitle = ""
+Title = "Electrade | Electric Vehicle Insurance"
 theme = "minimal"
 summaryLength = 25
-copyright = "sunboxlabs.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Big Set Software, LLC - All rights reserved"
 enableEmoji = true
 publishDir = "docs"
-disqusShortname = "gridlesskits"
-googleAnalytics = "UA-103591436-1"
-
-[params]
-  logo = "/sarah_spinning_sun.gif"
-  title = "sunboxlabs"
-  description ="Solar Price Tracker & Platform for DIY solar"
-  #mailchimp = "you can provide a mailchimp-link here"
