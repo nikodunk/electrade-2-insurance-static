@@ -31,6 +31,6 @@ input {
     max-width: 100%;
 }
 
-.containerBox p, h1, h2 {
+.containerBox p, .containerBox h1, .containerBox h2 {
     padding: 10px
 }
