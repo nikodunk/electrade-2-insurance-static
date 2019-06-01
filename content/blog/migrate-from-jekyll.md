@@ -1,11 +1,9 @@
 ---
-title: "Why EV insurance should cost less than normal insurance"
-subtitle: "subtitle"
-date: 2019-01-28
-tags: ["go", "golang", "hugo", "themes"]
+title: "Migrate from Jekyll"
+date: 2014-03-10
+tags: ["go", "golang", "hugo", "jekyll", "static-site-generator"]
 draft: false
 ---
-
 
 ## Move static content to `static`
 Jekyll has a rule that any directory not starting with `_` will be copied as-is to the `_site` output. Hugo keeps all static content under `static`. You should therefore move it all there.

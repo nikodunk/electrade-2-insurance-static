@@ -17,16 +17,25 @@
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://electrade.app/blog/therain/</guid>
-      <description>Introduction Lorem Ipsum Est Lorem Ipsum Est Lorem Ipsum EstLorem Ipsum EstLorem Ipsum EstLorem Ipsum Est</description>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static.</description>
     </item>
     
     <item>
-      <title>Lorem Ipsum Est</title>
-      <link>https://electrade.app/blog/therain-copy/</link>
+      <title>Creating a New Theme</title>
+      <link>https://electrade.app/blog/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://electrade.app/blog/therain-copy/</guid>
-      <description>Introduction Lorem Ipsum Est Lorem Ipsum Est Lorem Ipsum EstLorem Ipsum EstLorem Ipsum EstLorem Ipsum Est</description>
+      <guid>https://electrade.app/blog/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://electrade.app/blog/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://electrade.app/blog/goisforlovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic.</description>
     </item>
     
   </channel>
