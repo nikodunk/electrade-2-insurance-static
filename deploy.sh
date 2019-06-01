@@ -1,5 +1,7 @@
 #!/bin/bash
 
+hugo
+
 echo -e -e "\033[0;32mHello! Please enter a commit message:\033[0m"
 read commitmessage
 
