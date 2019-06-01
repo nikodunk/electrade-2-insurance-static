@@ -2,7 +2,7 @@ baseURL = "https://sunboxlabs.com/"
 languageCode = "en-us"
 Title = "Solar Price Tracker & Platform for DIY solar"
 Subtitle = ""
-theme = "mediumish-gohugo-theme"
+theme = "minimal"
 summaryLength = 25
 copyright = "sunboxlabs.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Big Set Software, LLC - All rights reserved"
 enableEmoji = true
@@ -15,22 +15,3 @@ googleAnalytics = "UA-103591436-1"
   title = "sunboxlabs"
   description ="Solar Price Tracker & Platform for DIY solar"
   #mailchimp = "you can provide a mailchimp-link here"
-
-
-## Main Menu
-[[menu.main]]
-    name = "Guides"
-    identifier = "guides"
-    weight = 200
-    url = "/"
-
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 200
-    url = "/about"
-
-[[menu.main]]
-    name = "Submit Your System"
-    identifier = "submit"
-    url = "mailto:hello@sunboxlabs.com"

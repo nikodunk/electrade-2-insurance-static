@@ -1,19 +1,12 @@
 #!/bin/bash
 
-# Build the project.
-#hugo # if using a theme, replace with 
-hugo -t mediumish-gohugo-theme
+echo -e -e "\033[0;32mHello! Please enter a commit message:\033[0m"
+read commitmessage
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 git add .
 
-# Commit changes.
-msg="rebuilding site `date`"
-if [ $# -eq 1 ]
-  then msg="$1"
-fi
-git commit -m "$msg"
+git commit -m "$commitmessage"
 
-# Push source and build repos.
 git push origin master

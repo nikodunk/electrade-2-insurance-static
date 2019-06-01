@@ -1,0 +1,61 @@
+
+{{ partial "header" . }}
+
+
+
+  <!-- Masthead -->
+
+  <div class="container">
+    <div class="row">
+      <div class="col-6 mx-auto">
+        <form 	
+            action="https://formspree.io/n.dunkel@gmail.com"
+              method="POST"
+              id="application"
+              class="electrade-form"
+              >
+          
+          <h2>GET A QUOTE</h2>
+
+          Email:<br/>
+          <input type="email" name="Email" placeholder="n.tesla@gmail.com"><br/><br/>
+
+          First Name:<br/>
+          <input type="text" name="first" placeholder="Nikola" ><br/><br/>
+
+          Last Name:<br/>
+          <input type="text" name="last" placeholder="Tesla" ><br/><br/>
+
+          Address:<br/>
+          <input type="text" name="address1" placeholder="123 Electric Avenue" ><br/><br/>
+          <input type="text" name="address2" placeholder="94117 San Francisco, California" ><br/><br/>
+
+          <hr />
+
+          <h2>YOUR CAR</h2>
+
+          Model:<br/>
+          <input type="text" name="model" placeholder="Nissan Leaf S, Tesla Model 3, etc" ><br/><br/>
+
+          Model Year:<br/>
+          <input type="text" name="address1" placeholder="2018" ><br/><br/>
+
+          <hr />
+
+          <h2>CURIOUS</h2>
+
+          Where did you find out about us?<br/>
+          <input type="text" name="why apply here?" placeholder="" ><br/><br/>
+
+          <input class="primary-button" type="submit" value="Send" id="send-application">
+          <input type="hidden" name="_next" value="https://electrade.app/thanks" />
+
+          </form>
+      </div>
+    </div>
+  </div>
+
+
+  
+
+{{ partial "footer.html" . }}
