@@ -17,3 +17,6 @@ There are fewer cars that don't have driver assist technologies – like Tesla'
 
 # Less upkeep
 Electric motors don't need to be serviced, and have no oil changes.
+
+
+These are the reasons we started Electrade. We don't think EV owners should be paying more than ICE owners. We don't think they should be paying the same. They should be paying less. 
