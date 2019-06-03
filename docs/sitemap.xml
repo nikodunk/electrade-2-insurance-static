@@ -8,31 +8,6 @@
   </url>
   
   <url>
-    <loc>https://electrade.app/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://electrade.app/privacy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://electrade.app/quote/</loc>
-  </url>
-  
-  <url>
-    <loc>https://electrade.app/terms/</loc>
-  </url>
-  
-  <url>
-    <loc>https://electrade.app/thanks/</loc>
-  </url>
-  
-  <url>
-    <loc>https://electrade.app/why-electrade/</loc>
-  </url>
-  
-  <url>
     <loc>https://electrade.app/blog/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -50,9 +25,22 @@
   </url>
   
   <url>
+    <loc>https://electrade.app/quote/</loc>
+  </url>
+  
+  <url>
+    <loc>https://electrade.app/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://electrade.app/tags/insurance/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://electrade.app/privacy/</loc>
   </url>
   
   <url>
@@ -62,9 +50,21 @@
   </url>
   
   <url>
+    <loc>https://electrade.app/terms/</loc>
+  </url>
+  
+  <url>
     <loc>https://electrade.app/tags/tesla/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://electrade.app/thanks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://electrade.app/why-electrade/</loc>
   </url>
   
 </urlset>

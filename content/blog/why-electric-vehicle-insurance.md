@@ -2,7 +2,6 @@
 title: "Why EV insurance should cost less than normal car insurance"
 date: 2019-06-01
 tags: ["EVs", "Tesla", "insurance"]
-draft: false
 ---
 
 

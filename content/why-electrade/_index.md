@@ -1,3 +1,8 @@
+---
+title: "Why Electrade"
+---
+
+
 ![](/img/old_bg-masthead.jpg)
 Image Courtesy of Rivian Inc.
 
