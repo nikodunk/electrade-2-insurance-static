@@ -4,7 +4,6 @@
 
     <div class="containerBox">
       <h1>Electric Vehicle Insurance Blog</h1>
-      <hr />
 
       {{ $paginator := .Paginate (where .Pages "Params.hidden" "ne" true) }}
       {{ range sort .Paginator.Pages }}
@@ -13,17 +12,23 @@
           {{ if .Params.tags }}
           {{ end }}
         </div>
+
+        <hr />
         
-        <h1 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} ::Draft{{ end }}</h1>
-        <p class="subtitle is-6">{{ .Date.Format "January 2, 2006" }}</p>
         <div class="content">
-          {{ .Summary | plainify | safeHTML }}
-          {{ if .Truncated }}
-          <p>
-            <a class="button is-link" href="{{ .Permalink }}" style="height:28px">
-              Read more
-            </a>
-          </p>
+          <a href="{{ .Permalink }}" style="text-decoration: none">
+            <span style="color: #777777">{{ .Date.Format "January 2, 2006" }}</span>
+            <h3 class="title" style="color:#333333">{{ .Title }} {{ if .Draft }} ::Draft{{ end }}</h3>
+            <span style="color:#444444">
+              {{ .Summary | plainify | safeHTML }}
+              {{ if .Truncated }}
+            </span>
+            <p style="display: flex; justify-content: space-between">
+              <a class="btn btn-outline-primary pull-right" href="{{ .Permalink }}" >
+                Read more >
+              </a>
+            </p>
+          </a>
           {{ end }}
           <hr />
         </div>
