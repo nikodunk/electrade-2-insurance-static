@@ -4,6 +4,7 @@
 
     <div class="containerBox">
       <h1>Electric Vehicle Insurance Blog</h1>
+      <hr />
 
       {{ $paginator := .Paginate (where .Pages "Params.hidden" "ne" true) }}
       {{ range sort .Paginator.Pages }}
@@ -11,9 +12,7 @@
         <div class="subtitle tags is-6 is-pulled-right">
           {{ if .Params.tags }}
           {{ end }}
-        </div>
-
-        <hr />
+        </div>  
         
         <div class="content">
           <a href="{{ .Permalink }}" style="text-decoration: none">
