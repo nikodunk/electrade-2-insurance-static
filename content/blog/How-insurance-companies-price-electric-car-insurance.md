@@ -1,0 +1,41 @@
+---
+title: "How insurance companies price electric car insurance"
+date: 2019-06-04
+tags: ["EVs", "Tesla", "insurance", "electric car"]
+image: "/img/blog/hyundai-kona-ev-2020.jpg"
+---
+
+
+
+![](/img/blog/hyundai-kona-ev-2020.jpg)
+Image courtesy of Hyundai
+
+We often get asked how insurance companies price electric car (or any automobile) insurance policies. They don't invent the numbers, but go down a predefined checklist. Don't forget the following items when you're looking for a good quote on your electric car insurance, and bring them along to any negotiation with an agent. 
+
+Here's the electrade checklist straight from our expert, for when you're negotiating.
+
+The main things your insurance premium for an electric car will depend on is:
+
+## What ZIP you're in
+If you're in a region with more break-ins, or an area where drivers cause more accidents (like Delaware for some reason – no joke), you will get quoted a higher premium for auto insurance.
+
+## If you're in a city, electric car insurnace going to cost more
+Mostly again due to statistically higher break-in rates and accident rates.
+
+## Whether it's a used or new electric vehicle
+The price of a new car is the value at which it is insured. The higher the price of the car, the more valuable the car, and the higher the premium. A used car on the other hand will be bought part way through it's value decreasing lifespan (aka depreciation) – so not only is the "insurable" value less which leads to lower premiums, but it can be totalled more easily than a new car.
+
+## If you bought used, the original purchase price of your car
+The original car price is mostly a sign of how much the car replacement parts will run, though there are of course exceptions to this (here's looking at you, VW). 
+
+## Other things like you're married, how educated you are, and how your car is financed
+These are more circumstantial evidence on how reliable a person you statistically will be (don't bother marrying someone to get a few dollars off – it's not worth it), but can affect your premium by a few dollars per month.
+
+## The model of EV can raise your insurance premium
+Certain brands, and models (SUV, Sedan, Crossover) are more expensive to insure. Others are way more affordable.
+
+# So action items for you are:
+
+* Shop around – the more offers the better.
+* Skew towards newer insurance companies like Metromile, Electrade.app, and other apps that take driving style into account. They are more likely to understand and have thought about how EVs will be priced differently from traditional cars.
+* Mention the safety features of your new EV.
