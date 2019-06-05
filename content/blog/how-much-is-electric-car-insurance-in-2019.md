@@ -1,7 +1,7 @@
 ---
 title: "How much is electric car insurance actually in 2019?"
 date: 2019-05-01
-tags: ["EVs", "Tesla", "insurance"]
+tags: ["EVs", "Tesla", "insurance", "2019"]
 image: "/img/blog/2020-nissan-leaf.jpg"
 ---
 
