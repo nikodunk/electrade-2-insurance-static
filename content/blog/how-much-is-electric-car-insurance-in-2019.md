@@ -15,3 +15,6 @@ We know that the truth, however: they are no more expensive to insure than norma
 
 We will go state-to-state in the following, to compare actual quotes for each state. Not all of these quotes have been negotiated by our dealer, but can give you a rough idea of quotes actual people have received in 2019 in various states. Get a [quote](https://electrade.app/quote) below to receive your personal quote that reflects your situation. As mentioned it depends on [various factors](https://electrade.app/blog/how-insurance-companies-price-electric-car-insurance/), but shouldn't cost more.
 
+
+
+TBC
