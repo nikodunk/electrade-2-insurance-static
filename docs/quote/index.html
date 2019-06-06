@@ -27,6 +27,14 @@
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
 
   
+  <script
+			  src="https://code.jquery.com/jquery-3.4.1.min.js"
+			  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+			  crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+  
+  
   <link href="https://electrade.app/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
   <link href="https://electrade.app/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
@@ -48,6 +56,7 @@
 
   <script type="text/javascript">mixpanel.track("Get a Quote");</script>
 
+  
 </head>
 
 <body>
@@ -90,9 +99,7 @@
         <h1>Get a quote</h1>
         
         <form 	
-            action="https://formspree.io/hello@electrade.app"
-              method="POST"
-              id="application"
+              id="test-form"
               class="electrade-form"
               >
 
@@ -106,13 +113,13 @@
           <input type="text" required name="Last" placeholder="Tesla" ><br/><br/>
 
           Street <br/>
-          <input type="text" required name="Address 1" placeholder="123 Electric Avenue" ><br/><br/>
+          <input type="text" required name="Address_1" placeholder="123 Electric Avenue" ><br/><br/>
 
           ZIP Code<br/>
           <input type="text" required name="ZIP" placeholder="94117" ><br/><br/>
 
           City, State<br/>
-          <input type="text" required name="Address 2" placeholder="San Francisco, California" ><br/><br/>
+          <input type="text" required name="Address_2" placeholder="San Francisco, California" ><br/><br/>
 
           <hr />
 
@@ -122,7 +129,7 @@
           <input type="text" required name="Model" placeholder="Nissan Leaf S, Tesla Model 3, etc" ><br/><br/>
 
           Model Year<br/>
-          <input type="text" required name="Model Year" placeholder="2018" ><br/><br/>
+          <input type="text" required name="Model_Year" placeholder="2018" ><br/><br/>
 
           VIN – Vehicle Identification Number<br/>
           <input type="text" required name="VIN" placeholder="ie. 5YJSA1E13GF133859" ><br/><br/>
@@ -135,17 +142,50 @@
           <h2>Curious</h2>
 
           Where did you find out about us?<br/>
-          <input type="text" name="Where did you hear about us?" placeholder="" ><br/><br/>
+          <input type="text" name="Where_did_you_hear_about_us" placeholder="" ><br/><br/>
 
-          <input class="btn btn-block btn-lg btn-primary" type="submit" value="Send" id="send-application">
-          <input type="hidden" name="_next" value="https://electrade.app/thanks" />
+          <input class="btn btn-block btn-lg btn-primary" type="submit" value="Send" id="submit-form">
+          
 
           </form>
 
 
   </div>
 
+  <script>
 
+      var $form = $('form#test-form'),
+      url = 'https://script.google.com/macros/s/AKfycbxFpyxiJoyxr74CiMmR_wscbXtE7nK_h2KmceG5yF3bs8BgWMYB/exec'
+
+      $.fn.serializeObject = function()
+      {
+        var o = {};
+        var a = this.serializeArray();
+        $.each(a, function() {
+            if (o[this.name]) {
+                if (!o[this.name].push) {
+                    o[this.name] = [o[this.name]];
+                }
+                o[this.name].push(this.value || '');
+            } else {
+                o[this.name] = this.value || '';
+            }
+        });
+        return o;
+      };
+      
+      $('#submit-form').on('click', function(e) {
+        e.preventDefault();
+        var jqxhr = $.ajax({
+          url: url,
+          method: "GET",
+          dataType: "json",
+          data: $form.serializeObject(),
+          success: function(result){ window.location='https://electrade.app/thanks' }
+        })
+      })
+
+  </script>
   
 
 
@@ -199,9 +239,6 @@
     </div>
   </footer>
 
-  
-  <script src="https://electrade.app/vendor/jquery/jquery.min.js"></script>
-  <script src="https://electrade.app/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 </body>
 
