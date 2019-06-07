@@ -15,12 +15,10 @@ We know that the truth, however: they are no more expensive to insure than norma
 We will go state-to-state in the following, to compare actual quotes for each state. Not all of these quotes have been negotiated by our dealer, but can give you a rough idea of quotes actual people have received in 2019 in various states. Get a [quote](https://electrade.app/quote) below to receive your personal quote that reflects your situation. As mentioned it depends on [various factors](https://electrade.app/blog/how-insurance-companies-price-electric-car-insurance/), but shouldn't cost more.
 
 
-Below will be updated with live quotes from people in various states soon –
+Below are real quotes from around the country, and it'll be updated with live quotes from people in various states as we get them –
 
-
-Upstate NY, NY      | Model 3 LR AWD     | $364/ 6 months. Collision and comprehensive @$250 deductible w/ full glass, liability @250/500k.
---------------------|--------------------|---------
-NYC, NY             | Model 3 LR AWD | $1100/ 6 months. Collision and comprehensive @$250 deductible w/ full glass, liability @250/500k.
---------------------|--------------------|---------
-LA, California      | Model 3 LR AWD     | $580/ 6 months. Collision and comprehensive @$800 deductible w/ full glass, liability @400/500k.
---------------------|--------------------|---------
+| Location       | Model          | Cost                                                                                              |
+|----------------|----------------|---------------------------------------------------------------------------------------------------|
+| Upstate NY, NY | Model 3 LR AWD | $364/ 6 months. Collision and comprehensive @$250 deductible w/ full glass, liability @250/500k.  |
+| NYC, NY        | Model 3 LR AWD | $1100/ 6 months. Collision and comprehensive @$250 deductible w/ full glass, liability @250/500k. |
+| LA, California | Model 3 LR AWD | $580/ 6 months. Collision and comprehensive @$800 deductible w/ full glass, liability @400/500k.  |
