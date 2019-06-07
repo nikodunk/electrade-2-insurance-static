@@ -17,7 +17,7 @@ We will go state-to-state in the following, to compare actual quotes for each st
 
 Below are real quotes from around the country, and it'll be updated with live quotes from people in various states as we get them –
 
-| Location       | Model          | Cost                                                                                                 |
+| Location       | Model          | Cost             |  More info                                                                        |
 |----------------|----------------|------------------|-----------------------------------------------------------------------------------|
 | Upstate NY, NY | Model 3 LR AWD | $364/ 6 months.  |  Collision and comprehensive @$250 deductible w/ full glass, liability @250/500k. |
 | NYC, NY        | Model 3 LR AWD | $1100/ 6 months. |  Collision and comprehensive @$250 deductible w/ full glass, liability @250/500k. |
