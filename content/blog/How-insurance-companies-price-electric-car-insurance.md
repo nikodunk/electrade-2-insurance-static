@@ -16,7 +16,7 @@ Here's the electrade checklist straight from our expert, for when you're negotia
 
 The main things your insurance premium for an electric car will depend on is:
 
-### What ZIP you're in
+### Which ZIP you're in
 If you're in a region with more break-ins, or an area where drivers are in more accidents (the state of Delaware for some reason – no joke, look it up), you will get quoted a higher premium for auto insurance.
 
 ### If you're in a city, electric car insurance is going to cost more
