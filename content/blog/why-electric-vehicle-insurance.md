@@ -30,7 +30,6 @@ As the cars have fewer moving parts and are generally mechanically less complex 
 ### More insurable drivers
 EV drivers tend to have better credit scores and be safer drivers than your average driver. This is most likely due to the early adopter being car-savvy than your average driver and will this advantage will diminish in time. But for now – profit.
 
-
 These are the reasons we started Electrade. We don't think EV owners should be paying more than ICE owners. We don't think they should be paying the same. They should be paying less.
 
 ## Next Steps
