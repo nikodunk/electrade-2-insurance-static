@@ -29,7 +29,6 @@
           <input type="text" required name="Address_2" placeholder="San Francisco" ><br/><br/>
 
           State<br/>
-
           <select name="State">
             <option value="AL">Alabama</option>
             <option value="AK">Alaska</option>
@@ -115,10 +114,11 @@
 
   </div>
 
+
   <script>
 
-      var $form = $('form#test-form'),
-      url = 'https://script.google.com/macros/s/AKfycbxFpyxiJoyxr74CiMmR_wscbXtE7nK_h2KmceG5yF3bs8BgWMYB/exec'
+      var $form = $('form#test-form')
+      var url = 'https://script.google.com/macros/s/AKfycbxFpyxiJoyxr74CiMmR_wscbXtE7nK_h2KmceG5yF3bs8BgWMYB/exec'
 
       $.fn.serializeObject = function()
       {
@@ -137,18 +137,37 @@
         return o;
       };
       
-      $('#submit-form').on('click', function(e) {
-        e.preventDefault();
-        var jqxhr = $.ajax({
-          url: url,
-          method: "GET",
-          dataType: "json",
-          data: $form.serializeObject(),
-          success: function(result){ window.location='https://electrade.app/thanks' }
-        })
-      })
+    
 
+      // Example starter JavaScript for disabling form submissions if there are invalid fields
+      (function() {
+        'use strict';
+        window.addEventListener('load', function() {
+          // Loop over them and prevent submission
+          var validation = Array.prototype.filter.call($form, function(form) {
+            form.addEventListener('submit', function(event) {
+              if (form.checkValidity() === false) {
+                event.preventDefault();
+                event.stopPropagation();
+              }
+              else{
+                  event.preventDefault();
+                  var jqxhr = $.ajax({
+                    url: url,
+                    method: "GET",
+                    dataType: "json",
+                    data: $form.serializeObject(),
+                    success: function(result){ window.location='https://electrade.app/thanks' }
+                  })
+              }
+              form.classList.add('was-validated');
+            }, false);
+          });
+        }, false);
+      })();
   </script>
-  
+
+
+
 
 {{ partial "footer.html" . }}
