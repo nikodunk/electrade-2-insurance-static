@@ -1,5 +1,5 @@
 ---
-title: "A list of the best Electric Auto Insurance Companies for 2019"
+title: "A list of the Best Electric Auto Insurance Companies for 2019"
 date: 2019-06-07
 tags: ["EVs", "Tesla", "insurance", "California"]
 image: "/img/blog/tesla-model-3-insurance.jpg"
@@ -28,6 +28,7 @@ Below, we've compiled a list of auto insurance companies to get a quote from if 
 * [AAA](https://aaa.com)
     * Note: Has the reputation of giving terrible deals on electric car insurance.
     * Sample quote for 2018 Tesla Model S in Florida: $2,944/year through Travelers
+    * Separate from the [EV roadside assistance service](https://www.plugincars.com/aaa-introduces-roadside-emergency-charging-electric-cars-107663.html) [that AAA has](https://electrek.co/2016/09/06/aaa-ev-emergency-charging-truck/). We are talking about EV insurance here, not roadside assistance.
 * [Costco Ameriprise](https://www.costco.com/auto-home-insurance-services.html) (Costco Members Only)
     * Sample quote for 2018 Tesla Model S in Florida: $1,200/ 6 months
     * Costco members only – sign up at Costco.com for an additional $60 a year.
@@ -35,9 +36,9 @@ Below, we've compiled a list of auto insurance companies to get a quote from if 
     * Sample quote for 2018 Tesla Model S in Florida: $380/month
 * [Amica (Allstate)](https://amica.com)
     * Sample quote: $3500/ 12 months
+    * Reportedly amazing claims department. Our sample quotes were pricey.
 * [Geico](https://geico.com)
     * Sample quote for 2018 Tesla Model S in Florida: 358/month
-    * Note (No Gap insurance)
 * [Farmers](https://farmers.com)
     * No sample quote yet.
 * [Nationwide](https://www.nationwide.com/)
