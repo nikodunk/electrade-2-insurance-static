@@ -1,7 +1,34 @@
 baseURL = "https://electrade.app"
 languageCode = "en-us"
 Title = "Electrade | Electric Vehicle Insurance"
+title = "Electrade | Electric Vehicle Insurance"
 theme = "minimal"
 summaryLength = 25
 enableEmoji = true
 publishDir = "docs"
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+
+
+[author]
+  name = "Electrade EV Insurance Specialist Technology Inc"
+
+[params]
+  description = "Get Better, Cheaper Electric Car, Vehicle & EV Auto Insurance from the Specialists"
+
+  [params.publisher]
+    name = "Big Set Software, LLC"
+
+    [params.publisher.logo]
+      url = "/img/electrade-icon.png"
+      width = 127
+      height = 40
+
+  [params.logo]
+    url = "/img/logo.png"
+    width = 200
+    height = 200
+
+  [params.image]
+    url = "/img/bg-masthead.jpg"
+    width = 1360
+    height = 751
