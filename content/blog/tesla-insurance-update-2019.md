@@ -1,5 +1,5 @@
 ---
-title: "Tesla Insurance 2019 Update"
+title: "Tesla Insurance 2019 Update from Shareholder Meeting"
 date: 2019-06-11
 tags: ["EVs", "Tesla", "insurance"]
 image: "/img/blog/tesla-insurance-2019.jpg"
