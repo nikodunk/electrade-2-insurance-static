@@ -1,5 +1,5 @@
 ---
-title: "A list of the best Electric Car Insurance Companies for 2019"
+title: "A list of the best Electric Auto Insurance Companies for 2019"
 date: 2019-06-07
 tags: ["EVs", "Tesla", "insurance", "California"]
 image: "/img/blog/tesla-model-3-insurance.jpg"
