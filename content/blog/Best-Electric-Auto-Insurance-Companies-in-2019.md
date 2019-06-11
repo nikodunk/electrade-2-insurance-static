@@ -35,7 +35,7 @@ Below, we've compiled a list of auto insurance companies to get a quote from if 
 * [Liberty Mutual](https://libertymutual.com)
     * Sample quote for 2018 Tesla Model S in Florida: $380/month
 * [Amica (Allstate)](https://amica.com)
-    * Sample quote: $3500/ 12 months
+    * Sample quote for 2018 Tesla Model S in Florida: $3,500/ 12 months
     * Reportedly amazing claims department. Our sample quotes were pricey.
 * [Geico](https://geico.com)
     * Sample quote for 2018 Tesla Model S in Florida: 358/month
