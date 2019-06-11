@@ -20,12 +20,12 @@
             <a href="{{ .Permalink }}" style="text-decoration: none; color: white">
               <img src="{{ .Params.image }}" class="blogImage" />
               <div class="blogTitle">
-                <h3 class="title" style="">{{ .Title }} {{ if .Draft }} ::Draft{{ end }}</h3>
-                <span style="">{{ .Date.Format "January 2, 2006" }}</span>
+                <h3 class="title" >{{ .Title }} {{ if .Draft }} ::Draft{{ end }}</h3>
+                <span >{{ .Date.Format "January 2, 2006" }}</span>
               </div>
             </a>
           </div>
-          <span style="">
+          <span >
               {{ .Summary | plainify | safeHTML }}
               {{ if .Truncated }}
           </span>
