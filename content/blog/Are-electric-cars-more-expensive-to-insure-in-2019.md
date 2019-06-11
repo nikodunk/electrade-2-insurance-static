@@ -1,7 +1,7 @@
 ---
 title: "Are electric cars more expensive to insure in 2019?"
 date: 2019-06-09
-tags: ["EVs", "Tesla", "insurance"]
+tags: ["EVs", "Tesla", "insurance", "California"]
 image: "/img/blog/tesla-model-s-2019-insurance.jpg"
 ---
 
@@ -15,7 +15,7 @@ The partially higher quotes is because they are still a "new" phenomenon for mai
 
 This is why we started electrade – to break down this barrier to entry for electric car adoption even further. More [here](https://electrade.app/why-electrade). We make it easier to find cheaper insurance for your electric car with our by being the first EV-only insurance service. If you want to shop around on your own however, please find below our top 3 pieces of advice we've learned in the field.
 
-You shouldn't be paying more. You should be paying the same, or less in 2019.
+You shouldn't be paying more. You should be paying the same – or less – in 2019.
 
 ## Our top 3 tips are for finding low rates are:
 
@@ -25,7 +25,7 @@ You shouldn't be paying more. You should be paying the same, or less in 2019.
 Not everyone knows electric vehicles yet. Know the benefits of insuring an electric vehicle, like better driver-assist features, lower center of gravity, better handling in bad conditions, so far demographically safer drivers, and many other upsides. [Read more here](https://electrade.app/blog/why-electric-vehicle-insurance/).
 
 ##### 2. Shop around until you find a great quote. 
-Try every single company and don't stop until you have a satisfactory quote. Go down the list of all top US insurers, and contact us if one is missing. All you need is one good quote, and a little busywork can save you large amounts of money in the long-run. Also, re-negotiate your deal every time your auto insurance policy runs out. [More here](https://electrade.app/blog/Best-Electric-Car-Insurance-Companies-in-2019). Alternatively, we can do this for you – see below.
+Try every single company and don't stop until you have a satisfactory quote. Go down the list of all top US insurers, and contact us if one is missing. All you need is one good quote, and a little busywork can save you large amounts of money in the long run. Also, re-negotiate your deal every time your auto insurance policy runs out. [More here](https://electrade.app/blog/Best-Electric-Car-Insurance-Companies-in-2019). Alternatively, we can do this part for you – see below.
 
 ##### 3. Know what makes up your quote. 
 The agent you get on the line, the state you are in, and the company will all vary, even for the same driver, vehicle, history etc. But these common factors all have an influence. [Read more on how companies build your quote.](https://electrade.app/blog/how-insurance-companies-price-electric-car-insurance/)
