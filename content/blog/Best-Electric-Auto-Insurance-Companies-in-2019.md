@@ -10,13 +10,13 @@ Whether you're in California, Massachusetts, Washington, Colorado, Rhode Island 
 
 For our readers, we've below established a list of the best auto insurance companies to get quotes from in 2018 and 2019, along with some sample quotes EV owners have gotten. For comparability's sake, we've tried to get quotes with the following coverages:
 
-* Bodily Injury - 100,000 / 300,000
-* Property Damage - 100,000
-* Medical Payments - 1,000
-* Uninsured/Underinsured Motorist Bodily Injury - 100,000 / 300,000
+* Bodily Injury - $100,000 / $300,000
+* Property Damage - $100,000
+* Medical Payments - $1,000
+* Uninsured/Underinsured Motorist Bodily Injury - $100,000 / $300,000
 * Deductibles:
-    * Comprehensive - 500
-    * Collision - 500
+    * Comprehensive - $500
+    * Collision - $500
     * Underinsured Motorist - Yes
 
 Below, we've compiled a list of auto insurance companies to get a quote from if you're shopping around for electric car insurance, for your convenience. Alternatively, you can let us get a quote for your electric vehicle with our specialized agents at Electrade's [Get a Quote](https://electrade.app/quote)
