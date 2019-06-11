@@ -2,12 +2,12 @@
 title: "How insurance companies price electric car insurance"
 date: 2019-06-04
 tags: ["EVs", "Tesla", "insurance", "electric car"]
-image: "/img/blog/hyundai-kona-ev-2020.jpg"
+image: "/img/blog/hyundai-kona-ev-2020-insurance.jpg"
 ---
 
 
 
-![](/img/blog/hyundai-kona-ev-2020.jpg)
+![](/img/blog/hyundai-kona-ev-2020-insurance.jpg)
 Image courtesy of Hyundai
 
 We often get asked how insurance companies price electric car (or any automobile) insurance policies. They don't invent the numbers, but go down a predefined checklist. Don't forget the following items when you're looking for a good quote on your electric car insurance, and bring these points along to any negotiation with an agent. 

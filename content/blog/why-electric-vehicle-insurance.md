@@ -2,10 +2,10 @@
 title: "Why EV insurance should cost less than normal car insurance"
 date: 2019-06-01
 tags: ["EVs", "Tesla", "insurance"]
-image: "/img/blog/mercedes-ecq.jpg"
+image: "/img/blog/mercedes-ecq-insurance.jpg"
 ---
 
-![](/img/blog/mercedes-ecq.jpg)
+![](/img/blog/mercedes-ecq-insurance.jpg)
 Image Courtesy of Mercedes Benz
 
 Your average electric car will have more advanced safety features than your average gas powered car and is therefore cheaper to insure. Nevertheless, if you're not careful your insurance premium could actually be higher than for a comparable combustion car. We avoid this by making sure insurers understand the benefits of insuring an EV: Usually this means they come equipped with high tech collision avoidance systems, autopilot/super cruise, tracking devices in case of theft, and other safety features like large crumple zones which results in lower bills to the insurer in case of a serious crash.
