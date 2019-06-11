@@ -50,7 +50,7 @@ Below, we've compiled a list of auto insurance companies to get a quote from if 
 * [AllState](https://www.allstate.com/)
     * No sample quote yet.
 * [Electrade](https://electrade.app)
-    * Alternatively, Electrade's agents can shop around your EV in your state for all of the above and more – click below to get a quote.
+    * Alternatively, Electrade's agents can shop around your EV in your state for all of the above and more – click [here](https://electrade.app/quote) to get a quote or read more about us [here](https://electrade.app/why-electrade) and on [Reddit here](https://www.reddit.com/r/electricvehicles/comments/bx2la3/electrade_better_cheaper_electric_vehicle/).
 
 
 If you know any companies that are missing or have suggestions on how to improve it, please send them to [hello@electrade.app](mailto:hello@electrade.app). 
