@@ -19,8 +19,7 @@ Elon Musk's full quote below transcribed for your convenience.
 
 We can't wait for the competition, and are thankful for everything Tesla has done for the electrification of society! 😁
 
-Thanks for being part of the electric vehicle revolution ⚡️, and if Tesla Insurance is taking too long for you – consider getting a quote from electrade by tapping the button below.
-
-
 The full shareholder meeting is linked below:
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Va5i42D13cI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Thanks for being part of the electric vehicle revolution ⚡️, and if Tesla Insurance is taking too long for you – consider getting a quote from electrade by tapping the button below. 👇
