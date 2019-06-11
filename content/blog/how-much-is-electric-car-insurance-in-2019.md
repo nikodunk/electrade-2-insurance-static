@@ -5,9 +5,6 @@ tags: ["EVs", "Tesla", "insurance", "2019"]
 image: "/img/blog/2020-nissan-leaf-insurance.jpg"
 ---
 
-![](/img/blog/2020-nissan-leaf-insurance.jpg)
-Image Courtesy of Nissan
-
 There is a lot of disinformation out there that electric cars are more expensive than ICE vehicles to insure. A lot of this FUD (fear, uncertainty and doubt) is most likely spread by comapanies wanting electric cars to fail.
 
 We know that the truth, however: they are no more expensive to insure than normal cars, SUVs and vehicles in 2019.

@@ -5,16 +5,16 @@ tags: ["EVs", "Tesla", "insurance"]
 image: "/img/blog/tesla-model-s-2019-insurance.jpg"
 ---
 
-![](/img/blog/tesla-model-s-2019-insurance.jpg)
-Image Courtesy of Teslarati.com
 
-In a word – no. In 2019 they cost the same or less to insure. 
+##### In a word – no. In 2019 they cost the same or less to insure. 
 
 But many freshly-minted or experienced EV owners are getting quotes that are way higher than for similarly-valued ICE cars. This is because they are still a "new" phenomenon for mainstream insurers and many agents at insurance companies don't know how to properly value them, yet. 
 
 This is why we started electrade – to break down this barrier to entry for electric car adoption even further. We make it easier to find cheaper insurance for your electric car with our by being the first EV-only insurance service. If you want to shop around on your own however, here are top 3 pieces of advice we've learned in the field:
 
-You shouldn't be paying more. You should be paying the same, or less. Our top 3 tips are:
+You shouldn't be paying more. You should be paying the same, or less. 
+
+## Our top 3 tips are for finding low rates are:
 
 ------
 

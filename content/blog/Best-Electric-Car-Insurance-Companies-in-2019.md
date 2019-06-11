@@ -5,8 +5,6 @@ tags: ["EVs", "Tesla", "insurance", "California"]
 image: "/img/blog/tesla-model-3-insurance.jpg"
 ---
 
-![](/img/blog/tesla-model-3-insurance.jpg)
-Image Courtesy of Teslarati.com
 
 Whether you're in California, Massachusetts, Washington, Colorado, Rhode Island or New York – you've surely heard about how electric vehicle insurance can cost more. Luckily, it can also cost less if you play your cards right and explain to your agent the benefits of insuring an electric car. 
 

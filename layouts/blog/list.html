@@ -15,20 +15,24 @@
         </div>  
         
         <div class="content">
-          <a href="{{ .Permalink }}" style="text-decoration: none">
-            <img src="{{ .Params.image }}" />
-            <span style="color: #777777">{{ .Date.Format "January 2, 2006" }}</span>
-            <h3 class="title" style="color:#333333">{{ .Title }} {{ if .Draft }} ::Draft{{ end }}</h3>
-            <span style="color:#444444">
+          <div class="blogBox">
+            <a href="{{ .Permalink }}" style="text-decoration: none; color: white">
+              <img src="{{ .Params.image }}" class="blogImage" />
+              <div class="blogTitle">
+                <h3 class="title" style="">{{ .Title }} {{ if .Draft }} ::Draft{{ end }}</h3>
+                <span style="">{{ .Date.Format "January 2, 2006" }}</span>
+              </div>
+            </a>
+          </div>
+          <span style="">
               {{ .Summary | plainify | safeHTML }}
               {{ if .Truncated }}
-            </span>
-            <p style="display: flex; justify-content: space-between">
-              <a class="btn btn-outline-primary pull-right" href="{{ .Permalink }}" >
-                Read more >
-              </a>
-            </p>
-          </a>
+          </span>
+          <p style="display: flex; justify-content: flex-end">
+            <a class="btn btn-outline-primary pull-right" href="{{ .Permalink }}" >
+              Read more >
+            </a>
+          </p>
           {{ end }}
           <hr />
         </div>
