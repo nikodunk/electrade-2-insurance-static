@@ -5,7 +5,7 @@ tags: ["EVs", "Tesla", "insurance"]
 image: "/img/blog/tesla-commercial-ads.png"
 ---
 
-### Why are we re-thinking this now?
+### Why the shareholder meeting brought ads to the center again
 
 At the shareholder meeting yesterday 3+ shareholders mentioned the amount of disinformation around on the web regarding Tesla, and how maybe it was time to re-think the company's "We don't make ads – happy customers are the best marketing" stance. He even seemed convinced (see the second-last comment question below and especially how Elon seemed convinced). 
 
