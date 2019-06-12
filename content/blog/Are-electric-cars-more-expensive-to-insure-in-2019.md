@@ -52,11 +52,18 @@ Try every single company and don't stop until you have a satisfactory quote. Go 
 [Find more including demo quotes list here](https://electrade.app/blog/best-electric-auto-insurance-companies-in-2019/).
 
 ##### 3. Know what makes up your quote. 
-The agent you get on the line, the state you are in, and the company will all vary, even for the same driver, vehicle, history etc. But these common factors all have an influence. [Read more on how companies build your quote.](https://electrade.app/blog/how-insurance-companies-price-electric-car-insurance/)
+The agent you get on the line, the state you are in, and the company will all vary, even for the same driver, vehicle, history etc. But these common factors all have an influence. 
+* Which ZIP you're in
+* If you're in a city, electric car insurance is going to cost more
+* Whether it's a used or new electric vehicle
+* If you bought used, the original purchase price of your car
+* Other things like whether you're married, have a degree, and how your car is financed
+* Your EV model
+* [Read more on how companies build your quote.](https://electrade.app/blog/how-insurance-companies-price-electric-car-insurance/)
 
 ----
 
-##### Alternatively, we can [get a quote](https://electrade.app/quote) for you
+##### Alternatively, we can [do all this for you](https://electrade.app/quote) 
 Implementing the 3 steps above, our agents and technology can shop around all insurance companies available in your area so we can get a better quote for you.
 
 Thank you for reading, and thank you for supporting the electification of transport. ⚡️

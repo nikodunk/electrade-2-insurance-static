@@ -33,5 +33,5 @@ Certain brands, and models (SUV, Sedan, Crossover) are more expensive to insure.
 ## So action items for you are:
 
 * Shop around – the more offers the better.
-* Skew towards newer insurance companies like Metromile, Electrade.app, and other apps that take driving style into account. They are more likely to understand and have thought about how EVs will be priced differently from traditional cars.
+* Skew towards newer insurance companies like [Metromile](https://metromile.com), [Electrade](https://electrade.app), and other apps that take driving style into account. They are more likely to understand and have thought about how EVs will be priced differently from traditional cars.
 * Mention the [safety features](https://electrade.app/blog/why-electric-vehicle-insurance/) of your new EV to the insurers when getting a quote.
