@@ -30,7 +30,8 @@ Not everyone knows electric vehicles yet. Know the benefits of insuring an elect
 * Easier to track in case of theft
 * Less likely to be totalled
 * More insurable drivers
-* [Read full list and explanations here](https://electrade.app/blog/why-electric-vehicle-insurance/).
+
+[Read full list and explanations here](https://electrade.app/blog/why-electric-vehicle-insurance/).
 
 ##### 2. Shop around until you find a great quote. 
 Try every single company and don't stop until you have a satisfactory quote. Go down the list of all top US insurers in the article linked below, and contact us if one is missing.  All you need is one good quote, and a little busywork can save you large amounts of money in the long run. Also, re-negotiate your deal every time your auto insurance policy runs out. Alternatively, we can do this part for you – see below.
@@ -48,7 +49,6 @@ Try every single company and don't stop until you have a satisfactory quote. Go 
 * [Travelers](https://travelers.com)
 * [AllState](https://www.allstate.com/)
 * [Electrade](https://electrade.app)
-* [Find more including demo quotes list here](https://electrade.app/blog/best-electric-auto-insurance-companies-in-2019/).
 
 [Find more including demo quotes list here](https://electrade.app/blog/best-electric-auto-insurance-companies-in-2019/).
 
@@ -61,7 +61,8 @@ The agent you get on the line, the state you are in, and the company will all va
 * If you bought used, the original purchase price of your car
 * Other things like whether you're married, have a degree, and how your car is financed
 * Your EV model
-* [Read more on how companies build your quote.](https://electrade.app/blog/how-insurance-companies-price-electric-car-insurance/)
+
+[Read more on how companies build your quote.](https://electrade.app/blog/how-insurance-companies-price-electric-car-insurance/)
 
 ----
 
