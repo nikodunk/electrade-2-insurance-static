@@ -22,10 +22,34 @@ You shouldn't be paying more. You should be paying the same – or less – in 
 ------
 
 ##### 1. Make sure the agents know what they're doing.
-Not everyone knows electric vehicles yet. Know the benefits of insuring an electric vehicle, like better driver-assist features, lower center of gravity, better handling in bad conditions, so far demographically safer drivers, and many other upsides. [Read more here](https://electrade.app/blog/why-electric-vehicle-insurance/).
+Not everyone knows electric vehicles yet. Know the benefits of insuring an electric vehicle, like better driver-assist features, lower center of gravity, better handling in bad conditions, so far demographically safer drivers, and many other upsides. Factors include:
+
+* Less likely to be in a crash
+* Safer in a crash
+* Less likely to be in a crash #2
+* Easier to track in case of theft
+* Less likely to be totalled
+* More insurable drivers
+* [Read full list and explanations here](https://electrade.app/blog/why-electric-vehicle-insurance/).
 
 ##### 2. Shop around until you find a great quote. 
-Try every single company and don't stop until you have a satisfactory quote. Go down the list of all top US insurers, and contact us if one is missing. [Find a complete list here](https://electrade.app/blog/best-electric-auto-insurance-companies-in-2019/). All you need is one good quote, and a little busywork can save you large amounts of money in the long run. Also, re-negotiate your deal every time your auto insurance policy runs out. Alternatively, we can do this part for you – see below.
+Try every single company and don't stop until you have a satisfactory quote. Go down the list of all top US insurers in the article linked below, and contact us if one is missing.  All you need is one good quote, and a little busywork can save you large amounts of money in the long run. Also, re-negotiate your deal every time your auto insurance policy runs out. Alternatively, we can do this part for you – see below.
+* [State Farm](https://statefarm.com)
+* [Progressive](https://progressive.com)
+* [AAA](https://aaa.com)
+* [Costco Ameriprise](https://www.costco.com/auto-home-insurance-services.html) (Costco Members Only)
+* [Liberty Mutual](https://libertymutual.com)
+* [Amica (Allstate)](https://amica.com)
+* [Geico](https://geico.com)
+* [Farmers](https://farmers.com)
+* [Nationwide](https://www.nationwide.com/)
+* [USAA](https://usaa.com) (Military Families only)
+* [Travelers](https://travelers.com)
+* [AllState](https://www.allstate.com/)
+* [Electrade](https://electrade.app)
+* [Find more including demo quotes list here](https://electrade.app/blog/best-electric-auto-insurance-companies-in-2019/).
+
+[Find more including demo quotes list here](https://electrade.app/blog/best-electric-auto-insurance-companies-in-2019/).
 
 ##### 3. Know what makes up your quote. 
 The agent you get on the line, the state you are in, and the company will all vary, even for the same driver, vehicle, history etc. But these common factors all have an influence. [Read more on how companies build your quote.](https://electrade.app/blog/how-insurance-companies-price-electric-car-insurance/)
