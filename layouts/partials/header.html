@@ -11,7 +11,11 @@
   <!--  Essential META Tags -->
   <meta property="og:title" content="{{ .Params.title }} | Electrade - Better, Cheaper EV Insurance.">
   <meta property="og:description" content="Better, Cheaper Electric Vehicle Insurance.">
-  <meta property="og:image" content="https://electrade.app/img/bg-masthead.jpg">
+  {{ if .Params.image -}}
+    <meta property="og:image" content="{{ .Params.image }}"> 
+  {{ else }}
+    <meta property="og:image" content="https://electrade.app/img/bg-masthead.jpg"> 
+  {{- end }}
   <meta property="og:url" content="https://electrade.app/">
   <meta name="twitter:card" content="summary_large_image">
 
