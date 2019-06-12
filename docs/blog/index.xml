@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://electrade.app/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Best Tesla Commercials and Ads so far</title>
+      <link>https://electrade.app/blog/best-tesla-commercials-so-far/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://electrade.app/blog/best-tesla-commercials-so-far/</guid>
+      <description>Why are we re-thinking this now? At the shareholder meeting yesterday 3+ shareholders mentioned the amount of disinformation around on the web regarding Tesla, and how maybe it was time to re-think the company&amp;rsquo;s &amp;ldquo;We don&amp;rsquo;t make ads – happy customers are the best marketing&amp;rdquo; stance.</description>
+    </item>
     
     <item>
       <title>Tesla Insurance 2019 Update from Shareholder Meeting</title>
@@ -64,15 +73,6 @@
       
       <guid>https://electrade.app/blog/how-much-is-electric-car-insurance-in-2019/</guid>
       <description>There is a lot of disinformation out there that electric cars are more expensive than ICE vehicles to insure. A lot of this FUD (fear, uncertainty and doubt) is most likely spread by comapanies wanting electric cars to fail.</description>
-    </item>
-    
-    <item>
-      <title>Best Tesla Commercials and Ads so far</title>
-      <link>https://electrade.app/blog/best-tesla-commercials-so-far/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://electrade.app/blog/best-tesla-commercials-so-far/</guid>
-      <description>Why are we re-thinking this now? At the shareholder meeting yesterday 3+ shareholders mentioned the amount of disinformation around on the web regarding Tesla, and how maybe it was time to re-think the company&amp;rsquo;s &amp;ldquo;We don&amp;rsquo;t make ads – happy customers are the best marketing&amp;rdquo; stance.</description>
     </item>
     
   </channel>

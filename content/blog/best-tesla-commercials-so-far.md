@@ -1,6 +1,6 @@
 ---
 title: "Best Tesla Commercials and Ads so far"
-date: 2019-03-01
+date: 2019-06-12
 tags: ["EVs", "Tesla", "insurance"]
 image: "/img/blog/mercedes-ecq.jpg"
 ---
