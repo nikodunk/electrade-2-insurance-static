@@ -1,0 +1,27 @@
+{{ partial "header" . }}
+
+
+
+  <section class="containerBox">
+
+    <div class="content">
+        <div class="blogBox">
+          <img src="{{ .Params.image }}" class="blogImage" />
+          <div class="blogTitle">
+            <h3 style="color: white">{{ .Title }}</h3>
+          </div>
+        </div>
+
+        <p>{{ .Date.Format "January 2, 2006" }} </p>
+
+        <article id="content">
+          <h1>{{ .Title }}</h1>
+          {{ .Content }}
+        </article>
+
+  </section>
+
+
+{{ partial "quotebutton.html" . }}
+
+{{ partial "footer" . }}
