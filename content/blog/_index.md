@@ -1,3 +1,3 @@
 ---
-title: "Electric Auto Insurance Blog"
+title: "Electrade's EV Insurance Blog"
 ---
