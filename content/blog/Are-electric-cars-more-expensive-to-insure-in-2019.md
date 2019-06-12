@@ -34,6 +34,7 @@ Not everyone knows electric vehicles yet. Know the benefits of insuring an elect
 
 ##### 2. Shop around until you find a great quote. 
 Try every single company and don't stop until you have a satisfactory quote. Go down the list of all top US insurers in the article linked below, and contact us if one is missing.  All you need is one good quote, and a little busywork can save you large amounts of money in the long run. Also, re-negotiate your deal every time your auto insurance policy runs out. Alternatively, we can do this part for you – see below.
+
 * [State Farm](https://statefarm.com)
 * [Progressive](https://progressive.com)
 * [AAA](https://aaa.com)
@@ -53,6 +54,7 @@ Try every single company and don't stop until you have a satisfactory quote. Go 
 
 ##### 3. Know what makes up your quote. 
 The agent you get on the line, the state you are in, and the company will all vary, even for the same driver, vehicle, history etc. But these common factors all have an influence. 
+
 * Which ZIP you're in
 * If you're in a city, electric car insurance is going to cost more
 * Whether it's a used or new electric vehicle
