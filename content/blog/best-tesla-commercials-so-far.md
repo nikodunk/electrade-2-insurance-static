@@ -7,7 +7,7 @@ image: "/img/blog/tesla-commercial-ads.png"
 
 ### Why the shareholder meeting brought ads to the center again
 
-At the shareholder meeting yesterday 3+ shareholders mentioned the amount of disinformation around on the web regarding Tesla, and how maybe it was time to re-think the company's "We don't make ads – happy customers are the best marketing" stance. He even seemed convinced (see the second-last comment question below and especially how Elon seemed convinced). 
+At the shareholder meeting yesterday 3+ shareholders mentioned the amount of disinformation around on the web regarding Tesla, and how maybe it was time to re-think the company's "We don't make ads – happy customers are the best marketing" stance. He even seemed convinced (see the second-last comment question below and especially how Mr. Musk reacted to the final suggestion). 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Va5i42D13cI?start=6534" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
