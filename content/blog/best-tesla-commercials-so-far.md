@@ -21,13 +21,28 @@ This is probably [one of the most publicly known commercials](https://www.usatod
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Sbr_zx0sjUs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+----
+
 ### Nikola Tesla commercial:
+
+Also very popular with 115,000 views on Youtube.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/3pndnueOCrw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+----
 
+
+### Autonomous Possibilities by Troy Nikolic
+Suggested by Reddit user Kerrdawg02 on [Reddit](https://www.reddit.com/r/teslamotors/comments/bzyhdx/best_fanmade_tesla_commercials_and_ads_so_far/), a less known ad that highlights some of Tesla's autonomous features.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/AviBGkm3Bpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+----
 
 ### Project Loveday Winner (MKBHD):
+
+Tesla's fan-made ad competition was called Project Loveday, and had hundreds of entries on Youtube in 2014. There's a full playlist of all competition entries [here](https://www.youtube.com/playlist?list=PL6-KpxT_cAPfpXYPUIWx0NGWXAxyW-BBg).
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/oSnoYEzZnUg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -37,10 +52,17 @@ This is probably [one of the most publicly known commercials](https://www.usatod
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/4y4rhK-OB5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Here's a full playlist of all "Project Loveday" (Tesla's fan-made ad competition) competition entries [here](https://www.youtube.com/playlist?list=PL6-KpxT_cAPfpXYPUIWx0NGWXAxyW-BBg).
 
+-------
+
+### Fireflies
 
 <iframe src="https://player.vimeo.com/video/140983024" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+---------
+
+
 
 Do you have any suggestions? Did we forget one? Let us know at hello@electrade.app. And if you're paying too much or are not satisfied with your electric vehicle insurance, please apply below ⬇️.
 
