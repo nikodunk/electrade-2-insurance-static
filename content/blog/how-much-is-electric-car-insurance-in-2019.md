@@ -21,4 +21,4 @@ Below are real quotes from around the country, and it'll be updated with live qu
 | LA, California | Model 3 LR AWD | $580/ 6 months.  |  Collision and comprehensive @$800 deductible w/ full glass, liability @400/500k. |
 | Miami, Florida | Model S P100D  | $1200/ 6 months. |  Collision and comprehensive @$800 deductible w/ full glass, liability @300/500k. |
 
-This can vary wildly by state, county, marital status, driving history and of course car model. To get a quote from us, please tap the form below and fill out the form in 5 minutes to get a quote!
+This can vary wildly by state, county, marital status, driving history and of course car model. To get a quote from us, please tap the form below and fill out the form in 5 minutes to get a quote.

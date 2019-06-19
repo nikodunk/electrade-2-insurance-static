@@ -2,7 +2,7 @@
 title: "Why the time is right for EV auto insurance specialists"
 date: 2019-06-17
 tags: ["EVs", "Tesla", "insurance"]
-image: "/img/blog/mercedes-ecq-insurance.jpg"
+image: "/img/blog/electric-car-insurance-specialists.jpg"
 ---
 
 
