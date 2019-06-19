@@ -28,3 +28,9 @@ But best insurance company for electric cars is cheaper and better – with bet
 We think the time is right, and that's why we started electrade.
 
 ### Other considerations when buying electric car insurance
+
+
+### Resources
+
+Take a look at some useful resources regarding this matter:
+* 
