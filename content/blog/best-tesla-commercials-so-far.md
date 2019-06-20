@@ -40,6 +40,15 @@ Suggested by Reddit user Kerrdawg02 on [Reddit](https://www.reddit.com/r/teslamo
 
 ----
 
+### Beach Buggy by Tesla Inc.
+
+Arguably not a car ad, Tesla's only self-produced ad shows off their newly-released "Arcade Mode" on their cars. Could this be a sign of Tesla marketing campaigns to come? We hope it is – pretty funny at that!
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ISUaWrOooiE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+----
+
 ### Project Loveday Winner (MKBHD):
 
 Tesla's fan-made ad competition was called Project Loveday, and had hundreds of entries on Youtube in 2014. There's a full playlist of all competition entries [here](https://www.youtube.com/playlist?list=PL6-KpxT_cAPfpXYPUIWx0NGWXAxyW-BBg).
