@@ -28,9 +28,24 @@ But best insurance company for electric cars is cheaper and better – with bet
 We think the time is right, and that's why we started electrade.
 
 ### Other considerations when buying electric car insurance
-
+* Which ZIP you're in
+* If you're in a city, electric car insurance is going to cost more
+* Whether it's a used or new electric vehicle
+* If you bought used, the original purchase price of your car
+* Other things like whether you're married, have a degree, and how your car is financed
+* Your EV model
 
 ### Resources
 
 Take a look at some useful resources regarding this matter:
-* 
+* [AIS's cheapest EV insurance for 2018](http://blog.aisinsurance.com/2018/02/13/10-cheapest-electric-cars-insure/)
+* [Electrade's cheapest EV auto insurance for 2019]()
+* []
+
+### Why electrade is the ultimate EV insurance specialist:
+What happens when you build building better insurance technology around EVs?
+* 30-40% cheaper, 60% of time.
+* 72 hour turn-around for claims.
+* EV only, online only.
+
+For a quote, please fill out the form below or [here](https://electrade.app/quote)
