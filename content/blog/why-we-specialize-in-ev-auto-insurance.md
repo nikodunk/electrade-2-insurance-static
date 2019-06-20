@@ -38,6 +38,7 @@ We think the time is right, and that's why we started electrade.
 ### Resources
 
 Take a look at some useful resources regarding this matter:
+
 * [AIS's cheapest EV insurance for 2018](http://blog.aisinsurance.com/2018/02/13/10-cheapest-electric-cars-insure/)
 * [Electrade's cheapest EV auto insurance for 2019](https://electrade.app/blog/which-evs-are-cheapest-to-insure-2019/)
 * [Tips for finding low EV insurance rates](https://electrade.app/blog/are-electric-cars-more-expensive-to-insure-in-2019/)
