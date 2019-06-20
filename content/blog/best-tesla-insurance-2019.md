@@ -1,5 +1,5 @@
 ---
-title: "Best Tesla Insurance 2019"
+title: "Best Tesla Insurance in 2019 for Model S, Model 3 and Model X"
 date: 2019-06-20
 tags: ["EVs", "Tesla", "insurance"]
 image: "/img/blog/Best-Tesla-Insurance-2019.jpg"
@@ -17,18 +17,8 @@ This is why we started electrade – to break down this barrier to entry for ele
 
 You shouldn't be paying more. You should be paying the same – or less – in 2019.
 
-What happens when you build building better insurance technology around EVs?
+## Our pick: it depends on 3 things...
 
-* 30-40% cheaper, 60% of time.
-* 72 hour turn-around for claims.
-* EV only, online only.
-
-That's what we built in Electrade. Get a quote from our specialists [here](https://electrade.app/quote)
-
-
-## Our top 3 tips are for finding low rates are:
-
-------
 
 ##### 1. Make sure the agents know what they're doing.
 Not everyone knows electric vehicles yet. Know the benefits of insuring an electric vehicle, like better driver-assist features, lower center of gravity, better handling in bad conditions, so far demographically safer drivers, and many other upsides. Factors include:
@@ -75,7 +65,16 @@ The agent you get on the line, the state you are in, and the company will all va
 
 ----
 
-##### Alternatively, we can [do all this for you, for free](https://electrade.app/quote)!
-Implementing the 3 steps above, our agents and technology can shop around all insurance companies available in your area so we can get a better quote for you.
+## Alternatively, we can [do all this for you, for free](https://electrade.app/quote)!
+Implementing the 3 steps above, our technology can find you lower prices and better service.  What happens when you build building better insurance technology around EVs?
+
+* 30-40% cheaper, 60% of time.
+* 72 hour turn-around for claims.
+* EV only, online only.
+
+That's what we built in Electrade. Get a quote from our specialists [here](https://electrade.app/quote)
+
+-----
+
 
 Thank you for reading, and thank you for supporting the electification of transport. ⚡️
