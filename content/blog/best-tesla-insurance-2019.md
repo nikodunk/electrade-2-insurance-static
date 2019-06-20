@@ -9,13 +9,22 @@ image: "/img/blog/Best-Tesla-Insurance-2019.jpg"
 
 Many freshly-minted Tesla owners are getting quotes that are way higher than for similarly-valued ICE cars, while others are getting quotes that are lower. This seems strange to us. So is Tesla's auto insurance more expensive than similarly-priced gas cars?
 
-##### In a word – no. In 2019 they cost the same or less to insure. 
+##### So... are they more expensive to insure?
 
-The partially higher quotes is because they are still a "new" phenomenon for mainstream auto insurance companies and many agents at insurance companies don't YET know how to properly value them. There is nothing inherently more expensive about electric cars to insure. In fact, they are often and should also be [cheaper](https://electrade.app/blog/why-electric-vehicle-insurance/).
+In a word – no. In 2019 they cost the same or less to insure. They cost the same as any other vehicle in their price range to insure, and often way less. The partially higher quotes is because they are still a "new" phenomenon for mainstream auto insurance companies and many agents at insurance companies don't YET know how to properly value them. There is nothing inherently more expensive about electric cars to insure. In fact, they are often and should also be [cheaper](https://electrade.app/blog/why-electric-vehicle-insurance/).
 
 This is why we started electrade – to break down this barrier to entry for electric car adoption even further. More [here](https://electrade.app/why-electrade). We make it easier to find cheaper insurance for your electric car with our by being the first EV-only insurance service. If you want to shop around on your own however, please find below our top 3 pieces of advice we've learned in the field.
 
 You shouldn't be paying more. You should be paying the same – or less – in 2019.
+
+What happens when you build building better insurance technology around EVs?
+
+* 30-40% cheaper, 60% of time.
+* 72 hour turn-around for claims.
+* EV only, online only.
+
+That's what we built in Electrade. Get a quote from our specialists [here](https://electrade.app/quote)
+
 
 ## Our top 3 tips are for finding low rates are:
 
