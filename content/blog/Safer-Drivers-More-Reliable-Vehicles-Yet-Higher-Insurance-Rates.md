@@ -24,11 +24,14 @@ This is exactly why Elon Musk, Chief Executive of Tesla announced back in April 
 
 Whether Tesla or Berkshire Hathaway, as more data becomes available in this space, the insurance premiums will go down, but in the meantime, EV owners are paying a penalty for their intent to save the world. 
 
+##### Outlook
+
 While we are waiting for an industry giant to emerge and save the day, companies like [Electrade](https://electrade.app) are here to work hand-in-hand with insurance carriers and brokers to help EV owners enjoy the same insurance rates that all other drivers are entitled to. 
 
 Get a quote by clicking on the button below or [click here to find out why we're different](https://electrade.app).
 
-Further reading: 
+
+###### Further reading: 
 
 * https://www.herrmanandherrman.com/blog/what-does-new-data-reveal-about-link-between-income-levels-and-car-accidents/
 * https://hedgescompany.com/blog/2018/11/tesla-owner-demographics/
