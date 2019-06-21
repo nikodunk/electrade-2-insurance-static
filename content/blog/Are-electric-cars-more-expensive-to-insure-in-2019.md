@@ -5,11 +5,11 @@ tags: ["EVs", "Tesla", "insurance", "California"]
 image: "/img/blog/tesla-model-s-2019-insurance.jpg"
 ---
 
+##### Thinking of buying an EV but not sure about car insurance costs? Take a look at our overview below (and top tips to help you find the best deal).
 
+Many freshly-minted or experienced EV owners are getting quotes that are way higher than for similarly-valued ICE cars, while others are getting quotes that are way lower. So is electric cars' auto insurance more expensive than similarly-priced gas cars?
 
-Many freshly-minted or experienced EV owners are getting quotes that are way higher than for similarly-valued ICE cars, while others are getting quotes that are lower. So is electric cars' auto insurance more expensive than similarly-priced gas cars?
-
-##### In a word – no. In 2019 they cost the same or less to insure. 
+##### The answer is no – they're cheaper to insure. In 2019 they cost the same or less to insure. 
 
 The partially higher quotes is because they are still a "new" phenomenon for mainstream auto insurance companies and many agents at insurance companies don't YET know how to properly value them. There is nothing inherently more expensive about electric cars to insure. In fact, they are often and should also be [cheaper](https://electrade.app/blog/why-electric-vehicle-insurance/).
 

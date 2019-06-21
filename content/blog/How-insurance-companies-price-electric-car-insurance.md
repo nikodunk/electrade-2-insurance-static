@@ -5,6 +5,7 @@ tags: ["EVs", "Tesla", "insurance", "electric car"]
 image: "/img/blog/hyundai-kona-ev-2020-insurance.jpg"
 ---
 
+##### Just bought a new electric car and need to get car insurance? Take a look at our top tips to help you find the best deal.
 
 We often get asked how insurance companies price electric car (or any automobile) insurance policies. They don't invent the numbers, but go down a predefined checklist. Don't forget the following items when you're looking for a good quote on your electric car insurance, and bring these points along to any negotiation with an agent. 
 
@@ -35,3 +36,4 @@ Certain brands, and models (SUV, Sedan, Crossover) are more expensive to insure.
 * Shop around – the more offers the better.
 * Skew towards newer insurance companies like [Metromile](https://metromile.com), [Electrade](https://electrade.app), and other apps that take driving style into account. They are more likely to understand and have thought about how EVs will be priced differently from traditional cars.
 * Mention the [safety features](https://electrade.app/blog/why-electric-vehicle-insurance/) of your new EV to the insurers when getting a quote.
+* Find a full list of auto insurance companies to call [here]()

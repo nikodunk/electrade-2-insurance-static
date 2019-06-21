@@ -75,4 +75,16 @@ Tesla's fan-made ad competition was called Project Loveday, and had hundreds of 
 
 Do you have any suggestions? Did we forget one? Let us know at hello@electrade.app. And if you're paying too much or are not satisfied with your electric vehicle insurance, please apply below ⬇️.
 
+
+
+### Further reading for Electric Vehicle Insurance:
+
+* [Electrade's cheapest EVs to insure 2019](https://electrade.app/blog/which-evs-are-cheapest-to-insure-2019/)
+* [Tips for finding low EV insurance rates](https://electrade.app/blog/are-electric-cars-more-expensive-to-insure-in-2019/)
+* [Cheapest Electric Vehicle auto insurance companies for 2018](https://electrade.app/blog/best-electric-auto-insurance-companies-in-2019/)
+
+
+
+-----
+
 Thank you for reading, and thank you for being part of the EV revolution! ⚡️

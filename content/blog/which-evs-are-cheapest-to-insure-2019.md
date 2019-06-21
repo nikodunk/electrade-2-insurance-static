@@ -34,7 +34,25 @@ The funky Soul EV keeps the utility of the gas-powered Soul, and adds a host of 
 ### 1. Fiat 500e
 The FIAT 500e is an eco-chic vehicle in the modern world, says the company website. This electric car is part fun, part beautiful design, and all electric. The price is very affordable from $16,495, making it the winner on our list of cheapest cars to insure in California in 2019!
 
+
+----------
+
+
 Note: we are not including discontinued EVs like Mitsubishi i-MiEV, Ford Focus Electric, Smart Fortwo Electric Drive, as they're not longer actively being sold. 
+
+----------
+
+For reasons EVs generally costing less to insure, check out these resources:
+
+* [AIS's cheapest EV insurance for 2018](http://blog.aisinsurance.com/2018/02/13/10-cheapest-electric-cars-insure/)
+* [Electrade's cheapest EVs to insure 2019](https://electrade.app/blog/which-evs-are-cheapest-to-insure-2019/)
+* [Tips for finding low EV insurance rates](https://electrade.app/blog/are-electric-cars-more-expensive-to-insure-in-2019/)
+* [Cheapest EV auto insurance companies for 2018](https://electrade.app/blog/best-electric-auto-insurance-companies-in-2019/)
+
+----------
+
+
+If you're looking for EV insurance, please consider Electrade – the EV insurance specialist – and get a quote below 👇.
 
 -------
 
