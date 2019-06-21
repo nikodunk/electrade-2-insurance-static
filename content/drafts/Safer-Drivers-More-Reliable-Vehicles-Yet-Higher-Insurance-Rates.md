@@ -26,8 +26,13 @@ While we are waiting for an industry giant to emerge and save the day, companies
 
 
 
-Links: 
+Further reading: 
+* https://www.herrmanandherrman.com/blog/what-does-new-data-reveal-about-link-between-income-levels-and-car-accidents/
+* https://hedgescompany.com/blog/2018/11/tesla-owner-demographics/
 
-https://www.herrmanandherrman.com/blog/what-does-new-data-reveal-about-link-between-income-levels-and-car-accidents/
 
-https://hedgescompany.com/blog/2018/11/tesla-owner-demographics/
+
+
+-------
+
+Thank you for reading, and thank you for being part of the electification of transport. ⚡️

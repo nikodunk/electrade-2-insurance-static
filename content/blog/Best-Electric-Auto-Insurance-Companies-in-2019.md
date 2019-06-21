@@ -55,5 +55,6 @@ Below, we've compiled a list of auto insurance companies to get a quote from if 
 
 If you know any companies that are missing or have suggestions on how to improve it, please send them to [hello@electrade.app](mailto:hello@electrade.app). 
 
+-----
 
 Thank you for reading, and thank you for supporting the electification of transport. ⚡️

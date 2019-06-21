@@ -32,3 +32,8 @@ These are the reasons we started Electrade. We don't think EV owners should be p
 
 ## Next Steps
 Get a quote below [here](https://electrade.app/quote) to talk to insurers who already understand the vehicles of the future.
+
+
+-------
+
+Thank you for reading, and thank you for being part of the electification of transport. ⚡️

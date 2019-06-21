@@ -61,4 +61,4 @@ For a quote, please fill out the form below or [here](https://electrade.app/quot
 
 -------
 
-Thank you for reading, and thank you for supporting the electification of transport. ⚡️
+Thank you for reading, and thank you for being part of the electification of transport. ⚡️

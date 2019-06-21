@@ -69,4 +69,8 @@ The agent you get on the line, the state you are in, and the company will all va
 ##### Alternatively, we can [do all this for you, for free](https://electrade.app/quote)!
 Implementing the 3 steps above, our agents and technology can shop around all insurance companies available in your area so we can get a better quote for you.
 
+
+--------
+
+
 Thank you for reading, and thank you for supporting the electification of transport. ⚡️
