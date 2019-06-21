@@ -29,6 +29,7 @@ While we are waiting for an industry giant to emerge and save the day, companies
 Get a quote by clicking on the button below or [click here to find out why we're different](https://electrade.app).
 
 Further reading: 
+
 * https://www.herrmanandherrman.com/blog/what-does-new-data-reveal-about-link-between-income-levels-and-car-accidents/
 * https://hedgescompany.com/blog/2018/11/tesla-owner-demographics/
 
