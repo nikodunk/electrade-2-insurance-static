@@ -1,10 +1,10 @@
 ---
-title: "Safer Drives, More Reliable Vehicles, Yet Higher Insurance Rates?"
+title: "Safer Drivers, More Reliable Vehicles, Yet Higher Insurance Rates?"
 date: 2019-06-21
 tags: ["EVs", "Tesla", "insurance", "California"]
 image: "/img/blog/tesla-model-3-insurance.jpg"
 ---
-By: Armin Monajemi
+Author – Armin Monajemi
 
 Day after day I hear from my Electric Vehicle owner friends that after the initial costs of acquisition, insurance is the costliest part of EV ownership. On average according to last year’s data, EV premiums are about 19% higher than the national average for similar gas powered vehicles. The main reason behind this gap seems to be the unfamiliarity of the insurers with the EV world. The limited data around electric vehicle drivers show that the EV owners actually tend to be safer drivers than the average gas engine vehicle driver. 
 
