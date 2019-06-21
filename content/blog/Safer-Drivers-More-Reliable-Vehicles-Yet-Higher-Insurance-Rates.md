@@ -2,7 +2,7 @@
 title: "Electric Vehicles Have Safer Drivers, More Reliable Vehicles – Yet Higher Insurance Rates?"
 date: 2019-06-21
 tags: ["EVs", "Tesla", "insurance", "California", "electric", "vehicles"]
-image: "/img/blog/tesla-model-3-insurance.jpg"
+image: "/img/blog/Electric Vehicles Have Safer Drivers-More-Reliable-Vehicles-Yet-Higher-Insurance-Rates.jpg"
 ---
 Author – Armin Monajemi
 
