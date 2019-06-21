@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://electrade.app/drafts/the-auto-insurers-of-the-future/</loc>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://electrade.app/blog/best-tesla-insurance-2019/</loc>
     <lastmod>2019-06-20T00:00:00+00:00</lastmod>
   </url>
@@ -60,12 +65,18 @@
   
   <url>
     <loc>https://electrade.app/tags/california/</loc>
-    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://electrade.app/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://electrade.app/drafts/</loc>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,7 +93,7 @@
   
   <url>
     <loc>https://electrade.app/tags/evs/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -92,12 +103,12 @@
   
   <url>
     <loc>https://electrade.app/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://electrade.app/tags/insurance/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -117,7 +128,7 @@
   
   <url>
     <loc>https://electrade.app/tags/tesla/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
